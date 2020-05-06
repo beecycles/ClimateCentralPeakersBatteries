@@ -1,0 +1,738 @@
+"","OperatorName","PlantName","PlantState","County","OperatorID","PlantID","GeneratorID","UniqueID","NetGeneration2018","NameplateCapacityMW","Technology","EnergySource1","Status","OperatingMonth","OperatingYear","PlannedRetirementMonth","PlannedRetirementYear","CapacityFactor"
+"1","Alabama Power Co","Barry","AL","Mobile",195,3,"1","195 3 1",23392,153.1,"Natural Gas Steam Turbine","NG","OP",2,1954,NA,NA,1.74416697237309
+"2","Alabama Power Co","Barry","AL","Mobile",195,3,"2","195 3 2",23814,153.1,"Natural Gas Steam Turbine","NG","OP",7,1954,NA,NA,1.77563236491504
+"12","Alabama Power Co","Gadsden","AL","Etowah",195,7,"2","195 7 2",32307,69,"Natural Gas Steam Turbine","NG","OP",7,1949,NA,NA,5.34494738931904
+"24","PowerSouth Energy Cooperative","Charles R Lowman","AL","Washington",189,56,"1","189 56 1",13858,66,"Conventional Steam Coal","BIT","OP",6,1969,10,2020,2.39691434896914
+"44","Arizona Public Service Co","West Phoenix","AZ","Maricopa",803,117,"C4-2","803 117 C4-2",0,44.6,"Natural Gas Fired Combined Cycle","NG","OP",6,2001,NA,NA,0
+"55","South Carolina Public Service Authority","Cross","SC","Berkeley",17543,130,"2","17543 130 2",107124,556.2,"Conventional Steam Coal","RC","OP",5,1984,NA,NA,2.19862767408984
+"60","Salt River Project","Agua Fria","AZ","Maricopa",16572,141,"AF1","16572 141 AF1",40147,113.6,"Natural Gas Steam Turbine","NG","OP",1,1958,NA,NA,4.0343229468133
+"61","Salt River Project","Agua Fria","AZ","Maricopa",16572,141,"AF2","16572 141 AF2",36229,113.6,"Natural Gas Steam Turbine","NG","OP",4,1957,NA,NA,3.64060791690784
+"62","Salt River Project","Agua Fria","AZ","Maricopa",16572,141,"AF3","16572 141 AF3",68036,163.2,"Natural Gas Steam Turbine","NG","OP",4,1961,NA,NA,4.75898692810457
+"69","Grand River Dam Authority","GREC","OK","Mayes",7490,165,"2","7490 165 2",421889,594,"Conventional Steam Coal","SUB","OP",10,1985,NA,NA,8.10788632135664
+"72","Entergy Arkansas LLC","Lake Catherine","AR","Hot Spring",814,170,"4","814 170 4",289084,552.5,"Natural Gas Steam Turbine","NG","OP",4,1970,6,2025,5.9729333250687
+"75","Arkansas Electric Coop Corp","Carl Bailey","AR","Woodruff",807,202,"1","807 202 1",14199,120,"Natural Gas Steam Turbine","NG","OP",7,1966,NA,NA,1.35074200913242
+"76","Arkansas Electric Coop Corp","McClellan (AR)","AR","Ouachita",807,203,"1","807 203 1",61046,136,"Natural Gas Steam Turbine","NG","OP",5,1972,NA,NA,5.12405989793178
+"94","AES Alamitos LLC","AES Alamitos LLC","CA","Los Angeles",22148,315,"1","22148 315 1",31671,156,"Natural Gas Steam Turbine","NG","OP",9,1956,12,2019,2.31757112750263
+"95","AES Alamitos LLC","AES Alamitos LLC","CA","Los Angeles",22148,315,"2","22148 315 2",87215,156,"Natural Gas Steam Turbine","NG","OP",2,1957,12,2019,6.38208347968622
+"98","AES Alamitos LLC","AES Alamitos LLC","CA","Los Angeles",22148,315,"5","22148 315 5",126817,495,"Natural Gas Steam Turbine","NG","OP",3,1964,12,2020,2.92461141091278
+"99","AES Alamitos LLC","AES Alamitos LLC","CA","Los Angeles",22148,315,"6","22148 315 6",152491,495,"Natural Gas Steam Turbine","NG","OP",9,1966,12,2019,3.51669664683363
+"102","AES Huntington Beach LLC","AES Huntington Beach LLC","CA","Orange",23693,335,"1","23693 335 1",187077,218,"Natural Gas Steam Turbine","NG","OP",6,1958,12,2019,9.79624858615056
+"103","AES Huntington Beach LLC","AES Huntington Beach LLC","CA","Orange",23693,335,"2","23693 335 2",132445,218,"Natural Gas Steam Turbine","NG","OP",12,1958,12,2020,6.93545515479033
+"106","GenOn California South, LP","Ormond Beach","CA","Ventura",15908,350,"1","15908 350 1",94180,806,"Natural Gas Steam Turbine","NG","OP",8,1971,1,2021,1.33388853008827
+"107","GenOn California South, LP","Ormond Beach","CA","Ventura",15908,350,"2","15908 350 2",91835,806,"Natural Gas Steam Turbine","NG","OP",3,1973,1,2021,1.30067586707003
+"108","AES Redondo Beach LLC","AES Redondo Beach LLC","CA","Los Angeles",22484,356,"5","22484 356 5",28797,163.2,"Natural Gas Steam Turbine","NG","OP",10,1954,12,2020,2.01429458769809
+"109","AES Redondo Beach LLC","AES Redondo Beach LLC","CA","Los Angeles",22484,356,"6","22484 356 6",25473,163.2,"Natural Gas Steam Turbine","NG","OP",7,1957,12,2020,1.78178720118184
+"110","AES Redondo Beach LLC","AES Redondo Beach LLC","CA","Los Angeles",22484,356,"7","22484 356 7",97373,495,"Natural Gas Steam Turbine","NG","OP",2,1967,10,2019,2.24558369078917
+"111","AES Redondo Beach LLC","AES Redondo Beach LLC","CA","Los Angeles",22484,356,"8","22484 356 8",122864,495,"Natural Gas Steam Turbine","NG","OP",7,1967,12,2020,2.83344864166782
+"118","City of Glendale - (CA)","Grayson","CA","Los Angeles",7294,377,"1","7294 377 1",97,20,"Natural Gas Fired Combined Cycle","NG","OP",7,1977,NA,NA,0.055365296803653
+"119","City of Glendale - (CA)","Grayson","CA","Los Angeles",7294,377,"2","7294 377 2",923,20,"Natural Gas Fired Combined Cycle","NG","OP",7,1977,NA,NA,0.526826484018265
+"120","City of Glendale - (CA)","Grayson","CA","Los Angeles",7294,377,"3","7294 377 3",0,23,"Landfill Gas","LFG","OP",12,1953,NA,NA,0
+"123","City of Glendale - (CA)","Grayson","CA","Los Angeles",7294,377,"8A","7294 377 8A",0,25.4,"Natural Gas Fired Combined Cycle","NG","OP",7,1977,NA,NA,0
+"124","City of Glendale - (CA)","Grayson","CA","Los Angeles",7294,377,"8BC","7294 377 8BC",2280,55.1,"Natural Gas Fired Combined Cycle","NG","OP",7,1977,NA,NA,0.472366556447803
+"125","Midwest Generations EME LLC","Joliet 29","IL","Will",12384,384,"7","12384 384 7",306605,660,"Natural Gas Steam Turbine","NG","OP",4,1965,NA,NA,5.30311678428117
+"126","Midwest Generations EME LLC","Joliet 29","IL","Will",12384,384,"8","12384 384 8",321847,660,"Natural Gas Steam Turbine","NG","OP",3,1966,NA,NA,5.56674622941746
+"128","Imperial Irrigation District","El Centro Hybrid","CA","Imperial",9216,389,"4","9216 389 4",1831,81.6,"Natural Gas Steam Turbine","NG","OP",8,1968,NA,NA,0.256149834362969
+"133","Los Angeles Department of Water & Power","Harbor","CA","Los Angeles",11208,399,"5","11208 399 5",8073,75,"Natural Gas Fired Combined Cycle","NG","OP",1,1995,NA,NA,1.22876712328767
+"134","Los Angeles Department of Water & Power","Harbor","CA","Los Angeles",11208,399,"10A","11208 399 10A",9934,85.3,"Natural Gas Fired Combined Cycle","NG","OP",1,1995,NA,NA,1.32944696933198
+"135","Los Angeles Department of Water & Power","Harbor","CA","Los Angeles",11208,399,"10B","11208 399 10B",11008,85.3,"Natural Gas Fired Combined Cycle","NG","OP",1,1995,NA,NA,1.47317819996039
+"136","Los Angeles Department of Water & Power","Haynes","CA","Los Angeles",11208,400,"1","11208 400 1",40840,230,"Natural Gas Steam Turbine","NG","OP",9,1962,NA,NA,2.02700019853087
+"137","Los Angeles Department of Water & Power","Haynes","CA","Los Angeles",11208,400,"2","11208 400 2",29640,230,"Natural Gas Steam Turbine","NG","OP",4,1963,NA,NA,1.4711137581894
+"141","Los Angeles Department of Water & Power","Scattergood","CA","Los Angeles",11208,404,"1","11208 404 1",72866,163.2,"Natural Gas Steam Turbine","NG","OP",12,1958,12,2024,5.09683610887277
+"142","Los Angeles Department of Water & Power","Scattergood","CA","Los Angeles",11208,404,"2","11208 404 2",39364,163.2,"Natural Gas Steam Turbine","NG","OP",7,1959,12,2024,2.75343584922553
+"148","City of Pasadena - (CA)","Glenarm","CA","Los Angeles",14534,422,"GT5","14534 422 GT5",30634,71,"Natural Gas Fired Combined Cycle","NG","OP",12,2016,NA,NA,4.92539713164834
+"149","City of Pasadena - (CA)","Glenarm","CA","Los Angeles",14534,422,"ST1","14534 422 ST1",6844,16,"Natural Gas Fired Combined Cycle","NG","OP",12,2016,NA,NA,4.88299086757991
+"160","City of Colorado Springs - (CO)","George Birdsall","CO","El Paso",3989,493,"1","3989 493 1",1569,17.3,"Natural Gas Steam Turbine","NG","OP",8,1953,NA,NA,1.03531554359015
+"161","City of Colorado Springs - (CO)","George Birdsall","CO","El Paso",3989,493,"2","3989 493 2",1225,18.8,"Natural Gas Steam Turbine","NG","OP",3,1954,NA,NA,0.743830758768095
+"162","City of Colorado Springs - (CO)","George Birdsall","CO","El Paso",3989,493,"3","3989 493 3",1190,25,"Natural Gas Steam Turbine","NG","OP",3,1957,NA,NA,0.54337899543379
+"166","Tri-State G & T Assn, Inc","Nucla","CO","Montrose",30151,527,"1","30151 527 1",6526,11.5,"Conventional Steam Coal","BIT","OP",11,1959,12,2022,6.47806233869367
+"167","Tri-State G & T Assn, Inc","Nucla","CO","Montrose",30151,527,"2","30151 527 2",6061,11.5,"Conventional Steam Coal","BIT","OP",11,1959,12,2022,6.01647806233869
+"168","Tri-State G & T Assn, Inc","Nucla","CO","Montrose",30151,527,"3","30151 527 3",5990,11.5,"Conventional Steam Coal","BIT","OP",11,1959,12,2022,5.94599960293826
+"169","Tri-State G & T Assn, Inc","Nucla","CO","Montrose",30151,527,"ST4","30151 527 ST4",42976,79.3,"Conventional Steam Coal","BIT","OP",1,1991,12,2022,6.18655242504333
+"177","NRG Montville Operations Inc","Montville Station","CT","New London",22380,546,"5","22380 546 5",23077,75,"Petroleum Liquids","RFO","OP",1,1954,NA,NA,3.51248097412481
+"178","NRG Montville Operations Inc","Montville Station","CT","New London",22380,546,"6","22380 546 6",52379,414.9,"Petroleum Liquids","RFO","OP",1,1971,NA,NA,1.44115157858361
+"182","Middletown Power LLC","Middletown","CT","Middlesex",12490,562,"4","12490 562 4",37263,414.9,"Petroleum Liquids","RFO","OP",5,1973,NA,NA,1.02525117456921
+"187","PSEG Power Connecticut LLC","Bridgeport Station","CT","Fairfield",15452,568,"3","15452 568 3",332754,400,"Conventional Steam Coal","SUB","OP",8,1968,6,2021,9.49640410958904
+"189","Calpine Mid-Atlantic Generation LLC","Edge Moor","DE","New Castle",56609,593,"3","56609 593 3",37298,75,"Natural Gas Steam Turbine","NG","OP",12,1954,NA,NA,5.67701674277017
+"190","Calpine Mid-Atlantic Generation LLC","Edge Moor","DE","New Castle",56609,593,"4","56609 593 4",67088,176.8,"Natural Gas Steam Turbine","NG","OP",4,1966,NA,NA,4.33170106820389
+"191","Calpine Mid-Atlantic Generation LLC","Edge Moor","DE","New Castle",56609,593,"5","56609 593 5",208513,446,"Natural Gas Steam Turbine","NG","OP",8,1973,NA,NA,5.3369627536499
+"192","Indian River Operations Inc","Indian River Generating Station","DE","Sussex",9332,594,"4","9332 594 4",278641,445.5,"Conventional Steam Coal","BIT","OP",10,1980,NA,NA,7.13991769547325
+"195","NAES Corporation - (DE)","McKee Run","DE","Kent",54899,599,"3","54899 599 3",28704,113.6,"Natural Gas Steam Turbine","NG","OP",5,1975,NA,NA,2.88442986687247
+"246","Duke Energy Florida, LLC","Crystal River","FL","Citrus",6455,628,"1GTB","6455 628 1GTB",251709,310.3,"Natural Gas Fired Combined Cycle","NG","OP",10,2018,NA,NA,9.26003999664487
+"247","Duke Energy Florida, LLC","Crystal River","FL","Citrus",6455,628,"2GTA","6455 628 2GTA",187244,310.3,"Natural Gas Fired Combined Cycle","NG","OP",11,2018,NA,NA,6.88845821616141
+"248","Duke Energy Florida, LLC","Crystal River","FL","Citrus",6455,628,"2GTB","6455 628 2GTB",169112,310.3,"Natural Gas Fired Combined Cycle","NG","OP",11,2018,NA,NA,6.22140600420568
+"249","Duke Energy Florida, LLC","Crystal River","FL","Citrus",6455,628,"CC1ST","6455 628 CC1ST",292416,364.7,"Natural Gas Fired Combined Cycle","NG","OP",10,2018,NA,NA,9.15295363800609
+"250","Duke Energy Florida, LLC","Crystal River","FL","Citrus",6455,628,"CC2ST","6455 628 CC2ST",162953,364.7,"Natural Gas Fired Combined Cycle","NG","OP",11,2018,NA,NA,5.10061437874127
+"274","City of Lake Worth - (FL)","Tom G Smith","FL","Palm Beach",10620,673,"S3","10620 673 S3",4211,26.5,"Natural Gas Steam Turbine","NG","OP",11,1967,NA,NA,1.81399155681916
+"275","City of Lake Worth - (FL)","Tom G Smith","FL","Palm Beach",10620,673,"S5","10620 673 S5",1069,10,"Natural Gas Fired Combined Cycle","NG","OP",3,1978,NA,NA,1.2203196347032
+"276","City of Lake Worth - (FL)","Tom G Smith","FL","Palm Beach",10620,673,"GT2","10620 673 GT2",5998,21.4,"Natural Gas Fired Combined Cycle","NG","OP",3,1978,NA,NA,3.19954764648146
+"277","City of Lakeland - (FL)","Larsen Memorial","FL","Polk",10623,675,"5","10623 675 5",20561,25,"Natural Gas Fired Combined Cycle","NG","OP",4,1956,NA,NA,9.38858447488584
+"278","City of Lakeland - (FL)","Larsen Memorial","FL","Polk",10623,675,"8","10623 675 8",61310,86.2,"Natural Gas Fired Combined Cycle","NG","OP",7,1992,NA,NA,8.11932534511437
+"282","City of Lakeland - (FL)","C D McIntosh Jr","FL","Polk",10623,676,"ST2","10623 676 ST2",0,126,"Natural Gas Steam Turbine","NG","OP",6,1976,NA,NA,0
+"292","Georgia Power Co","Hammond","GA","Floyd",7140,708,"1","7140 708 1",4000,125,"Conventional Steam Coal","BIT","OP",6,1954,7,2019,0.365296803652968
+"293","Georgia Power Co","Hammond","GA","Floyd",7140,708,"2","7140 708 2",17649,125,"Conventional Steam Coal","BIT","OP",9,1954,7,2019,1.61178082191781
+"294","Georgia Power Co","Hammond","GA","Floyd",7140,708,"3","7140 708 3",18342,125,"Conventional Steam Coal","BIT","OP",6,1955,7,2019,1.67506849315068
+"295","Georgia Power Co","Hammond","GA","Floyd",7140,708,"4","7140 708 4",141390,578,"Conventional Steam Coal","BIT","OP",12,1970,7,2019,2.79245864340902
+"307","Crisp County Power Comm","Crisp Plant","GA","Worth",4538,753,"1","4538 753 1",29,12.5,"Natural Gas Steam Turbine","NG","OP",6,1957,NA,NA,0.0264840182648402
+"308","Oklahoma Municipal Power Authority","Ponca","OK","Kay",14077,762,"2","14077 762 2",0,48,"Natural Gas Steam Turbine","NG","OP",10,1977,NA,NA,0
+"315","Hawaiian Electric Co Inc","Waiau","HI","Honolulu",19547,766,"W3","19547 766 W3",18145,50,"Petroleum Liquids","RFO","OP",12,1947,NA,NA,4.14269406392694
+"316","Hawaiian Electric Co Inc","Waiau","HI","Honolulu",19547,766,"W4","19547 766 W4",18868,50,"Petroleum Liquids","RFO","OP",10,1950,NA,NA,4.30776255707763
+"329","Mainline Generation LLC","Grand Tower Energy Center LLC","IL","Jackson",59371,862,"3","59371 862 3",0,80.9,"Natural Gas Fired Combined Cycle","NG","OP",3,1951,NA,NA,0
+"330","Mainline Generation LLC","Grand Tower Energy Center LLC","IL","Jackson",59371,862,"4","59371 862 4",0,113.6,"Natural Gas Fired Combined Cycle","NG","OP",4,1958,NA,NA,0
+"347","Dynegy Midwest Generation Inc","Baldwin Energy Complex","IL","Randolph",5517,889,"3","5517 889 3",0,634.5,"Conventional Steam Coal","RC","OS",4,1975,NA,NA,0
+"355","Village of Winnetka - (IL)","Winnetka","IL","Cook",20824,972,"4","20824 972 4",1187,9.4,"Natural Gas Steam Turbine","NG","OP",1,1953,NA,NA,1.44151365005343
+"356","Village of Winnetka - (IL)","Winnetka","IL","Cook",20824,972,"6","20824 972 6",815,6.3,"Natural Gas Steam Turbine","NG","OP",1,1948,NA,NA,1.47677031238675
+"357","Village of Winnetka - (IL)","Winnetka","IL","Cook",20824,972,"7","20824 972 7",1750,12.5,"Natural Gas Steam Turbine","NG","OP",1,1960,NA,NA,1.59817351598174
+"369","Indianapolis Power & Light Co","Harding Street","IN","Marion",9273,990,"6","9273 990 6",82264,100,"Natural Gas Steam Turbine","NG","OP",5,1961,NA,NA,9.39086757990868
+"374","Citizens Thermal Energy","CC Perry K","IN","Marion",3599,992,"4","3599 992 4",0,15,"Natural Gas Steam Turbine","NG","OS",1,1925,NA,NA,0
+"390","Duke Energy Indiana, LLC","Noblesville","IN","Hamilton",15470,1007,"1","15470 1007 1",0,50,"Natural Gas Fired Combined Cycle","NG","OP",12,1950,NA,NA,0
+"391","Duke Energy Indiana, LLC","Noblesville","IN","Hamilton",15470,1007,"2","15470 1007 2",0,50,"Natural Gas Fired Combined Cycle","NG","OP",9,1950,NA,NA,0
+"396","Duke Energy Indiana, LLC","R Gallagher","IN","Floyd",15470,1008,"4","15470 1008 4",113576,150,"Conventional Steam Coal","BIT","OP",3,1961,12,2022,8.64353120243531
+"399","Fayetteville Public Works Commission","Butler-Warner Generation Plant","NC","Cumberland",6235,1016,"1","6235 1016 1",7191,28.8,"Natural Gas Fired Combined Cycle","NG","OP",12,1976,NA,NA,2.85031392694064
+"400","Fayetteville Public Works Commission","Butler-Warner Generation Plant","NC","Cumberland",6235,1016,"2","6235 1016 2",6602,28.8,"Natural Gas Fired Combined Cycle","NG","OP",12,1976,NA,NA,2.61685058346017
+"401","Fayetteville Public Works Commission","Butler-Warner Generation Plant","NC","Cumberland",6235,1016,"3","6235 1016 3",7983,28.8,"Natural Gas Fired Combined Cycle","NG","OP",7,1976,NA,NA,3.16424086757991
+"402","Fayetteville Public Works Commission","Butler-Warner Generation Plant","NC","Cumberland",6235,1016,"6","6235 1016 6",7814,28.8,"Natural Gas Fired Combined Cycle","NG","OP",6,1978,NA,NA,3.09725393201421
+"403","Fayetteville Public Works Commission","Butler-Warner Generation Plant","NC","Cumberland",6235,1016,"7","6235 1016 7",8063,28.8,"Natural Gas Fired Combined Cycle","NG","OP",6,1979,NA,NA,3.19595065956367
+"404","Fayetteville Public Works Commission","Butler-Warner Generation Plant","NC","Cumberland",6235,1016,"8","6235 1016 8",8719,28.8,"Natural Gas Fired Combined Cycle","NG","OP",5,1980,NA,NA,3.45597095383054
+"405","Fayetteville Public Works Commission","Butler-Warner Generation Plant","NC","Cumberland",6235,1016,"9","6235 1016 9",12282,73,"Natural Gas Fired Combined Cycle","NG","OP",12,1988,NA,NA,1.92062300619253
+"406","Crawfordsville Energy LLC","Crawfordsville Power Plant","IN","Montgomery",59774,1024,"4","59774 1024 4",0,11.5,"Conventional Steam Coal","BIT","SB",1,1955,NA,NA,0
+"407","Crawfordsville Energy LLC","Crawfordsville Power Plant","IN","Montgomery",59774,1024,"5","59774 1024 5",0,12.6,"Conventional Steam Coal","BIT","SB",1,1965,NA,NA,0
+"408","City of Richmond - (IN)","Whitewater Valley","IN","Wayne",15989,1040,"1","15989 1040 1",12155,33,"Conventional Steam Coal","BIT","OP",3,1955,NA,NA,4.20471841704718
+"409","City of Richmond - (IN)","Whitewater Valley","IN","Wayne",15989,1040,"2","15989 1040 2",28937,60.9,"Conventional Steam Coal","BIT","OP",8,1973,NA,NA,5.42415517616273
+"413","Interstate Power and Light Co","Prairie Creek","IA","Linn",9417,1073,"3","9417 1073 3",14009,50,"Conventional Steam Coal","SUB","OP",10,1958,12,2025,3.19840182648402
+"414","Interstate Power and Light Co","Prairie Creek","IA","Linn",9417,1073,"4","9417 1073 4",51830,148.8,"Natural Gas Steam Turbine","NG","OP",4,1967,NA,NA,3.97625448028674
+"420","City of Ames - (IA)","Ames Electric Services Power Plant","IA","Story",554,1122,"7","554 1122 7",596,37.5,"Natural Gas Steam Turbine","NG","OP",5,1968,NA,NA,0.181430745814307
+"423","Cedar Falls Utilities","Streeter Station","IA","Black Hawk",3203,1131,"7","3203 1131 7",2888,35,"Natural Gas Steam Turbine","NG","OP",6,1973,NA,NA,0.94194390084801
+"428","Central Iowa Power Cooperative","Summit Lake","IA","Union",3258,1206,"1","3258 1206 1",1074,7.5,"Natural Gas Fired Combined Cycle","NG","OP",3,1951,1,2021,1.63470319634703
+"429","Central Iowa Power Cooperative","Summit Lake","IA","Union",3258,1206,"2","3258 1206 2",1017,7.5,"Natural Gas Fired Combined Cycle","NG","OP",3,1951,1,2021,1.54794520547945
+"430","Central Iowa Power Cooperative","Summit Lake","IA","Union",3258,1206,"3","3258 1206 3",104,7.5,"Natural Gas Fired Combined Cycle","NG","OP",10,1957,1,2021,0.158295281582953
+"431","Central Iowa Power Cooperative","Summit Lake","IA","Union",3258,1206,"GT1","3258 1206 GT1",1843,27,"Natural Gas Fired Combined Cycle","NG","OP",7,1973,NA,NA,0.779215288347708
+"432","Central Iowa Power Cooperative","Summit Lake","IA","Union",3258,1206,"GT2","3258 1206 GT2",6208,35.3,"Natural Gas Fired Combined Cycle","NG","OP",6,1975,NA,NA,2.00758016738458
+"433","Corn Belt Power Coop","Earl F Wisdom","IA","Clay",4363,1217,"1","4363 1217 1",1760,37.5,"Natural Gas Steam Turbine","NG","OP",4,1960,NA,NA,0.535768645357687
+"434","Sunflower Electric Power Corp","Cimarron River","KS","Seward",18315,1230,"1","18315 1230 1",621,50,"Natural Gas Steam Turbine","NG","OP",10,1963,NA,NA,0.141780821917808
+"435","Sunflower Electric Power Corp","Fort Dodge","KS","Ford",18315,1233,"4","18315 1233 4",1193,149,"Natural Gas Steam Turbine","NG","OP",6,1969,NA,NA,0.0914008151757531
+"448","City of Clay Center - (KS)","Clay Center","KS","Clay",3710,1270,"5","3710 1270 5",0,3,"Natural Gas Steam Turbine","NG","OP",1,1948,NA,NA,0
+"449","City of Clay Center - (KS)","Clay Center","KS","Clay",3710,1270,"6","3710 1270 6",0,5,"Natural Gas Steam Turbine","NG","OP",1,1961,NA,NA,0
+"450","City of Coffeyville - (KS)","Coffeyville","KS","Montgomery",3892,1271,"6","3892 1271 6",126,18.7,"Natural Gas Steam Turbine","NG","OP",8,1956,NA,NA,0.076917441945645
+"451","City of Coffeyville - (KS)","Coffeyville","KS","Montgomery",3892,1271,"7","3892 1271 7",18888,40,"Natural Gas Steam Turbine","NG","OP",6,1973,NA,NA,5.39041095890411
+"452","City of Kansas City - (KS)","Quindaro","KS","Wyandotte",9996,1295,"ST1","9996 1295 ST1",10846,81.6,"Natural Gas Steam Turbine","NG","OP",5,1965,NA,NA,1.51731354642314
+"453","City of Kansas City - (KS)","Quindaro","KS","Wyandotte",9996,1295,"ST2","9996 1295 ST2",14573,157.5,"Natural Gas Steam Turbine","NG","OP",12,1971,NA,NA,1.05624411103863
+"454","City of Pratt- (KS)","Pratt","KS","Pratt",15321,1317,"5","15321 1317 5",279,14,"Natural Gas Steam Turbine","NG","OP",1,1965,NA,NA,0.227495107632094
+"455","City of Wellington - (KS)","Wellington 1","KS","Sumner",20315,1330,"4","20315 1330 4",62,20,"Natural Gas Steam Turbine","NG","OP",8,1972,NA,NA,0.0353881278538813
+"456","Sunflower Electric Power Corp","Garden City","KS","Finney",18315,1336,"S2","18315 1336 S2",18498,97.9,"Natural Gas Steam Turbine","NG","OP",4,1973,NA,NA,2.15693956651322
+"493","Entergy Louisiana LLC","Louisiana 1","LA","East Baton Rouge",11241,1391,"1A","11241 1391 1A",0,23,"Other Gases","OG","OP",10,1951,NA,NA,0
+"514","Entergy Louisiana LLC","Sterlington","LA","Ouachita",11241,1404,"7A","11241 1404 7A",3131,59.3,"Natural Gas Fired Combined Cycle","NG","OP",4,1973,6,2022,0.602732025841823
+"515","Entergy Louisiana LLC","Sterlington","LA","Ouachita",11241,1404,"7C","11241 1404 7C",0,101,"Natural Gas Fired Combined Cycle","NG","OP",9,1974,6,2020,0
+"516","Southwestern Electric Power Co","Arsenal Hill","LA","Caddo",17698,1416,"5","17698 1416 5",25526,125,"Natural Gas Steam Turbine","NG","OP",3,1960,NA,NA,2.33114155251142
+"517","Southwestern Electric Power Co","Lieberman","LA","Caddo",17698,1417,"2","17698 1417 2",4252,25,"Natural Gas Steam Turbine","NG","OP",4,1949,12,2019,1.94155251141552
+"518","Southwestern Electric Power Co","Lieberman","LA","Caddo",17698,1417,"3","17698 1417 3",30371,114,"Natural Gas Steam Turbine","NG","OP",6,1957,NA,NA,3.04123608107026
+"519","Southwestern Electric Power Co","Lieberman","LA","Caddo",17698,1417,"4","17698 1417 4",32086,114,"Natural Gas Steam Turbine","NG","OP",5,1959,NA,NA,3.21296963870864
+"520","Terrebonne Parish Consol Gov't","Houma","LA","Terrebonne",8884,1439,"14","8884 1439 14",6138,12.6,"Natural Gas Steam Turbine","NG","OP",8,1967,NA,NA,5.56099151989563
+"521","Terrebonne Parish Consol Gov't","Houma","LA","Terrebonne",8884,1439,"15","8884 1439 15",8139,25.5,"Natural Gas Steam Turbine","NG","OP",8,1972,NA,NA,3.64356701584743
+"522","Terrebonne Parish Consol Gov't","Houma","LA","Terrebonne",8884,1439,"16","8884 1439 16",19221,40.8,"Natural Gas Steam Turbine","NG","OP",1,1977,NA,NA,5.3778874563524
+"523","Louisiana Generating LLC","Big Cajun 1","LA","Pointe Coupee",11252,1464,"1","11252 1464 1",41913,113.6,"Natural Gas Steam Turbine","NG","OP",6,1972,NA,NA,4.21178612772526
+"524","Louisiana Generating LLC","Big Cajun 1","LA","Pointe Coupee",11252,1464,"2","11252 1464 2",35462,113.6,"Natural Gas Steam Turbine","NG","OP",6,1972,NA,NA,3.56353302463181
+"525","FPL Energy Wyman LLC","William F Wyman Hybrid","ME","Cumberland",31719,1507,"1","31719 1507 1",4882,50,"Petroleum Liquids","RFO","OP",1,1957,NA,NA,1.11461187214612
+"526","FPL Energy Wyman LLC","William F Wyman Hybrid","ME","Cumberland",31719,1507,"2","31719 1507 2",3692,50,"Petroleum Liquids","RFO","OP",1,1958,NA,NA,0.842922374429224
+"527","FPL Energy Wyman LLC","William F Wyman Hybrid","ME","Cumberland",31719,1507,"3","31719 1507 3",17755,113.6,"Petroleum Liquids","RFO","OP",1,1965,NA,NA,1.78417824297382
+"528","FPL Energy Wyman LLC","William F Wyman Hybrid","ME","Cumberland",31719,1507,"4","31719 1507 4",132408,632.4,"Petroleum Liquids","RFO","OP",1,1978,NA,NA,2.39011203244002
+"531","Constellation Power Source Gen","Gould Street","MD","Baltimore City",4161,1553,"3","4161 1553 3",14839,103.5,"Natural Gas Steam Turbine","NG","OP",12,1952,6,2019,1.63666644607681
+"532","H.A. Wagner LLC","Herbert A Wagner","MD","Anne Arundel",60422,1554,"1","60422 1554 1",596,132.8,"Natural Gas Steam Turbine","NG","OP",2,1956,NA,NA,0.0512323265665401
+"533","H.A. Wagner LLC","Herbert A Wagner","MD","Anne Arundel",60422,1554,"2","60422 1554 2",31519,136,"Conventional Steam Coal","RC","OP",1,1959,6,2020,2.64563188289014
+"535","H.A. Wagner LLC","Herbert A Wagner","MD","Anne Arundel",60422,1554,"4","60422 1554 4",38871,414.7,"Petroleum Liquids","RFO","OP",8,1972,NA,NA,1.07000934823325
+"536","NRG Vienna Operations Inc","Vienna Operations","MD","Dorchester",19830,1564,"8","19830 1564 8",4416,162,"Petroleum Liquids","RFO","OP",1,1972,NA,NA,0.311178758667343
+"537","GenOn Chalk Point, LLC","Chalk Point LLC","MD","Prince Georges",12628,1571,"3","12628 1571 3",274799,659,"Natural Gas Steam Turbine","NG","OP",5,1975,NA,NA,4.76020468261722
+"538","GenOn Chalk Point, LLC","Chalk Point LLC","MD","Prince Georges",12628,1571,"4","12628 1571 4",297913,659,"Natural Gas Steam Turbine","NG","OP",12,1981,NA,NA,5.16059686393525
+"541","GenOn Mid-Atlantic LLC","Dickerson","MD","Montgomery",12653,1572,"2","12653 1572 2",80087,196,"Conventional Steam Coal","BIT","OP",4,1960,NA,NA,4.66446510110894
+"542","GenOn Mid-Atlantic LLC","Dickerson","MD","Montgomery",12653,1572,"3","12653 1572 3",93757,196,"Conventional Steam Coal","BIT","OP",3,1962,NA,NA,5.46063973534619
+"543","GenOn Mid-Atlantic LLC","Dickerson","MD","Montgomery",12653,1572,"ST1","12653 1572 ST1",59291,196,"Conventional Steam Coal","BIT","OP",6,1959,NA,NA,3.45325458950704
+"546","Constellation Mystic Power LLC","Mystic Generating Station","MA","Middlesex",49965,1588,"7","49965 1588 7",140776,617,"Petroleum Liquids","RFO","OP",6,1975,NA,NA,2.60458989217232
+"557","NRG Canal 3 Development LLC","Canal","MA","Barnstable",61708,1599,"1","61708 1599 1",82595,585,"Petroleum Liquids","RFO","OP",6,1968,NA,NA,1.61173555009171
+"558","NRG Canal 3 Development LLC","Canal","MA","Barnstable",61708,1599,"2","61708 1599 2",56536,580,"Petroleum Liquids","RFO","OP",1,1976,NA,NA,1.11273815147221
+"559","NAEA Energy Massachusetts LLC","Essential Power Massachusetts LLC","MA","Hampden",56401,1642,"3","56401 1642 3",2950,113.6,"Natural Gas Steam Turbine","NG","OP",1,1957,NA,NA,0.296441893369349
+"560","Town of Braintree - (MA)","Potter Station 2","MA","Norfolk",2144,1660,"CC2","2144 1660 CC2",6414,76,"Natural Gas Fired Combined Cycle","NG","OP",4,1977,NA,NA,0.963410237923576
+"561","Town of Braintree - (MA)","Potter Station 2","MA","Norfolk",2144,1660,"CC3","2144 1660 CC3",1262,25,"Natural Gas Fired Combined Cycle","NG","OP",4,1977,NA,NA,0.576255707762557
+"562","City of Taunton","Cleary Flood Hybrid","MA","Bristol",18488,1682,"8","18488 1682 8",2247,28.3,"Petroleum Liquids","RFO","OP",6,1966,6,2023,0.906384626555012
+"563","City of Taunton","Cleary Flood Hybrid","MA","Bristol",18488,1682,"9A","18488 1682 9A",17363,23,"Natural Gas Fired Combined Cycle","NG","OP",10,1976,NA,NA,8.61772880682946
+"564","City of Taunton","Cleary Flood Hybrid","MA","Bristol",18488,1682,"CA9","18488 1682 CA9",57287,95,"Natural Gas Fired Combined Cycle","NG","OP",12,1975,NA,NA,6.88380197068012
+"565","Consumers Energy Co","Dan E Karn","MI","Bay",4254,1702,"3","4254 1702 3",25998,692.5,"Natural Gas Steam Turbine","NG","OP",1,1975,NA,NA,0.428564363780228
+"566","Consumers Energy Co","Dan E Karn","MI","Bay",4254,1702,"4","4254 1702 4",27037,709.8,"Natural Gas Steam Turbine","NG","OP",9,1977,NA,NA,0.434828899001713
+"568","Consumers Energy Co","Dan E Karn","MI","Bay",4254,1702,"1B","4254 1702 1B",100457,136,"Conventional Steam Coal","SUB","OP",11,1959,5,2023,8.43212798818158
+"570","Consumers Energy Co","Dan E Karn","MI","Bay",4254,1702,"2B","4254 1702 2B",0,136,"Conventional Steam Coal","SUB","OP",3,1961,5,2023,0
+"586","Wisconsin Electric Power Co","Presque Isle","MI","Marquette",20847,1769,"5","20847 1769 5",67178,90,"Conventional Steam Coal","SUB","OP",12,1974,3,2019,8.52080162354135
+"597","Lansing Board of Water and Light","Eckert Station","MI","Ingham",56155,1831,"6","56155 1831 6",59167,80,"Conventional Steam Coal","SUB","OP",8,1970,12,2020,8.4427796803653
+"601","Wyandotte Municipal Serv Comm","Wyandotte","MI","Wayne",21048,1866,"4","21048 1866 4",0,11.5,"Natural Gas Steam Turbine","NG","OP",1,1948,NA,NA,0
+"602","Wyandotte Municipal Serv Comm","Wyandotte","MI","Wayne",21048,1866,"5","21048 1866 5",0,22,"Natural Gas Steam Turbine","NG","OS",1,1958,NA,NA,0
+"603","Wyandotte Municipal Serv Comm","Wyandotte","MI","Wayne",21048,1866,"6","21048 1866 6",0,7.5,"Natural Gas Steam Turbine","NG","OS",1,1969,NA,NA,0
+"604","Wyandotte Municipal Serv Comm","Wyandotte","MI","Wayne",21048,1866,"7","21048 1866 7",4022,32,"Natural Gas Steam Turbine","NG","OP",7,1986,NA,NA,1.43478881278539
+"605","Wolverine Power Supply Coop","Claude Vandyke","MI","Allegan",20910,1880,"6","20910 1880 6",8223,23,"Natural Gas Fired Combined Cycle","NG","OP",1,1967,NA,NA,4.08129839189994
+"606","ALLETE, Inc.","Syl Laskin","MN","St Louis",12647,1891,"1","12647 1891 1",8546,58,"Natural Gas Steam Turbine","NG","OP",6,1953,NA,NA,1.68201857975122
+"607","ALLETE, Inc.","Syl Laskin","MN","St Louis",12647,1891,"2","12647 1891 2",5347,58,"Natural Gas Steam Turbine","NG","OP",9,1953,NA,NA,1.052393323886
+"612","ALLETE, Inc.","M L Hibbard","MN","St Louis",12647,1897,"3","12647 1897 3",1664,35.3,"Wood/Wood Waste Biomass","WDS","OP",6,1949,NA,NA,0.538114271670095
+"613","ALLETE, Inc.","M L Hibbard","MN","St Louis",12647,1897,"4","12647 1897 4",8621,37.5,"Wood/Wood Waste Biomass","WDS","OP",6,1951,NA,NA,2.62435312024353
+"632","Hutchinson Utilities Comm","Hutchinson Plant #1","MN","McLeod",9130,1980,"8","9130 1980 8",6354,16,"Natural Gas Fired Combined Cycle","NG","OP",1,1971,NA,NA,4.5333904109589
+"633","New Ulm Public Utilities Comm","New Ulm","MN","Brown",13488,2001,"3","13488 2001 3",0,6,"Natural Gas Steam Turbine","NG","OS",1,1957,NA,NA,0
+"634","New Ulm Public Utilities Comm","New Ulm","MN","Brown",13488,2001,"4","13488 2001 4",1683,15,"Natural Gas Steam Turbine","NG","OP",1,1965,NA,NA,1.28082191780822
+"635","New Ulm Public Utilities Comm","New Ulm","MN","Brown",13488,2001,"6","13488 2001 6",453,6,"Natural Gas Steam Turbine","NG","OP",5,1997,NA,NA,0.861872146118721
+"638","Willmar Municipal Utilities","Willmar","MN","Kandiyohi",20737,2022,"3","20737 2022 3",8178,18,"Natural Gas Steam Turbine","NG","OP",11,1970,NA,NA,5.18645357686454
+"639","Willmar Municipal Utilities","Willmar","MN","Kandiyohi",20737,2022,"ST2","20737 2022 ST2",0,8,"Natural Gas Steam Turbine","NG","SB",9,1956,NA,NA,0
+"649","Entergy Mississippi LLC","Rex Brown","MS","Hinds",12685,2053,"4","12685 2053 4",157949,238.7,"Natural Gas Steam Turbine","NG","OP",7,1959,6,2019,7.5537108347537
+"650","Clarksdale Public Utilities","L L Wilkins","MS","Coahoma",3702,2059,"6","3702 2059 6",0,6,"Natural Gas Fired Combined Cycle","NG","OP",10,1996,NA,NA,0
+"651","Clarksdale Public Utilities","L L Wilkins","MS","Coahoma",3702,2059,"7","3702 2059 7",0,7.5,"Natural Gas Fired Combined Cycle","NG","OP",10,1961,NA,NA,0
+"652","Clarksdale Public Utilities","L L Wilkins","MS","Coahoma",3702,2059,"8","3702 2059 8",165,16.2,"Natural Gas Fired Combined Cycle","NG","OP",10,1965,NA,NA,0.116269237273803
+"653","Clarksdale Public Utilities","L L Wilkins","MS","Coahoma",3702,2059,"9","3702 2059 9",61,25.5,"Natural Gas Fired Combined Cycle","NG","OP",10,1971,NA,NA,0.0273077267436655
+"656","Public Serv Comm of Yazoo City","Yazoo","MS","Yazoo",21095,2067,"2","21095 2067 2",0,5,"Natural Gas Fired Combined Cycle","NG","SB",6,1945,NA,NA,0
+"657","Public Serv Comm of Yazoo City","Yazoo","MS","Yazoo",21095,2067,"3","21095 2067 3",0,12.6,"Natural Gas Fired Combined Cycle","NG","OP",7,1954,NA,NA,0
+"658","Public Serv Comm of Yazoo City","Yazoo","MS","Yazoo",21095,2067,"GT1","21095 2067 GT1",0,16.5,"Natural Gas Fired Combined Cycle","NG","OP",4,1968,NA,NA,0
+"661","Cooperative Energy","Moselle","MS","Jones",17568,2070,"3","17568 2070 3",26536,59,"Natural Gas Steam Turbine","NG","OP",8,1970,1,2025,5.13427753269871
+"666","Evergy Metro","Hawthorn","MO","Jackson",10000,2079,"6","10000 2079 6",89233,170,"Natural Gas Fired Combined Cycle","NG","OP",6,1997,NA,NA,5.99200913242009
+"667","Evergy Metro","Hawthorn","MO","Jackson",10000,2079,"9","10000 2079 9",30900,142.8,"Natural Gas Fired Combined Cycle","NG","OP",7,2000,NA,NA,2.47016614865124
+"675","Evergy Missouri West","Lake Road (MO)","MO","Buchanan",56211,2098,"4","56211 2098 4",4148,90,"Natural Gas Steam Turbine","NG","OP",8,1966,12,2019,0.526128868594622
+"680","Union Electric Co - (MO)","Meramec","MO","St Louis",19436,2104,"1","19436 2104 1",12533,137.5,"Natural Gas Steam Turbine","NG","OP",5,1953,12,2022,1.04051473640515
+"681","Union Electric Co - (MO)","Meramec","MO","St Louis",19436,2104,"2","19436 2104 2",24767,137.5,"Natural Gas Steam Turbine","NG","OP",7,1954,12,2022,2.05620589456206
+"687","City of Columbia - (MO)","Columbia (MO)","MO","Boone",4045,2123,"7","4045 2123 7",0,22,"Conventional Steam Coal","BIT","OP",1,1965,NA,NA,0
+"688","City of Columbia - (MO)","Columbia (MO)","MO","Boone",4045,2123,"8","4045 2123 8",23058,35,"Natural Gas Steam Turbine","NG","OP",1,1970,NA,NA,7.52054794520548
+"689","City of Independence - (MO)","Blue Valley","MO","Jackson",9231,2132,"2","9231 2132 2",2991,25,"Natural Gas Steam Turbine","NG","OP",5,1958,NA,NA,1.36575342465753
+"690","City of Independence - (MO)","Blue Valley","MO","Jackson",9231,2132,"3","9231 2132 3",13977,65,"Natural Gas Steam Turbine","NG","OP",8,1965,NA,NA,2.45468914646997
+"691","City of Independence - (MO)","Blue Valley","MO","Jackson",9231,2132,"ST1","9231 2132 ST1",2461,25,"Natural Gas Steam Turbine","NG","OP",4,1958,NA,NA,1.12374429223744
+"692","City Utilities of Springfield - (MO)","James River Power Station","MO","Greene",17833,2161,"4","17833 2161 4",0,60,"Natural Gas Steam Turbine","NG","OS",5,1964,12,2020,0
+"693","City Utilities of Springfield - (MO)","James River Power Station","MO","Greene",17833,2161,"5","17833 2161 5",264,105,"Natural Gas Steam Turbine","NG","OS",5,1970,12,2020,0.0287018917155903
+"699","Nebraska Public Power District","Canaday","NE","Gosper",13337,2226,"1","13337 2226 1",720,108.8,"Natural Gas Steam Turbine","NG","OP",1,1958,NA,NA,0.0755439161966156
+"710","Omaha Public Power District","North Omaha","NE","Douglas",14127,2291,"1","14127 2291 1",307,73.5,"Natural Gas Steam Turbine","NG","OP",7,1954,12,2023,0.0476811729257913
+"712","Omaha Public Power District","North Omaha","NE","Douglas",14127,2291,"3","14127 2291 3",333,108.8,"Natural Gas Steam Turbine","NG","OP",4,1959,12,2023,0.0349390612409347
+"716","Nevada Power Co","Clark (NVE)","NV","Clark",13407,2322,"10","13407 2322 10",85070,104.4,"Natural Gas Fired Combined Cycle","NG","OP",5,1994,NA,NA,9.30190346227191
+"719","Nevada Power Co","Clark (NVE)","NV","Clark",13407,2322,"GT7","13407 2322 GT7",80588,92.5,"Natural Gas Fired Combined Cycle","NG","OP",6,1980,NA,NA,9.94545230161668
+"734","RC Cape May Holdings LLC","B L England","NJ","Cape May",55768,2378,"2","55768 2378 2",14044,163.2,"Conventional Steam Coal","BIT","OP",11,1964,4,2019,0.982350702838213
+"735","RC Cape May Holdings LLC","B L England","NJ","Cape May",55768,2378,"3","55768 2378 3",0,176.4,"Petroleum Liquids","RFO","OS",12,1974,4,2019,0
+"776","Danskammer Energy","Danskammer Generating Station","NY","Orange",58971,2480,"1","58971 2480 1",2663,72,"Natural Gas Steam Turbine","NG","OP",12,1951,NA,NA,0.422215880263825
+"777","Danskammer Energy","Danskammer Generating Station","NY","Orange",58971,2480,"2","58971 2480 2",2672,73.5,"Natural Gas Steam Turbine","NG","OP",9,1954,NA,NA,0.41499704904793
+"778","Danskammer Energy","Danskammer Generating Station","NY","Orange",58971,2480,"3","58971 2480 3",14162,147.1,"Natural Gas Steam Turbine","NG","OP",10,1959,NA,NA,1.09902560616361
+"779","Danskammer Energy","Danskammer Generating Station","NY","Orange",58971,2480,"4","58971 2480 4",10884,239.4,"Natural Gas Steam Turbine","NG","OP",9,1967,NA,NA,0.5189915427839
+"796","National Grid Generation LLC","Port Jefferson","NY","Suffolk",56505,2517,"4","56505 2517 4",156271,188,"Natural Gas Steam Turbine","NG","OP",11,1960,NA,NA,9.48891236762849
+"798","Cayuga Operating Company, LLC","Cayuga Operating Company","NY","Tompkins",22125,2535,"1","22125 2535 1",82505,155.3,"Conventional Steam Coal","BIT","OP",9,1955,NA,NA,6.06463554116793
+"799","Cayuga Operating Company, LLC","Cayuga Operating Company","NY","Tompkins",22125,2535,"2","22125 2535 2",12882,167.2,"Conventional Steam Coal","BIT","OA",10,1958,NA,NA,0.879514321295143
+"804","NRG Oswego Harbor Power Operations Inc","Oswego Harbor Power","NY","Oswego",13923,2594,"ST5","13923 2594 ST5",20347,901.8,"Petroleum Liquids","RFO","OP",6,1975,NA,NA,0.257564525945572
+"805","NRG Oswego Harbor Power Operations Inc","Oswego Harbor Power","NY","Oswego",13923,2594,"ST6","13923 2594 ST6",21378,901.8,"Petroleum Liquids","RFO","OP",12,1979,NA,NA,0.270615542127313
+"806","GenOn New York, LLC","Bowline Point","NY","Rockland",12792,2625,"1","12792 2625 1",238893,621,"Natural Gas Steam Turbine","NG","OP",9,1972,NA,NA,4.39144773123332
+"807","GenOn New York, LLC","Bowline Point","NY","Rockland",12792,2625,"2","12792 2625 2",234225,621,"Natural Gas Steam Turbine","NG","OP",5,1974,NA,NA,4.30563827675203
+"808","Jamestown Board of Public Util","S A Carlson","NY","Chautauqua",9645,2682,"5","9645 2682 5",765,24.5,"Natural Gas Steam Turbine","NG","OP",8,1951,NA,NA,0.35644394744199
+"816","Duke Energy Carolinas, LLC","G G Allen","NC","Gaston",5416,2718,"1","5416 2718 1",72521,163.2,"Conventional Steam Coal","BIT","OP",6,1957,12,2024,5.07270402453219
+"817","Duke Energy Carolinas, LLC","G G Allen","NC","Gaston",5416,2718,"2","5416 2718 2",87141,163.2,"Conventional Steam Coal","BIT","OP",11,1957,12,2024,6.09534481600859
+"818","Duke Energy Carolinas, LLC","G G Allen","NC","Gaston",5416,2718,"3","5416 2718 3",158697,272,"Conventional Steam Coal","BIT","OP",10,1959,12,2024,6.66032937147462
+"819","Duke Energy Carolinas, LLC","G G Allen","NC","Gaston",5416,2718,"4","5416 2718 4",175298,278,"Conventional Steam Coal","BIT","OP",10,1960,NA,NA,7.19826878223449
+"851","FirstEnergy Generation Corp","FirstEnergy W H Sammis","OH","Jefferson",6526,2866,"1","6526 2866 1",23351,190.4,"Conventional Steam Coal","BIT","OP",8,1959,5,2020,1.40002062468823
+"852","FirstEnergy Generation Corp","FirstEnergy W H Sammis","OH","Jefferson",6526,2866,"2","6526 2866 2",10955,190.4,"Conventional Steam Coal","BIT","OP",7,1960,5,2020,0.656812382487241
+"853","FirstEnergy Generation Corp","FirstEnergy W H Sammis","OH","Jefferson",6526,2866,"3","6526 2866 3",53173,190.4,"Conventional Steam Coal","BIT","OP",7,1961,5,2020,3.18801321898622
+"854","FirstEnergy Generation Corp","FirstEnergy W H Sammis","OH","Jefferson",6526,2866,"4","6526 2866 4",82868,190.4,"Conventional Steam Coal","BIT","OP",11,1962,5,2020,4.96839146617551
+"864","City of Dover - (OH)","Dover","OH","Tuscarawas",5336,2914,"3","5336 2914 3",0,8,"Conventional Steam Coal","BIT","SB",1,1954,NA,NA,0
+"866","City of Hamilton - (OH)","Hamilton (OH)","OH","Butler",7977,2917,"5","7977 2917 5",0,10,"Natural Gas Steam Turbine","NG","OS",3,1954,NA,NA,0
+"867","City of Hamilton - (OH)","Hamilton (OH)","OH","Butler",7977,2917,"7","7977 2917 7",0,25,"Natural Gas Steam Turbine","NG","OS",5,1960,NA,NA,0
+"868","City of Hamilton - (OH)","Hamilton (OH)","OH","Butler",7977,2917,"8","7977 2917 8",0,25,"Natural Gas Steam Turbine","NG","OS",6,1965,NA,NA,0
+"869","City of Hamilton - (OH)","Hamilton (OH)","OH","Butler",7977,2917,"9","7977 2917 9",0,50.6,"Natural Gas Steam Turbine","NG","OS",10,1975,NA,NA,0
+"870","City of Orrville - (OH)","Orrville","OH","Wayne",14194,2935,"9","14194 2935 9",5409,22,"Conventional Steam Coal","BIT","OP",1,1961,NA,NA,2.80666251556663
+"871","City of Orrville - (OH)","Orrville","OH","Wayne",14194,2935,"10","14194 2935 10",8865,25,"Conventional Steam Coal","BIT","OP",1,1971,NA,NA,4.04794520547945
+"872","City of Orrville - (OH)","Orrville","OH","Wayne",14194,2935,"11","14194 2935 11",16936,25,"Natural Gas Steam Turbine","NG","OP",1,1971,NA,NA,7.73333333333333
+"873","City of Painesville","Painesville","OH","Lake",14381,2936,"3","14381 2936 3",0,7.5,"Conventional Steam Coal","BIT","SB",1,1953,NA,NA,0
+"874","City of Painesville","Painesville","OH","Lake",14381,2936,"5","14381 2936 5",840,16.5,"Conventional Steam Coal","BIT","OP",1,1965,NA,NA,0.58115400581154
+"875","City of Painesville","Painesville","OH","Lake",14381,2936,"7","14381 2936 7",2427,22,"Conventional Steam Coal","BIT","OP",2,1990,NA,NA,1.2593399750934
+"876","City of Painesville","Painesville","OH","Lake",14381,2936,"ST2","14381 2936 ST2",0,7.5,"Conventional Steam Coal","BIT","SB",1,1949,NA,NA,0
+"878","Oklahoma Gas & Electric Co","Horseshoe Lake","OK","Oklahoma",14063,2951,"8","14063 2951 8",186055,443,"Natural Gas Steam Turbine","NG","OP",6,1969,NA,NA,4.79439170454663
+"885","Oklahoma Gas & Electric Co","Seminole","OK","Seminole",14063,2956,"1","14063 2956 1",443551,567,"Natural Gas Steam Turbine","NG","OP",3,1971,NA,NA,8.93010155186715
+"886","Oklahoma Gas & Electric Co","Seminole","OK","Seminole",14063,2956,"2","14063 2956 2",217410,567,"Natural Gas Steam Turbine","NG","OP",2,1973,NA,NA,4.37715928583508
+"893","Public Service Co of Oklahoma","Southwestern","OK","Caddo",15474,2964,"1","15474 2964 1",8261,84,"Natural Gas Steam Turbine","NG","OP",7,1952,NA,NA,1.12266253533377
+"894","Public Service Co of Oklahoma","Southwestern","OK","Caddo",15474,2964,"2","15474 2964 2",25002,84,"Natural Gas Steam Turbine","NG","OP",3,1954,NA,NA,3.39774951076321
+"898","Western Farmers Elec Coop, Inc","Anadarko Plant","OK","Caddo",20447,3006,"1","20447 3006 1",0,17.3,"Natural Gas Steam Turbine","NG","SB",8,1953,NA,NA,0
+"899","Western Farmers Elec Coop, Inc","Anadarko Plant","OK","Caddo",20447,3006,"2","20447 3006 2",0,17.3,"Natural Gas Steam Turbine","NG","SB",8,1953,NA,NA,0
+"900","Western Farmers Elec Coop, Inc","Anadarko Plant","OK","Caddo",20447,3006,"3","20447 3006 3",308,50,"Natural Gas Steam Turbine","NG","SB",8,1959,NA,NA,0.0703196347031964
+"904","Western Farmers Elec Coop, Inc","Mooreland","OK","Woodward",20447,3008,"1","20447 3008 1",131,45,"Natural Gas Steam Turbine","NG","OP",3,1964,NA,NA,0.0332318619989853
+"905","Western Farmers Elec Coop, Inc","Mooreland","OK","Woodward",20447,3008,"2","20447 3008 2",44584,125,"Natural Gas Steam Turbine","NG","OP",7,1968,NA,NA,4.07159817351598
+"906","Western Farmers Elec Coop, Inc","Mooreland","OK","Woodward",20447,3008,"3","20447 3008 3",52423,135,"Natural Gas Steam Turbine","NG","OP",7,1975,NA,NA,4.43285980043971
+"929","TalenEnergy Martins Creek LLC","TalenEnergy Martins Creek","PA","Northampton",15276,3148,"3","15276 3148 3",372739,850.5,"Natural Gas Steam Turbine","NG","OP",10,1975,NA,NA,5.00295286951806
+"930","TalenEnergy Martins Creek LLC","TalenEnergy Martins Creek","PA","Northampton",15276,3148,"4","15276 3148 4",330098,850.5,"Natural Gas Steam Turbine","NG","OP",3,1977,NA,NA,4.43061964624623
+"934","Exelon Power","Eddystone Generating Station","PA","Delaware",6035,3161,"3","6035 3161 3",28963,391,"Natural Gas Steam Turbine","NG","OP",9,1974,NA,NA,0.845595534223219
+"935","Exelon Power","Eddystone Generating Station","PA","Delaware",6035,3161,"4","6035 3161 4",10628,391,"Natural Gas Steam Turbine","NG","OP",6,1976,NA,NA,0.31029207394691
+"945","Duke Energy Carolinas, LLC","W S Lee","SC","Anderson",5416,3264,"3","5416 3264 3",54152,163.2,"Natural Gas Steam Turbine","NG","OP",12,1958,NA,NA,3.78782791655475
+"953","Dominion Energy South Carolina, Inc","Urquhart","SC","Aiken",17539,3295,"3","17539 3295 3",80127,100,"Natural Gas Steam Turbine","NG","OP",11,1955,NA,NA,9.14691780821918
+"989","Nueces Bay, LLC","Nueces Bay","TX","Nueces",49979,3441,"7","49979 3441 7",133905,351,"Natural Gas Fired Combined Cycle","NG","OP",7,1972,NA,NA,4.35497404675487
+"994","Luminant Generation Company LLC","Lake Hubbard","TX","Dallas",55983,3452,"1","55983 3452 1",59258,396.5,"Natural Gas Steam Turbine","NG","OP",6,1970,NA,NA,1.70608117834707
+"995","Luminant Generation Company LLC","Lake Hubbard","TX","Dallas",55983,3452,"2","55983 3452 2",216162,531,"Natural Gas Steam Turbine","NG","OP",11,1973,NA,NA,4.64708613884374
+"996","Mountain Creek Power, LLC","Mountain Creek","TX","Dallas",62026,3453,"6","62026 3453 6",20916,135.7,"Natural Gas Steam Turbine","NG","OP",2,1956,NA,NA,1.75952191074187
+"997","Mountain Creek Power, LLC","Mountain Creek","TX","Dallas",62026,3453,"7","62026 3453 7",34970,136,"Natural Gas Steam Turbine","NG","OP",3,1958,NA,NA,2.93530083266183
+"998","Mountain Creek Power, LLC","Mountain Creek","TX","Dallas",62026,3453,"8","62026 3453 8",352769,580.5,"Natural Gas Steam Turbine","NG","OP",7,1967,NA,NA,6.93719789663296
+"1016","NRG Texas Power LLC","Greens Bayou","TX","Harris",54888,3464,"5","54888 3464 5",0,446.4,"Natural Gas Steam Turbine","NG","OA",6,1973,NA,NA,0
+"1017","NRG Texas Power LLC","T H Wharton","TX","Harris",54888,3469,"3","54888 3469 3",63560,113.1,"Natural Gas Fired Combined Cycle","NG","OP",8,1974,NA,NA,6.41530306150051
+"1018","NRG Texas Power LLC","T H Wharton","TX","Harris",54888,3469,"4","54888 3469 4",80154,113.1,"Natural Gas Fired Combined Cycle","NG","OP",8,1974,NA,NA,8.09018567639257
+"1019","NRG Texas Power LLC","T H Wharton","TX","Harris",54888,3469,"31","54888 3469 31",40578,54,"Natural Gas Fired Combined Cycle","NG","OP",7,1972,NA,NA,8.578132927448
+"1020","NRG Texas Power LLC","T H Wharton","TX","Harris",54888,3469,"32","54888 3469 32",42699,54,"Natural Gas Fired Combined Cycle","NG","OP",7,1972,NA,NA,9.02650938609843
+"1021","NRG Texas Power LLC","T H Wharton","TX","Harris",54888,3469,"33","54888 3469 33",45177,54,"Natural Gas Fired Combined Cycle","NG","OP",7,1972,NA,NA,9.55035514967022
+"1022","NRG Texas Power LLC","T H Wharton","TX","Harris",54888,3469,"34","54888 3469 34",36341,54,"Natural Gas Fired Combined Cycle","NG","OP",7,1972,NA,NA,7.68243700321326
+"1024","NRG Texas Power LLC","T H Wharton","TX","Harris",54888,3469,"42","54888 3469 42",44825,54,"Natural Gas Fired Combined Cycle","NG","OP",7,1972,NA,NA,9.47594283781498
+"1027","NRG Texas Power LLC","W A Parish","TX","Fort Bend",54888,3470,"1","54888 3470 1",102154,187.8,"Natural Gas Steam Turbine","NG","OP",6,1958,NA,NA,6.20948643509806
+"1028","NRG Texas Power LLC","W A Parish","TX","Fort Bend",54888,3470,"2","54888 3470 2",73328,187.8,"Natural Gas Steam Turbine","NG","OP",12,1958,NA,NA,4.45728235128209
+"1029","NRG Texas Power LLC","W A Parish","TX","Fort Bend",54888,3470,"3","54888 3470 3",156270,299.2,"Natural Gas Steam Turbine","NG","OP",3,1961,NA,NA,5.96224635557835
+"1030","NRG Texas Power LLC","W A Parish","TX","Fort Bend",54888,3470,"4","54888 3470 4",301641,580.5,"Natural Gas Steam Turbine","NG","OP",6,1968,NA,NA,5.93176642714712
+"1035","Southwestern Electric Power Co","Knox Lee","TX","Gregg",17698,3476,"2","17698 3476 2",3838,38,"Natural Gas Steam Turbine","NG","OP",12,1950,NA,NA,1.15296803652968
+"1036","Southwestern Electric Power Co","Knox Lee","TX","Gregg",17698,3476,"3","17698 3476 3",1635,38,"Natural Gas Steam Turbine","NG","OP",6,1952,NA,NA,0.491167988464311
+"1038","Southwestern Electric Power Co","Knox Lee","TX","Gregg",17698,3476,"5","17698 3476 5",95583,351,"Natural Gas Steam Turbine","NG","OP",4,1974,NA,NA,3.10863286890684
+"1039","Southwestern Electric Power Co","Lone Star","TX","Morris",17698,3477,"1","17698 3477 1",5917,40,"Natural Gas Steam Turbine","NG","OP",3,1954,NA,NA,1.68864155251142
+"1041","Southwestern Electric Power Co","Wilkes","TX","Marion",17698,3478,"2","17698 3478 2",160807,351,"Natural Gas Steam Turbine","NG","OP",5,1970,NA,NA,5.22990412259819
+"1042","Southwestern Electric Power Co","Wilkes","TX","Marion",17698,3478,"3","17698 3478 3",175969,351,"Natural Gas Steam Turbine","NG","OP",12,1971,NA,NA,5.72301578009341
+"1052","Luminant Generation Company LLC","Graham","TX","Young",55983,3490,"1","55983 3490 1",50996,247.7,"Natural Gas Steam Turbine","NG","OP",12,1960,NA,NA,2.35020637352225
+"1053","Luminant Generation Company LLC","Graham","TX","Young",55983,3490,"2","55983 3490 2",80168,387,"Natural Gas Steam Turbine","NG","OP",6,1969,NA,NA,2.36475405000413
+"1054","Exelon Power","Handley","TX","Tarrant",6035,3491,"3","6035 3491 3",315482,404.8,"Natural Gas Steam Turbine","NG","OP",7,1963,NA,NA,8.89672108217373
+"1055","Exelon Power","Handley","TX","Tarrant",6035,3491,"4","6035 3491 4",201095,455,"Natural Gas Steam Turbine","NG","OP",10,1976,NA,NA,5.04528576446385
+"1056","Exelon Power","Handley","TX","Tarrant",6035,3491,"5","6035 3491 5",240779,455,"Natural Gas Steam Turbine","NG","OP",10,1977,NA,NA,6.04092026694766
+"1061","Luminant Generation Company LLC","Stryker Creek","TX","Cherokee",55983,3504,"ST1","55983 3504 ST1",19652,176.8,"Natural Gas Steam Turbine","NG","OP",6,1958,NA,NA,1.26887952230418
+"1062","Luminant Generation Company LLC","Stryker Creek","TX","Cherokee",55983,3504,"ST2","55983 3504 ST2",95375,526.6,"Natural Gas Steam Turbine","NG","OP",12,1965,NA,NA,2.06751938428135
+"1063","Luminant Generation Company LLC","Trinidad (TX)","TX","Henderson",55983,3507,"6","55983 3507 6",40262,239.3,"Natural Gas Steam Turbine","NG","OP",5,1965,NA,NA,1.92065136709619
+"1066","Brownsville Public Utilities Board","Silas Ray","TX","Cameron",2409,3559,"6","2409 3559 6",4758,25,"Natural Gas Fired Combined Cycle","NG","OP",5,1959,NA,NA,2.17260273972603
+"1067","Brownsville Public Utilities Board","Silas Ray","TX","Cameron",2409,3559,"9","2409 3559 9",16200,50,"Natural Gas Fired Combined Cycle","NG","OP",6,1996,NA,NA,3.6986301369863
+"1068","City of Garland - (TX)","Ray Olinger","TX","Collin",6958,3576,"1","6958 3576 1",9479,75,"Natural Gas Steam Turbine","NG","OP",7,1967,NA,NA,1.4427701674277
+"1069","City of Garland - (TX)","Ray Olinger","TX","Collin",6958,3576,"2","6958 3576 2",32557,113.4,"Natural Gas Steam Turbine","NG","OP",1,1971,NA,NA,3.27738316703309
+"1070","City of Garland - (TX)","Ray Olinger","TX","Collin",6958,3576,"3","6958 3576 3",26026,156.6,"Natural Gas Steam Turbine","NG","OP",6,1976,NA,NA,1.89719320958496
+"1071","Lower Colorado River Authority","Sim Gideon","TX","Bastrop",11269,3601,"1","11269 3601 1",91010,136,"Natural Gas Steam Turbine","NG","OP",5,1965,NA,NA,7.6391686811711
+"1072","Lower Colorado River Authority","Sim Gideon","TX","Bastrop",11269,3601,"2","11269 3601 2",99219,136,"Natural Gas Steam Turbine","NG","OP",3,1968,NA,NA,8.3282131345689
+"1074","City of Lubbock - (TX)","Ty Cooke","TX","Lubbock",11292,3602,"1","11292 3602 1",0,44,"Natural Gas Steam Turbine","NG","OA",6,1965,NA,NA,0
+"1075","City of Lubbock - (TX)","Ty Cooke","TX","Lubbock",11292,3602,"2","11292 3602 2",0,53.6,"Natural Gas Steam Turbine","NG","OA",6,1978,NA,NA,0
+"1076","City of Lubbock - (TX)","J Robert Massengale","TX","Lubbock",11292,3604,"7","11292 3604 7",15085,22,"Natural Gas Fired Combined Cycle","NG","OP",3,1959,NA,NA,7.82741801577418
+"1078","City of Lubbock - (TX)","J Robert Massengale","TX","Lubbock",11292,3604,"6A","11292 3604 6A",13110,22,"Natural Gas Fired Combined Cycle","NG","OP",6,1957,NA,NA,6.80261519302615
+"1081","City of San Antonio - (TX)","V H Braunig","TX","Bexar",16604,3612,"1","16604 3612 1",76562,225,"Natural Gas Steam Turbine","NG","OP",3,1966,12,2024,3.88442415017757
+"1082","City of San Antonio - (TX)","V H Braunig","TX","Bexar",16604,3612,"2","16604 3612 2",52631,252,"Natural Gas Steam Turbine","NG","OP",4,1968,12,2024,2.38416865985359
+"1083","City of San Antonio - (TX)","V H Braunig","TX","Bexar",16604,3612,"3","16604 3612 3",284190,417,"Natural Gas Steam Turbine","NG","OP",5,1970,12,2024,7.77980355441674
+"1084","Brazos Electric Power Coop Inc","R W Miller","TX","Palo Pinto",2172,3628,"1","2172 3628 1",23557,66,"Natural Gas Steam Turbine","NG","OP",10,1968,NA,NA,4.07447765324478
+"1085","Brazos Electric Power Coop Inc","R W Miller","TX","Palo Pinto",2172,3628,"2","2172 3628 2",73662,100,"Natural Gas Steam Turbine","NG","OP",7,1972,NA,NA,8.40890410958904
+"1094","PacifiCorp","Gadsby","UT","Salt Lake",14354,3648,"1","14354 3648 1",9593,70.5,"Natural Gas Steam Turbine","NG","OP",9,1951,NA,NA,1.55332102723534
+"1095","PacifiCorp","Gadsby","UT","Salt Lake",14354,3648,"2","14354 3648 2",12554,75,"Natural Gas Steam Turbine","NG","OP",12,1952,NA,NA,1.91080669710807
+"1096","PacifiCorp","Gadsby","UT","Salt Lake",14354,3648,"3","14354 3648 3",29117,133.6,"Natural Gas Steam Turbine","NG","OP",6,1955,NA,NA,2.4879179996172
+"1099","Virginia Electric & Power Co","Bremo Bluff","VA","Fluvanna",19876,3796,"3","19876 3796 3",6504,69,"Natural Gas Steam Turbine","NG","OS",6,1950,3,2019,1.07603732380385
+"1100","Virginia Electric & Power Co","Bremo Bluff","VA","Fluvanna",19876,3796,"4","19876 3796 4",7579,185.2,"Natural Gas Steam Turbine","NG","OS",8,1958,3,2019,0.467161257236407
+"1101","Virginia Electric & Power Co","Chesterfield","VA","Chesterfield",19876,3797,"3","19876 3797 3",17662,112.5,"Conventional Steam Coal","BIT","OS",12,1952,3,2019,1.7921867072552
+"1102","Virginia Electric & Power Co","Chesterfield","VA","Chesterfield",19876,3797,"4","19876 3797 4",85748,187.5,"Conventional Steam Coal","BIT","OS",6,1960,3,2019,5.22057838660578
+"1106","Virginia Electric & Power Co","Chesterfield","VA","Chesterfield",19876,3797,"CT8","19876 3797 CT8",0,148,"Natural Gas Fired Combined Cycle","NG","OP",5,1992,NA,NA,0
+"1107","Virginia Electric & Power Co","Chesterfield","VA","Chesterfield",19876,3797,"CW7","19876 3797 CW7",0,74.4,"Natural Gas Fired Combined Cycle","NG","OP",6,1990,NA,NA,0
+"1108","Virginia Electric & Power Co","Chesterfield","VA","Chesterfield",19876,3797,"CW8","19876 3797 CW8",0,79.2,"Natural Gas Fired Combined Cycle","NG","OP",5,1992,NA,NA,0
+"1109","Virginia Electric & Power Co","Possum Point","VA","Prince William",19876,3804,"3","19876 3804 3",18547,113.6,"Natural Gas Steam Turbine","NG","OS",6,1955,3,2019,1.86376535468519
+"1110","Virginia Electric & Power Co","Possum Point","VA","Prince William",19876,3804,"4","19876 3804 4",78402,239.3,"Natural Gas Steam Turbine","NG","OS",4,1962,3,2019,3.74007521938989
+"1111","Virginia Electric & Power Co","Possum Point","VA","Prince William",19876,3804,"5","19876 3804 5",51881,882,"Petroleum Liquids","RFO","OP",6,1975,NA,NA,0.671483966493751
+"1113","Virginia Electric & Power Co","Possum Point","VA","Prince William",19876,3804,"6B","19876 3804 6B",0,174,"Natural Gas Fired Combined Cycle","NG","OP",7,2003,NA,NA,0
+"1114","Virginia Electric & Power Co","Possum Point","VA","Prince William",19876,3804,"6ST","19876 3804 6ST",0,265,"Natural Gas Fired Combined Cycle","NG","OP",7,2003,NA,NA,0
+"1115","Virginia Electric & Power Co","Yorktown","VA","York",19876,3809,"1","19876 3809 1",96145,187.5,"Conventional Steam Coal","BIT","OP",7,1957,3,2019,5.85357686453577
+"1117","Virginia Electric & Power Co","Yorktown","VA","York",19876,3809,"3","19876 3809 3",260841,882,"Petroleum Liquids","RFO","OP",12,1974,NA,NA,3.37600565340291
+"1134","Northern States Power Co - Minnesota","Bay Front","WI","Ashland",13781,3982,"5","13781 3982 5",0,20,"Wood/Wood Waste Biomass","WDS","OP",1,1952,NA,NA,0
+"1135","Northern States Power Co - Minnesota","Bay Front","WI","Ashland",13781,3982,"6","13781 3982 6",0,27.2,"Natural Gas Steam Turbine","NG","OP",1,1957,NA,NA,0
+"1136","Madison Gas & Electric Co","Blount Street","WI","Dane",11479,3992,"6","11479 3992 6",11558,50,"Natural Gas Steam Turbine","NG","OP",6,1957,NA,NA,2.63881278538813
+"1137","Madison Gas & Electric Co","Blount Street","WI","Dane",11479,3992,"7","11479 3992 7",14026,50,"Natural Gas Steam Turbine","NG","OP",7,1961,NA,NA,3.20228310502283
+"1156","Wisconsin Public Service Corp","Weston","WI","Marathon",20860,4078,"2","20860 4078 2",0,81.6,"Natural Gas Steam Turbine","NG","OP",9,1960,NA,NA,0
+"1159","Manitowoc Public Utilities","Manitowoc","WI","Manitowoc",11571,4125,"5","11571 4125 5",9518,22,"Wood/Wood Waste Biomass","WDS","OP",6,1955,NA,NA,4.93877127438771
+"1160","Manitowoc Public Utilities","Manitowoc","WI","Manitowoc",11571,4125,"6","11571 4125 6",2071,32,"Wood/Wood Waste Biomass","WDS","OP",6,1962,NA,NA,0.738798515981735
+"1170","City of Greenville - (TX)","Powerlane Plant","TX","Hunt",7634,4195,"ST1","7634 4195 ST1",1488,18.8,"Natural Gas Steam Turbine","NG","OP",1,1966,NA,NA,0.903526668609735
+"1173","City of Garland - (TX)","Spencer","TX","Denton",6958,4266,"4","6958 4266 4",5415,61.1,"Natural Gas Steam Turbine","NG","OP",6,1966,NA,NA,1.0117032486604
+"1174","City of Garland - (TX)","Spencer","TX","Denton",6958,4266,"5","6958 4266 5",3962,65.4,"Natural Gas Steam Turbine","NG","OP",5,1973,NA,NA,0.691564380768855
+"1179","Nueces Bay, LLC","Barney M Davis","TX","Nueces",49979,4939,"1","49979 4939 1",72907,352,"Natural Gas Steam Turbine","NG","OP",5,1974,NA,NA,2.36440820880033
+"1180","Nueces Bay, LLC","Barney M Davis","TX","Nueces",49979,4939,"2","49979 4939 2",145898,351,"Natural Gas Fired Combined Cycle","NG","OP",7,1976,NA,NA,4.74502074958696
+"1183","Public Service Co of Oklahoma","Riverside (OK)","OK","Tulsa",15474,4940,"1","15474 4940 1",178592,473,"Natural Gas Steam Turbine","NG","OP",4,1974,NA,NA,4.31019336403217
+"1184","Public Service Co of Oklahoma","Riverside (OK)","OK","Tulsa",15474,4940,"2","15474 4940 2",340226,473,"Natural Gas Steam Turbine","NG","OP",5,1976,NA,NA,8.21111722513443
+"1196","City of Burbank Water and Power","Olive","CA","Los Angeles",2507,6013,"O1","2507 6013 O1",0,50,"Natural Gas Steam Turbine","NG","SB",10,1959,NA,NA,0
+"1197","City of Burbank Water and Power","Olive","CA","Los Angeles",2507,6013,"O2","2507 6013 O2",0,59.7,"Natural Gas Steam Turbine","NG","SB",9,1964,NA,NA,0
+"1211","DTE Electric Company","Greenwood (MI)","MI","St Clair",5109,6035,"1","5109 6035 1",624797,815.4,"Natural Gas Steam Turbine","NG","OP",7,1979,NA,NA,8.74710061901994
+"1216","Florida Power & Light Co","Manatee","FL","Manatee",6452,6042,"1","6452 6042 1",690435,863.3,"Petroleum Liquids","RFO","OP",10,1976,4,2022,9.12970935039011
+"1239","Louisiana Generating LLC","Big Cajun 2","LA","Pointe Coupee",11252,6055,"2","11252 6055 2",466346,626,"Natural Gas Steam Turbine","NG","OP",7,1982,NA,NA,8.50412855413074
+"1269","Massachusetts Mun Wholes Electric Co","Stony Brook","MA","Hampden",11806,6081,"CA1","11806 6081 CA1",28493,105,"Petroleum Liquids","DFO","OP",11,1981,NA,NA,3.09773863883453
+"1270","Massachusetts Mun Wholes Electric Co","Stony Brook","MA","Hampden",11806,6081,"CT1","11806 6081 CT1",30831,85,"Petroleum Liquids","DFO","OP",11,1981,NA,NA,4.1406124093473
+"1271","Massachusetts Mun Wholes Electric Co","Stony Brook","MA","Hampden",11806,6081,"CT2","11806 6081 CT2",8128,85,"Petroleum Liquids","DFO","OP",11,1981,NA,NA,1.09159280150416
+"1272","Massachusetts Mun Wholes Electric Co","Stony Brook","MA","Hampden",11806,6081,"CT3","11806 6081 CT3",36033,85,"Petroleum Liquids","DFO","OP",11,1981,NA,NA,4.8392425463336
+"1282","FirstEnergy Generation Corp","FirstEnergy Bruce Mansfield","PA","Beaver",6526,6094,"1","6526 6094 1",75124,913.7,"Conventional Steam Coal","RC","OP",4,1976,2,2019,0.938579302479806
+"1283","FirstEnergy Generation Corp","FirstEnergy Bruce Mansfield","PA","Beaver",6526,6094,"2","6526 6094 2",71800,913.7,"Conventional Steam Coal","RC","OP",10,1977,2,2019,0.897050129360126
+"1301","Georgia Power Co","McIntosh","GA","Effingham",7140,6124,"1","7140 6124 1",23062,177.6,"Conventional Steam Coal","SUB","OP",2,1979,7,2019,1.4823470731005
+"1316","PSEG Power Connecticut LLC","New Haven Harbor","CT","New Haven",15452,6156,"1","15452 6156 1",29757,460,"Natural Gas Steam Turbine","NG","OP",7,1975,NA,NA,0.738460393091126
+"1335","Cleco Power LLC","Brame Energy Center","LA","Rapides",3265,6190,"1","3265 6190 1",237973,445.5,"Natural Gas Steam Turbine","NG","OP",6,1975,NA,NA,6.09783784060801
+"1367","Hutchinson Utilities Comm","Hutchinson Plant #2","MN","McLeod",9130,6358,"2","9130 6358 2",23020,54,"Natural Gas Fired Combined Cycle","NG","OP",11,1994,NA,NA,4.86639607644174
+"1368","Hutchinson Utilities Comm","Hutchinson Plant #2","MN","McLeod",9130,6358,"3","9130 6358 3",20,11.5,"Natural Gas Fired Combined Cycle","NG","OP",11,1994,NA,NA,0.0198530871550526
+"1371","Kauai Island Utility Cooperative","Port Allen (HI)","HI","Kauai",10071,6474,"ST1","10071 6474 ST1",765,10,"Petroleum Liquids","DFO","OP",1,1969,NA,NA,0.873287671232877
+"1380","Anchorage Municipal Light and Power","George M Sullivan Generation Plant 2","AK","Anchorage",599,6559,"7","599 6559 7",65854,102.6,"Natural Gas Fired Combined Cycle","NG","OP",6,1979,NA,NA,7.32707593438187
+"1398","City of Winfield - (KS)","East 12th Street","KS","Cowley",20813,7013,"4","20813 7013 4",3574,26.5,"Natural Gas Steam Turbine","NG","OP",6,1970,NA,NA,1.53958817954683
+"1433","Reedy Creek Improvement Dist","Central Energy Plant","FL","Orange",15776,7294,"GTG","15776 7294 GTG",0,61.5,"Natural Gas Fired Combined Cycle","NG","OA",5,1989,NA,NA,0
+"1434","Reedy Creek Improvement Dist","Central Energy Plant","FL","Orange",15776,7294,"STG","15776 7294 STG",0,8.5,"Natural Gas Fired Combined Cycle","NG","OA",1,1989,NA,NA,0
+"1468","Oklahoma Municipal Power Authority","Ponca City","OK","Kay",14077,7546,"1","14077 7546 1",0,19.8,"Natural Gas Fired Combined Cycle","NG","OP",10,1966,NA,NA,0
+"1469","Oklahoma Municipal Power Authority","Ponca City","OK","Kay",14077,7546,"3","14077 7546 3",34368,54,"Natural Gas Fired Combined Cycle","NG","OP",6,1995,NA,NA,7.26534753932014
+"1504","Allegany Generating Station, LLC","Allegany Cogen","NY","Allegany",58651,7784,"1","58651 7784 1",27048,42,"Natural Gas Fired Combined Cycle","NG","OP",6,1994,NA,NA,7.35159817351598
+"1505","Allegany Generating Station, LLC","Allegany Cogen","NY","Allegany",58651,7784,"2","58651 7784 2",9176,25,"Natural Gas Fired Combined Cycle","NG","OP",6,1994,NA,NA,4.18995433789954
+"1541","Lincoln Electric System","Terry Bundy Generating Station","NE","Lancaster",11018,7887,"1","11018 7887 1",16827,28.2,"Natural Gas Fired Combined Cycle","NG","OP",8,2004,NA,NA,6.81166812396775
+"1542","Lincoln Electric System","Terry Bundy Generating Station","NE","Lancaster",11018,7887,"2","11018 7887 2",39118,60.5,"Natural Gas Fired Combined Cycle","NG","OP",10,2003,NA,NA,7.3810332465376
+"1543","Lincoln Electric System","Terry Bundy Generating Station","NE","Lancaster",11018,7887,"3","11018 7887 3",30848,60.5,"Natural Gas Fired Combined Cycle","NG","OP",4,2004,NA,NA,5.82059700366051
+"1573","Granite Shore Power","Newington","NH","Rockingham",62032,8002,"1","62032 8002 1",114889,414,"Petroleum Liquids","RFO","OP",6,1974,NA,NA,3.16791851410672
+"1574","CCI Roseton LLC","Roseton Generating Facility","NY","Orange",5511,8006,"1","5511 8006 1",264802,621,"Natural Gas Steam Turbine","NG","OP",12,1974,NA,NA,4.86771961558541
+"1575","CCI Roseton LLC","Roseton Generating Facility","NY","Orange",5511,8006,"2","5511 8006 2",251706,621,"Natural Gas Steam Turbine","NG","OP",9,1974,NA,NA,4.62698255134229
+"1588","Public Service Co of Oklahoma","Comanche (OK)","OK","Comanche",15474,8059,"1S","15474 8059 1S",76099,120,"Natural Gas Fired Combined Cycle","NG","OP",2,1974,NA,NA,7.2392503805175
+"1590","Public Service Co of Oklahoma","Comanche (OK)","OK","Comanche",15474,8059,"1G2","15474 8059 1G2",0,85,"Natural Gas Fired Combined Cycle","NG","OP",8,1973,NA,NA,0
+"1597","Salt River Project","Santan","AZ","Maricopa",16572,8068,"ST3","16572 8068 ST3",84821,103.5,"Natural Gas Fired Combined Cycle","NG","OP",10,1974,NA,NA,9.35532614210399
+"1598","Salt River Project","Santan","AZ","Maricopa",16572,8068,"ST4","16572 8068 ST4",88109,103.5,"Natural Gas Fired Combined Cycle","NG","OP",5,1975,NA,NA,9.71797586746961
+"1608","Portland General Electric Co","Beaver","OR","Columbia",15248,8073,"3","15248 8073 3",59204,68.3,"Natural Gas Fired Combined Cycle","NG","OP",8,1974,NA,NA,9.89523790422324
+"1610","Portland General Electric Co","Beaver","OR","Columbia",15248,8073,"5","15248 8073 5",36507,68.3,"Natural Gas Fired Combined Cycle","NG","OP",8,1974,NA,NA,6.10170681321326
+"1612","Portland General Electric Co","Beaver","OR","Columbia",15248,8073,"7","15248 8073 7",129568,176.4,"Natural Gas Fired Combined Cycle","NG","OP",11,1977,NA,NA,8.38484556684165
+"1627","U S Power Generating Company LLC","Astoria Generating Station","NY","Queens",54863,8906,"2","54863 8906 2",16215,180,"Natural Gas Steam Turbine","NG","OP",3,1954,NA,NA,1.02834855403349
+"1628","U S Power Generating Company LLC","Astoria Generating Station","NY","Queens",54863,8906,"3","54863 8906 3",314770,376,"Natural Gas Steam Turbine","NG","OP",9,1958,NA,NA,9.55655542601768
+"1629","U S Power Generating Company LLC","Astoria Generating Station","NY","Queens",54863,8906,"4","54863 8906 4",0,387,"Natural Gas Steam Turbine","NG","OS",12,1961,NA,NA,0
+"1636","WestRock-West Point Mill","WestRock-West Point Mill","VA","King William",17465,10017,"GEN8","17465 10017 GEN8",0,5,"Wood/Wood Waste Biomass","BLQ","SB",1,1954,NA,NA,0
+"1642","RED-Rochester, LLC","RED-Rochester, LLC","NY","Monroe",5624,10025,"22TG","5624 10025 22TG",11,12.5,"Conventional Steam Coal","BIT","OS",8,1954,NA,NA,0.0100456621004566
+"1643","RED-Rochester, LLC","RED-Rochester, LLC","NY","Monroe",5624,10025,"41TG","5624 10025 41TG",977,25.6,"Conventional Steam Coal","BIT","OP",5,1964,NA,NA,0.435662813926941
+"1651","Energy Center Dover LLC","Energy Center Dover","DE","Kent",7860,10030,"COG1","7860 10030 COG1",11740,18,"Natural Gas Fired Combined Cycle","NG","OP",5,1985,NA,NA,7.44545915778792
+"1654","Calpine Gilroy Cogen LP","Gilroy Power Plant","CA","Santa Clara",3028,10034,"GEN1","3028 10034 GEN1",72675,90,"Natural Gas Fired Combined Cycle","NG","OP",10,1987,NA,NA,9.21803652968037
+"1655","Calpine Gilroy Cogen LP","Gilroy Power Plant","CA","Santa Clara",3028,10034,"GEN2","3028 10034 GEN2",30007,40,"Natural Gas Fired Combined Cycle","NG","OP",10,1987,NA,NA,8.56364155251141
+"1659","Mars Wrigley Confectionery US, LLC","Mars Wrigley Confectionery US, LLC","NJ","WARREN",11401,10061,"GEN2","11401 10061 GEN2",0,1.4,"Natural Gas Fired Combined Cycle","NG","OS",10,1984,NA,NA,0
+"1663","ALLETE, Inc.","Taconite Harbor Energy Center","MN","Cook",12647,10075,"GEN1","12647 10075 GEN1",0,84,"Conventional Steam Coal","SUB","SB",1,1957,NA,NA,0
+"1664","ALLETE, Inc.","Taconite Harbor Energy Center","MN","Cook",12647,10075,"GEN2","12647 10075 GEN2",0,84,"Conventional Steam Coal","SUB","SB",1,1957,NA,NA,0
+"1674","PInova Inc","PInova Inc","GA","Glynn",8486,10120,"GEN5","8486 10120 GEN5",0,7.1,"Wood/Wood Waste Biomass","WDS","OP",1,1980,NA,NA,0
+"1679","Wellhead Energy, LLC","Fresno Cogen Partners","CA","Fresno",20323,10156,"GEN2","20323 10156 GEN2",452,10,"Natural Gas Fired Combined Cycle","NG","OP",1,1990,NA,NA,0.515981735159817
+"1680","Wellhead Energy, LLC","Fresno Cogen Partners","CA","Fresno",20323,10156,"GEN4","20323 10156 GEN4",3167,50.3,"Natural Gas Fired Combined Cycle","NG","OP",1,2004,NA,NA,0.71874687945387
+"1681","Seadrift Coke L P","Seadrift Coke LP","TX","Calhoun",54705,10167,"GEN1","54705 10167 GEN1",2791,7.6,"Petroleum Coke","PC","OP",11,1983,NA,NA,4.1922013938957
+"1682","Carson Cogeneration Co","Carson Cogeneration","CA","Los Angeles",3084,10169,"GEN1","3084 10169 GEN1",0,45.3,"Natural Gas Fired Combined Cycle","NG","OA",12,1989,NA,NA,0
+"1683","Carson Cogeneration Co","Carson Cogeneration","CA","Los Angeles",3084,10169,"GEN2","3084 10169 GEN2",0,10.5,"Natural Gas Fired Combined Cycle","NG","OA",1,1990,NA,NA,0
+"1699","Merck & Co Inc","Merck Rahway Power Plant","NJ","Union",12311,10224,"GEN8","12311 10224 GEN8",0,5,"Natural Gas Steam Turbine","NG","OA",1,1977,NA,NA,0
+"1700","Merck & Co Inc","Merck Rahway Power Plant","NJ","Union",12311,10224,"GEN9","12311 10224 GEN9",0,10.8,"Natural Gas Steam Turbine","NG","OP",1,2004,NA,NA,0
+"1708","Pixelle Specialty Solutions LLC - (OH)","Pixelle Specialty Solutions LLC - Chillicothe Facility","OH","Ross",61723,10244,"T-10","61723 10244 T-10",0,10.6,"Wood/Wood Waste Biomass","BLQ","OS",2,1952,NA,NA,0
+"1723","Louisiana Sugar Refining LLC","Louisiana Sugar Refining","LA","St James",57145,10301,"GEN2","57145 10301 GEN2",445,2.5,"Natural Gas Steam Turbine","NG","OP",3,1977,NA,NA,2.03196347031963
+"1724","Louisiana Sugar Refining LLC","Louisiana Sugar Refining","LA","St James",57145,10301,"GEN3","57145 10301 GEN3",0,1.7,"Natural Gas Steam Turbine","NG","SB",2,1957,NA,NA,0
+"1727","Northeast Energy Associates LP","Bellingham Cogeneration Facility","MA","Norfolk",21970,10307,"CT1","21970 10307 CT1",43539,128.7,"Natural Gas Fired Combined Cycle","NG","OP",9,1991,NA,NA,3.86185351938777
+"1728","Northeast Energy Associates LP","Bellingham Cogeneration Facility","MA","Norfolk",21970,10307,"CT2","21970 10307 CT2",51659,128.7,"Natural Gas Fired Combined Cycle","NG","OP",9,1991,NA,NA,4.58208711633369
+"1729","Northeast Energy Associates LP","Bellingham Cogeneration Facility","MA","Norfolk",21970,10307,"ST1","21970 10307 ST1",33218,128.7,"Natural Gas Fired Combined Cycle","NG","OP",9,1991,NA,NA,2.94639404228445
+"1748","Greenleaf Energy LLC","Greenleaf 1 Power Plant","CA","Sutter",59879,10350,"GEN2","59879 10350 GEN2",9681,20,"Natural Gas Fired Combined Cycle","NG","OP",2,1989,3,2019,5.52568493150685
+"1759","City Point Energy Center","James River Genco LLC","VA","Hopewell City",61138,10377,"GEN1","61138 10377 GEN1",31118,57.4,"Conventional Steam Coal","BIT","OP",1,1988,6,2019,6.18864652443002
+"1760","City Point Energy Center","James River Genco LLC","VA","Hopewell City",61138,10377,"GEN2","61138 10377 GEN2",13059,57.4,"Conventional Steam Coal","BIT","OP",1,1988,6,2019,2.59713140184239
+"1765","Edgecombe Operating Services LLC","Edgecombe Genco LLC","NC","Edgecombe",55739,10384,"GEN1","55739 10384 GEN1",4423,57.4,"Conventional Steam Coal","BIT","OP",10,1990,10,2020,0.879631839371231
+"1766","Edgecombe Operating Services LLC","Edgecombe Genco LLC","NC","Edgecombe",55739,10384,"GEN2","55739 10384 GEN2",4659,57.4,"Conventional Steam Coal","BIT","OP",10,1990,10,2020,0.926566750990406
+"1767","ArcelorMittal Indiana Harbor West","ArcelorMittal Indiana Harbor West","IN","Lake",56165,10397,"GEN5","56165 10397 GEN5",0,12.5,"Other Gases","BFG","OP",10,1939,NA,NA,0
+"1768","ArcelorMittal Indiana Harbor West","ArcelorMittal Indiana Harbor West","IN","Lake",56165,10397,"GEN6","56165 10397 GEN6",0,12.5,"Other Gases","BFG","SB",5,1953,NA,NA,0
+"1770","ArcelorMittal Indiana Harbor West","ArcelorMittal Indiana Harbor West","IN","Lake",56165,10397,"GEN8","56165 10397 GEN8",22225,40,"Other Gases","BFG","OP",6,1961,NA,NA,6.34275114155251
+"1772","ArcelorMittal Cleveland Inc","Arcelormittal Cleveland Inc","OH","Cuyahoga",9454,10398,"GEN3","9454 10398 GEN3",0,10,"Other Gases","BFG","OP",1,1965,NA,NA,0
+"1773","ArcelorMittal Cleveland Inc","Arcelormittal Cleveland Inc","OH","Cuyahoga",9454,10398,"GEN5","9454 10398 GEN5",0,10,"Other Gases","BFG","OP",1,1965,NA,NA,0
+"1776","KES Kingsburg LP","Kingsburg Cogen","CA","Fresno",10337,10405,"GEN1","10337 10405 GEN1",3704,23.1,"Natural Gas Fired Combined Cycle","NG","OP",12,1990,NA,NA,1.8304374468758
+"1777","KES Kingsburg LP","Kingsburg Cogen","CA","Fresno",10337,10405,"GEN2","10337 10405 GEN2",1260,13.1,"Natural Gas Fired Combined Cycle","NG","OP",12,1990,NA,NA,1.09798180487295
+"1780","Ascend Performance Materials LLC","Pensacola Florida Plant","FL","Escambia",56600,10416,"GEN3","56600 10416 GEN3",0,6,"Natural Gas Steam Turbine","NG","OP",3,1958,NA,NA,0
+"1789","Anheuser-Busch Inc","Anheuser-Busch St Louis","MO","St Louis City",623,10430,"GEN1","623 10430 GEN1",0,11,"Natural Gas Steam Turbine","NG","OA",1,1947,NA,NA,0
+"1791","Anheuser-Busch Inc","Anheuser-Busch St Louis","MO","St Louis City",623,10430,"GEN4","623 10430 GEN4",0,4.1,"Natural Gas Steam Turbine","NG","OS",1,1939,NA,NA,0
+"1794","FPL Energy Operating Services Inc - SEGS","SEGS III","CA","San Bernardino",55711,10439,"GEN1","55711 10439 GEN1",0,34.2,"Solar Thermal without Energy Storage","SUN","OP",12,1986,NA,NA,0
+"1795","FPL Energy Operating Services Inc - SEGS","SEGS IV","CA","San Bernardino",55711,10440,"GEN1","55711 10440 GEN1",0,34.2,"Solar Thermal without Energy Storage","SUN","OP",12,1986,NA,NA,0
+"1796","FPL Energy Operating Services Inc - SEGS","SEGS V","CA","San Bernardino",55711,10441,"GEN1","55711 10441 GEN1",0,34.2,"Solar Thermal without Energy Storage","SUN","OP",10,1987,NA,NA,0
+"1797","FPL Energy Operating Services Inc - SEGS","SEGS VI","CA","San Bernardino",55711,10442,"GEN1","55711 10442 GEN1",9161,35,"Solar Thermal without Energy Storage","SUN","OP",12,1988,NA,NA,2.98793215916504
+"1798","FPL Energy Operating Services Inc - SEGS","SEGS VII","CA","San Bernardino",55711,10443,"GEN1","55711 10443 GEN1",11706,35,"Solar Thermal without Energy Storage","SUN","OP",12,1988,NA,NA,3.81800391389433
+"1799","Terra-Gen Operating Co-Solar","SEGS VIII","CA","San Bernardino",61950,10444,"GEN1","61950 10444 GEN1",15404,92,"Solar Thermal without Energy Storage","SUN","OP",12,1989,NA,NA,1.91135596585269
+"1800","Terra-Gen Operating Co-Solar","SEGS IX","CA","San Bernardino",61950,10446,"GEN1","61950 10446 GEN1",14458,92,"Solar Thermal without Energy Storage","SUN","OP",9,1990,NA,NA,1.79397458804844
+"1810","ND Paper LLC","Mead Rumford Cogen","ME","Oxford",61813,10491,"3STG","61813 10491 3STG",0,12.5,"Natural Gas Steam Turbine","NG","SB",10,1954,NA,NA,0
+"1818","Veolia NA - Municipal & Commercial Business","Lederle Laboratories","NY","Rockland",60641,10521,"3A","60641 10521 3A",1,1.5,"Natural Gas Fired Combined Cycle","NG","OP",12,1998,NA,NA,0.0076103500761035
+"1822","Veolia NA - Municipal & Commercial Business","Lederle Laboratories","NY","Rockland",60641,10521,"GEN3","60641 10521 GEN3",2,2.2,"Natural Gas Fired Combined Cycle","NG","OP",7,1990,NA,NA,0.0103777501037775
+"1841","Algonquin Windsor Locks LLC","Algonquin Windsor Locks","CT","Hartford",291,10567,"GTG","291 10567 GTG",34278,40,"Natural Gas Fired Combined Cycle","NG","OP",1,1990,NA,NA,9.78253424657534
+"1842","Algonquin Windsor Locks LLC","Algonquin Windsor Locks","CT","Hartford",291,10567,"STG","291 10567 STG",13585,16,"Natural Gas Fired Combined Cycle","NG","OP",1,1990,NA,NA,9.69249429223744
+"1860","Lakeside Beaver Falls LLC","CH Resources Beaver Falls","NY","Lewis",58338,10617,"GEN1","58338 10617 GEN1",10785,65.5,"Natural Gas Fired Combined Cycle","NG","OP",4,1995,NA,NA,1.87964028024678
+"1861","Lakeside Beaver Falls LLC","CH Resources Beaver Falls","NY","Lewis",58338,10617,"GEN2","58338 10617 GEN2",48,42.3,"Natural Gas Fired Combined Cycle","NG","OP",4,1995,NA,NA,0.0129537873635804
+"1862","Carthage Energy LLC","Carthage Energy LLC","NY","Jefferson",3085,10620,"GEN1","3085 10620 GEN1",14128,40.9,"Natural Gas Fired Combined Cycle","NG","OP",11,1991,NA,NA,3.94324055776981
+"1863","Carthage Energy LLC","Carthage Energy LLC","NY","Jefferson",3085,10620,"GEN2","3085 10620 GEN2",5814,22,"Natural Gas Fired Combined Cycle","NG","OP",11,1991,NA,NA,3.01681195516812
+"1864","Lakeside Syracuse LLC","CH Resources Syracuse","NY","Onondaga",58337,10621,"GEN1","58337 10621 GEN1",31769,65.5,"Natural Gas Fired Combined Cycle","NG","OP",1,1994,NA,NA,5.53679110460455
+"1865","Lakeside Syracuse LLC","CH Resources Syracuse","NY","Onondaga",58337,10621,"GEN2","58337 10621 GEN2",688,37.2,"Natural Gas Fired Combined Cycle","NG","OP",1,1994,NA,NA,0.211125840820936
+"1867","Los Angeles County","Civic Center","CA","Los Angeles",11216,10623,"GEN2","11216 10623 GEN2",0,12.4,"Natural Gas Fired Combined Cycle","NG","OP",8,1989,NA,NA,0
+"1883","Collins Pine Co","Collins Pine Project","CA","Plumas",3953,10661,"GEN4","3953 10661 GEN4",8763,12,"Wood/Wood Waste Biomass","WDS","OP",12,1985,NA,NA,8.33618721461187
+"1888","Colorado Energy Management","Brush Generation Facility","CO","Morgan",55307,10682,"GT1","55307 10682 GT1",10914,23.8,"Natural Gas Fired Combined Cycle","NG","OP",10,1990,NA,NA,5.23483365949119
+"1889","Colorado Energy Management","Brush Generation Facility","CO","Morgan",55307,10682,"GT3","55307 10682 GT3",20156,37,"Natural Gas Fired Combined Cycle","NG","OP",1,1994,NA,NA,6.21868443786252
+"1890","Colorado Energy Management","Brush Generation Facility","CO","Morgan",55307,10682,"GT4","55307 10682 GT4",16535,23.8,"Natural Gas Fired Combined Cycle","NG","OP",6,1999,NA,NA,7.93091209086374
+"1891","Colorado Energy Management","Brush Generation Facility","CO","Morgan",55307,10682,"GT5","55307 10682 GT5",15635,23.8,"Natural Gas Fired Combined Cycle","NG","OP",6,1999,NA,NA,7.49923256974022
+"1892","Colorado Energy Management","Brush Generation Facility","CO","Morgan",55307,10682,"ST1","55307 10682 ST1",8579,38,"Natural Gas Fired Combined Cycle","NG","OP",10,1990,NA,NA,2.57720499879837
+"1893","Colorado Energy Management","Brush Generation Facility","CO","Morgan",55307,10682,"ST2","55307 10682 ST2",14792,37,"Natural Gas Fired Combined Cycle","NG","OP",1,1994,NA,NA,4.5637418240158
+"1894","Colorado Energy Management","Brush Generation Facility","CO","Morgan",55307,10682,"ST4","55307 10682 ST4",39040,90,"Natural Gas Fired Combined Cycle","NG","OP",9,2002,NA,NA,4.95180111618468
+"1895","Searles Valley Minerals Operations Inc.","Argus Cogen Plant","CA","San Bernardino",49968,10684,"TG5","49968 10684 TG5",1542,7.5,"Conventional Steam Coal","RC","SB",12,1947,NA,NA,2.34703196347032
+"1907","MFGR LLC","Red Shield Envir Old Town Facility","ME","Penobscot",56448,10700,"TG4","56448 10700 TG4",0,12.5,"Wood/Wood Waste Biomass","BLQ","OS",7,1965,NA,NA,0
+"1908","MFGR LLC","Red Shield Envir Old Town Facility","ME","Penobscot",56448,10700,"TG6","56448 10700 TG6",0,16,"Wood/Wood Waste Biomass","WDS","OS",12,1987,NA,NA,0
+"1909","Selkirk Cogen Partners LP","Selkirk Cogen","NY","Albany",16909,10725,"GEN1","16909 10725 GEN1",22200,95.2,"Natural Gas Fired Combined Cycle","NG","OP",4,1992,NA,NA,2.66202371359503
+"1912","Selkirk Cogen Partners LP","Selkirk Cogen","NY","Albany",16909,10725,"GEN5","16909 10725 GEN5",107078,148.4,"Natural Gas Fired Combined Cycle","NG","OP",4,1994,NA,NA,8.23687060763825
+"1914","Masspower","Masspower","MA","Hampden",11741,10726,"GEN2","11741 10726 GEN2",0,90,"Natural Gas Fired Combined Cycle","NG","OP",7,1993,NA,NA,0
+"1916","Hoge Lumber Co","Hoge Lumber","OH","Auglaize",8696,10739,"AC3M","8696 10739 AC3M",2425,3,"Wood/Wood Waste Biomass","WDS","OP",12,1985,NA,NA,9.22754946727549
+"1926","Midland Cogeneration Venture","Midland Cogeneration Venture","MI","Midland",12492,10745,"ST2","12492 10745 ST2",0,380,"Natural Gas Fired Combined Cycle","NG","SB",9,1990,NA,NA,0
+"1936","Tri-State G & T Assn, Inc","Rifle Generating Station","CO","Garfield",30151,10755,"GT2","30151 10755 GT2",1438,15,"Natural Gas Fired Combined Cycle","NG","OP",8,1987,NA,NA,1.09436834094368
+"1937","Tri-State G & T Assn, Inc","Rifle Generating Station","CO","Garfield",30151,10755,"GT3","30151 10755 GT3",1201,15,"Natural Gas Fired Combined Cycle","NG","OP",8,1987,NA,NA,0.91400304414003
+"1938","Tri-State G & T Assn, Inc","Rifle Generating Station","CO","Garfield",30151,10755,"GT4","30151 10755 GT4",1586,15,"Natural Gas Fired Combined Cycle","NG","OP",8,1987,NA,NA,1.20700152207002
+"1939","Tri-State G & T Assn, Inc","Rifle Generating Station","CO","Garfield",30151,10755,"ST1","30151 10755 ST1",2931,39,"Natural Gas Fired Combined Cycle","NG","OP",8,1987,NA,NA,0.857920618194591
+"1942","Nevada Power Co","Las Vegas Generating Station","NV","Clark",13407,10761,"GEN3","13407 10761 GEN3",52955,60.5,"Natural Gas Fired Combined Cycle","NG","OP",1,2003,NA,NA,9.9918864862825
+"1943","Nevada Power Co","Las Vegas Generating Station","NV","Clark",13407,10761,"GEN4","13407 10761 GEN4",52126,60.5,"Natural Gas Fired Combined Cycle","NG","OP",1,2003,NA,NA,9.83546548926375
+"1948","Blue Lake Power LLC","Blue Lake Power LLC","CA","Humboldt",56120,10764,"GEN1","56120 10764 GEN1",0,13.8,"Wood/Wood Waste Biomass","WDS","OS",7,1985,NA,NA,0
+"1962","Invista","Camden South Carolina","SC","Kershaw",50006,10795,"GEN1","50006 10795 GEN1",2304,5.5,"Natural Gas Steam Turbine","NG","OP",1,1952,12,2020,4.78206724782067
+"1963","Invista","Camden South Carolina","SC","Kershaw",50006,10795,"GEN3","50006 10795 GEN3",0,19,"Natural Gas Steam Turbine","NG","OP",7,1993,NA,NA,0
+"1978","Covanta Mendota LP","Covanta Mendota","CA","Fresno",55989,10837,"GEN1","55989 10837 GEN1",0,28,"Wood/Wood Waste Biomass","WDS","OS",7,1989,NA,NA,0
+"1981","Covanta Delano Inc","Covanta Delano Energy","CA","Kern",56099,10840,"GEN1","56099 10840 GEN1",0,31.8,"Wood/Wood Waste Biomass","WDS","OS",6,1990,NA,NA,0
+"1982","Covanta Delano Inc","Covanta Delano Energy","CA","Kern",56099,10840,"GEN2","56099 10840 GEN2",0,25.2,"Wood/Wood Waste Biomass","WDS","OS",7,1993,NA,NA,0
+"1985","Cargill Inc North America Sweetners","Cargill Corn Milling Division","IA","Monroe",3106,10855,"GEN1","3106 10855 GEN1",82,20,"Natural Gas Steam Turbine","NG","SB",12,1952,NA,NA,0.0468036529680365
+"2007","Biomass One LP","Biomass One LP","OR","Jackson",1745,10869,"BBC","1745 10869 BBC",0,10,"Wood/Wood Waste Biomass","WDS","SB",12,1985,NA,NA,0
+"2011","Pittsfield Generating Company, LP","Pittsfield Generating LP","MA","Berkshire",15114,50002,"GEN1","15114 50002 GEN1",25807,40.7,"Natural Gas Fired Combined Cycle","NG","OP",7,1990,NA,NA,7.23834045751854
+"2012","Pittsfield Generating Company, LP","Pittsfield Generating LP","MA","Berkshire",15114,50002,"GEN2","15114 50002 GEN2",28040,40.7,"Natural Gas Fired Combined Cycle","NG","OP",7,1990,NA,NA,7.86465170026814
+"2013","Pittsfield Generating Company, LP","Pittsfield Generating LP","MA","Berkshire",15114,50002,"GEN3","15114 50002 GEN3",28009,40.7,"Natural Gas Fired Combined Cycle","NG","OP",7,1990,NA,NA,7.85595682855957
+"2014","Pittsfield Generating Company, LP","Pittsfield Generating LP","MA","Berkshire",15114,50002,"GEN4","15114 50002 GEN4",36099,53.4,"Natural Gas Fired Combined Cycle","NG","OP",7,1990,NA,NA,7.71702324149607
+"2036","Mendocino Forest Products","Humboldt Sawmill Company","CA","Humboldt",60153,50049,"GEN3","60153 50049 GEN3",0,7.5,"Wood/Wood Waste Biomass","WDS","OP",1,1938,NA,NA,0
+"2061","Sierra Pacific Industries Inc","Sierra Pacific Quincy Facility","CA","Plumas",17164,50112,"GEN3","17164 50112 GEN3",226,35.2,"Wood/Wood Waste Biomass","WDS","OP",5,2018,NA,NA,0.0732928601079286
+"2062","University of Texas at Austin","Hal C Weaver Power Plant","TX","Travis",19537,50118,"GEN4","19537 50118 GEN4",2078,7.6,"Natural Gas Fired Combined Cycle","NG","OP",10,1951,NA,NA,3.12124489305455
+"2063","University of Texas at Austin","Hal C Weaver Power Plant","TX","Travis",19537,50118,"GEN5","19537 50118 GEN5",651,6,"Natural Gas Fired Combined Cycle","NG","OP",9,1959,NA,NA,1.23858447488584
+"2070","Signal Hill Generating LLC","Signal Hill Generating LLC","TX","Wichita",54777,50127,"GTA","54777 50127 GTA",5126,20,"Natural Gas Fired Combined Cycle","NG","OP",6,1987,NA,NA,2.92579908675799
+"2071","Signal Hill Generating LLC","Signal Hill Generating LLC","TX","Wichita",54777,50127,"GTB","54777 50127 GTB",5073,20,"Natural Gas Fired Combined Cycle","NG","OP",6,1987,NA,NA,2.89554794520548
+"2072","Signal Hill Generating LLC","Signal Hill Generating LLC","TX","Wichita",54777,50127,"GTC","54777 50127 GTC",4662,20,"Natural Gas Fired Combined Cycle","NG","OP",6,1987,NA,NA,2.66095890410959
+"2073","Signal Hill Generating LLC","Signal Hill Generating LLC","TX","Wichita",54777,50127,"STD","54777 50127 STD",3695,20,"Natural Gas Fired Combined Cycle","NG","OP",6,1987,NA,NA,2.10901826484018
+"2075","Imperial Savannah LP","Imperial Savannah LP","GA","Chatham",27131,50146,"GENA","27131 50146 GENA",1686,2.7,"Natural Gas Steam Turbine","NG","OP",3,1948,NA,NA,7.12836123795028
+"2079","Praxair Inc","Praxair Wilmington","CA","Los Angeles",15320,50148,"GEN1","15320 50148 GEN1",0,25,"Natural Gas Fired Combined Cycle","NG","SB",12,1988,NA,NA,0
+"2080","Praxair Inc","Praxair Wilmington","CA","Los Angeles",15320,50148,"GEN2","15320 50148 GEN2",0,6,"Natural Gas Fired Combined Cycle","NG","SB",12,1988,NA,NA,0
+"2095","International Paper Columbus Mill","Columbus MS","MS","Lowndes",20492,50184,"TG4","20492 50184 TG4",1901,4,"Wood/Wood Waste Biomass","BLQ","SB",8,1987,NA,NA,5.42522831050228
+"2103","Domtar Paper Company LLC","Domtar Paper Co LLC Plymouth NC","NC","Martin",55903,50189,"TG7","55903 50189 TG7",0,7.5,"Wood/Wood Waste Biomass","BLQ","OS",9,1952,NA,NA,0
+"2107","International Paper Corporation - Springfield","IP Springfield Oregon","OR","Lane",56289,50191,"TG1","56289 50191 TG1",0,7.5,"Wood/Wood Waste Biomass","BLQ","OS",1,1949,NA,NA,0
+"2108","International Paper Corporation - Springfield","IP Springfield Oregon","OR","Lane",56289,50191,"TG2","56289 50191 TG2",0,5,"Wood/Wood Waste Biomass","BLQ","OS",1,1949,NA,NA,0
+"2109","International Paper Corporation - Springfield","IP Springfield Oregon","OR","Lane",56289,50191,"TG3","56289 50191 TG3",0,12.5,"Wood/Wood Waste Biomass","BLQ","OS",1,1953,NA,NA,0
+"2123","Robbins Lumber Inc","Robbins Lumber","ME","Waldo",16191,50230,"WEST","16191 50230 WEST",0,1.2,"Wood/Wood Waste Biomass","WDS","OS",1,1981,NA,NA,0
+"2124","SDS Lumber Co","SDS Lumber Gorge Energy Division","WA","Klickitat",22803,50231,"TG2","22803 50231 TG2",0,5,"Wood/Wood Waste Biomass","WDS","SB",7,1985,NA,NA,0
+"2125","SDS Lumber Co","SDS Lumber Gorge Energy Division","WA","Klickitat",22803,50231,"TG3","22803 50231 TG3",0,5,"Wood/Wood Waste Biomass","WDS","OP",7,2002,NA,NA,0
+"2157","Lafarge Corp","Alpena Cement Plant","MI","Alpena",40430,50305,"GE10","40430 50305 GE10",0,3.2,"Petroleum Coke","PC","OP",2,1999,NA,NA,0
+"2162","University of Oklahoma","University of Oklahoma","OK","Cleveland",19533,50307,"GEN1","19533 50307 GEN1",14,7.5,"Natural Gas Steam Turbine","NG","OP",9,1964,NA,NA,0.0213089802130898
+"2163","University of Oklahoma","University of Oklahoma","OK","Cleveland",19533,50307,"GEN2","19533 50307 GEN2",1,2.5,"Natural Gas Steam Turbine","NG","OP",1,2001,NA,NA,0.0045662100456621
+"2164","University of Oklahoma","University of Oklahoma","OK","Cleveland",19533,50307,"GEN3","19533 50307 GEN3",0,2.5,"Natural Gas Steam Turbine","NG","OP",8,1949,NA,NA,0
+"2165","University of Oklahoma","University of Oklahoma","OK","Cleveland",19533,50307,"GEN4","19533 50307 GEN4",0,4.3,"Natural Gas Steam Turbine","NG","OP",1,1985,NA,NA,0
+"2166","Doyon Utilities - Ft. Wainwright","Utility Plants Section","AK","Fairbanks North Star",56389,50308,"GEN1","56389 50308 GEN1",0,5,"Conventional Steam Coal","SUB","OS",1,1955,NA,NA,0
+"2171","Nalco Co","Nalco","IL","DuPage",14293,50326,"AT1","14293 50326 AT1",1800,4,"Natural Gas Fired Combined Cycle","NG","OP",11,1985,NA,NA,5.13698630136986
+"2172","Nalco Co","Nalco","IL","DuPage",14293,50326,"DPOX","14293 50326 DPOX",0,0.7,"Natural Gas Fired Combined Cycle","NG","OP",11,1985,NA,NA,0
+"2176","University of Notre Dame","University of Notre Dame","IN","St Joseph",19564,50366,"GEN2","19564 50366 GEN2",1049,1.7,"Natural Gas Steam Turbine","NG","OP",7,1952,NA,NA,7.04405049691109
+"2182","Cornell University","Cornell University Central Heat","NY","Tompkins",21508,50368,"TG1","21508 50368 TG1",743,1.8,"Natural Gas Fired Combined Cycle","NG","OP",7,1988,NA,NA,4.71207508878742
+"2187","U S Air Force-Eielson AFB","Eielson AFB Central Heat & Power Plant","AK","Fairbanks North Star",22199,50392,"TG1","22199 50392 TG1",0,2.5,"Conventional Steam Coal","SUB","OP",10,1952,NA,NA,0
+"2188","U S Air Force-Eielson AFB","Eielson AFB Central Heat & Power Plant","AK","Fairbanks North Star",22199,50392,"TG2","22199 50392 TG2",318,2.5,"Conventional Steam Coal","SUB","OP",10,1952,NA,NA,1.45205479452055
+"2199","Roseburg Forest Products Co","Dillard Complex","OR","Douglas",16294,50396,"GEN5","16294 50396 GEN5",8233,11.5,"Wood/Wood Waste Biomass","WDS","OP",1,1955,NA,NA,8.17252332737741
+"2200","Roseburg Forest Products Co","Dillard Complex","OR","Douglas",16294,50396,"GEN6","16294 50396 GEN6",0,11.5,"Wood/Wood Waste Biomass","WDS","OS",1,1955,NA,NA,0
+"2212","DTE Energy Services","Mobile Energy Services LLC","AL","Mobile",34672,50407,"GEN6","34672 50407 GEN6",0,35.7,"Natural Gas Steam Turbine","NG","OS",7,1985,9,2019,0
+"2218","University of Michigan","University of Michigan","MI","Washtenaw",19588,50431,"TG7","19588 50431 TG7",0,12.5,"Natural Gas Fired Combined Cycle","NG","OS",1,1975,NA,NA,0
+"2229","Indeck-Yerkes Ltd Partnership","Indeck Yerkes Energy Center","NY","Erie",9243,50451,"GEN2","9243 50451 GEN2",15091,19.3,"Natural Gas Fired Combined Cycle","NG","OP",12,1989,NA,NA,8.9259942744931
+"2230","Procter & Gamble Co","Procter & Gamble Cincinnati Plant","OH","Hamilton",15400,50456,"GEN1","15400 50456 GEN1",5101,12.5,"Natural Gas Steam Turbine","NG","OP",11,1965,NA,NA,4.65844748858447
+"2233","Procter & Gamble Ppr Prdts Co","Procter & Gamble Mehoopany Mill","PA","Wyoming",15394,50463,"GEN2","15394 50463 GEN2",1510,2.6,"Natural Gas Steam Turbine","NG","OA",10,1984,NA,NA,6.62978573937478
+"2272","Westlake Chemical Natrium Plant","Axiall Natrium Plant","WV","Marshall",60586,50491,"GEN4","60586 50491 GEN4",0,7.5,"Natural Gas Steam Turbine","NG","OP",1,1943,NA,NA,0
+"2280","Capitol District Energy Center","Capitol District Energy Center","CT","Hartford",2956,50498,"STG","2956 50498 STG",16663,30.7,"Natural Gas Fired Combined Cycle","NG","OP",10,1988,NA,NA,6.1959900644029
+"2281","Tesoro Refining and Marketing Company","Equilon Los Angeles Refining","CA","Los Angeles",55985,50530,"GEN3","55985 50530 GEN3",14508,23,"Other Gases","OG","OA",4,1991,NA,NA,7.20071471113758
+"2282","Harbor Cogeneration Co.","Harbor Cogen","CA","Los Angeles",8303,50541,"ST1","8303 50541 ST1",0,13.6,"Natural Gas Fired Combined Cycle","NG","OA",6,2001,NA,NA,0
+"2283","Harbor Cogeneration Co.","Harbor Cogen","CA","Los Angeles",8303,50541,"ST2","8303 50541 ST2",0,11.5,"Natural Gas Fired Combined Cycle","NG","OA",6,2001,NA,NA,0
+"2284","Harbor Cogeneration Co.","Harbor Cogen","CA","Los Angeles",8303,50541,"GEN1","8303 50541 GEN1",0,82.3,"Natural Gas Fired Combined Cycle","NG","OA",12,1988,NA,NA,0
+"2286","Virginia Electric & Power Co","Rosemary Power Station","NC","Halifax",19876,50555,"GEN1","19876 50555 GEN1",0,86,"Petroleum Liquids","DFO","OP",11,1990,NA,NA,0
+"2287","Virginia Electric & Power Co","Rosemary Power Station","NC","Halifax",19876,50555,"GEN2","19876 50555 GEN2",0,40,"Petroleum Liquids","DFO","OP",11,1990,NA,NA,0
+"2288","Virginia Electric & Power Co","Rosemary Power Station","NC","Halifax",19876,50555,"GEN3","19876 50555 GEN3",28278,54,"Petroleum Liquids","DFO","OP",11,1990,NA,NA,5.9779299847793
+"2299","WM Renewable Energy LLC","CSL Gas Recovery","FL","Broward",54842,50572,"GEN4","54842 50572 GEN4",0,2.2,"Landfill Gas","LFG","OP",2,2000,NA,NA,0
+"2304","State of Rhode Island","Central Power Plant","RI","Providence",18000,50621,"GEN4","18000 50621 GEN4",0,2,"Natural Gas Steam Turbine","NG","OA",8,1958,NA,NA,0
+"2305","ExxonMobil Oil Corp","ExxonMobil Beaumont Refinery","TX","Jefferson",6090,50625,"TG22","6090 50625 TG22",5857,27.2,"Natural Gas Steam Turbine","NG","OP",2,1978,NA,NA,2.45811509535321
+"2316","Clearwater Paper Corporation","Clearwater Paper IPP Lewiston","ID","Nez Perce",56225,50637,"GEN1","56225 50637 GEN1",0,10,"Natural Gas Steam Turbine","NG","OS",1,1950,NA,NA,0
+"2317","Clearwater Paper Corporation","Clearwater Paper IPP Lewiston","ID","Nez Perce",56225,50637,"GEN2","56225 50637 GEN2",0,10,"Natural Gas Steam Turbine","NG","OS",11,1977,NA,NA,0
+"2332","Covanta Tulsa Renewable Energy LLC","Covanta Tulsa Renewable Energy LLC","OK","Tulsa",56316,50660,"GEN1","56316 50660 GEN1",7256,16.8,"Municipal Solid Waste","MSW","OP",1,1989,NA,NA,4.93041965644705
+"2339","Tri-State G & T Assn, Inc","JM Shafer Generating Station","CO","Weld",30151,50707,"LMB","30151 50707 LMB",0,58.5,"Natural Gas Fired Combined Cycle","NG","OP",6,1994,NA,NA,0
+"2340","Tri-State G & T Assn, Inc","JM Shafer Generating Station","CO","Weld",30151,50707,"LMC","30151 50707 LMC",0,58.5,"Natural Gas Fired Combined Cycle","NG","OP",7,1994,NA,NA,0
+"2341","Tri-State G & T Assn, Inc","JM Shafer Generating Station","CO","Weld",30151,50707,"LMD","30151 50707 LMD",0,58.5,"Natural Gas Fired Combined Cycle","NG","OP",7,1994,NA,NA,0
+"2342","Tri-State G & T Assn, Inc","JM Shafer Generating Station","CO","Weld",30151,50707,"LME","30151 50707 LME",0,58.5,"Natural Gas Fired Combined Cycle","NG","OP",7,1994,NA,NA,0
+"2344","Tri-State G & T Assn, Inc","JM Shafer Generating Station","CO","Weld",30151,50707,"STB","30151 50707 STB",42314,52.2,"Natural Gas Fired Combined Cycle","NG","OP",6,1994,NA,NA,9.25357336552424
+"2345","University of Alaska","University of Alaska Fairbanks","AK","Fairbanks North Star",19511,50711,"GEN1","19511 50711 GEN1",0,1.5,"Conventional Steam Coal","SUB","OP",1,1964,NA,NA,0
+"2346","University of Alaska","University of Alaska Fairbanks","AK","Fairbanks North Star",19511,50711,"GEN2","19511 50711 GEN2",0,1.5,"Conventional Steam Coal","SUB","OP",1,1964,NA,NA,0
+"2349","United States Steel- Clairton","Clairton Works","PA","Allegheny",19517,50729,"GEN3","19517 50729 GEN3",2338,10,"Other Gases","OG","OP",1,1955,NA,NA,2.6689497716895
+"2352","United States Steel-Mon Valley","Mon Valley Works","PA","Allegheny",19519,50732,"GEN3","19519 50732 GEN3",0,2.5,"Other Gases","BFG","OP",2,2002,NA,NA,0
+"2357","Sterling Power Partners LP","Sterling Power Plant","NY","Oneida",14182,50744,"GEN1","14182 50744 GEN1",17855,47.7,"Natural Gas Fired Combined Cycle","NG","OP",6,1991,NA,NA,4.27304404430277
+"2358","Sterling Power Partners LP","Sterling Power Plant","NY","Oneida",14182,50744,"GEN2","14182 50744 GEN2",7385,16.5,"Natural Gas Fired Combined Cycle","NG","OP",7,1991,NA,NA,5.10931230109312
+"2359","OLS Energy-Agnews Inc.","Agnews Power Plant","CA","Santa Clara",2871,50748,"GEN1","2871 50748 GEN1",12258,24.4,"Natural Gas Fired Combined Cycle","NG","OP",11,1990,NA,NA,5.73489782169324
+"2360","OLS Energy-Agnews Inc.","Agnews Power Plant","CA","Santa Clara",2871,50748,"GEN2","2871 50748 GEN2",3543,7.6,"Natural Gas Fired Combined Cycle","NG","OP",11,1990,NA,NA,5.3217375630858
+"2365","Consolidated Edison Energy, Inc.","Parlin Power Plant","NJ","Middlesex",61536,50799,"GEN1","61536 50799 GEN1",6323,45.9,"Natural Gas Fired Combined Cycle","NG","OP",6,1991,NA,NA,1.57255697814387
+"2366","Consolidated Edison Energy, Inc.","Parlin Power Plant","NJ","Middlesex",61536,50799,"GEN2","61536 50799 GEN2",6641,45.9,"Natural Gas Fired Combined Cycle","NG","OP",6,1991,NA,NA,1.65164492991514
+"2367","Consolidated Edison Energy, Inc.","Parlin Power Plant","NJ","Middlesex",61536,50799,"GEN3","61536 50799 GEN3",2626,21.6,"Natural Gas Fired Combined Cycle","NG","OP",6,1991,NA,NA,1.38783189582276
+"2368","Consolidated Edison Energy, Inc.","Parlin Power Plant","NJ","Middlesex",61536,50799,"GEN4","61536 50799 GEN4",2693,21.6,"Natural Gas Fired Combined Cycle","NG","OP",6,1991,NA,NA,1.42324116353797
+"2396","OLS Energy-Chino","OLS Energy Chino","CA","San Bernardino",14265,50850,"GEN1","14265 50850 GEN1",18645,23.5,"Natural Gas Fired Combined Cycle","NG","OP",12,1987,NA,NA,9.05712620227339
+"2397","OLS Energy-Chino","OLS Energy Chino","CA","San Bernardino",14265,50850,"GEN2","14265 50850 GEN2",6064,7.3,"Natural Gas Fired Combined Cycle","NG","OP",12,1987,NA,NA,9.48270469756677
+"2408","Metropolitan State Hospital","Central Utility Plant","CA","Los Angeles",61941,50876,"GEN1","61941 50876 GEN1",0,23,"Natural Gas Fired Combined Cycle","NG","OP",2,1988,NA,NA,0
+"2409","Metropolitan State Hospital","Central Utility Plant","CA","Los Angeles",61941,50876,"GEN2","61941 50876 GEN2",0,7.7,"Natural Gas Fired Combined Cycle","NG","OP",2,1988,NA,NA,0
+"2433","Erie Coke Corp","Erie Coke","PA","Erie",5959,50920,"1","5959 50920 1",1980,2.5,"Other Gases","OG","OP",1,1953,NA,NA,9.04109589041096
+"2434","Co-Generation Co","Co-Gen LLC","OR","Grant",3770,50921,"GEN1","3770 50921 GEN1",0,7.5,"Wood/Wood Waste Biomass","WDS","SB",5,1986,NA,NA,0
+"2436","Ahlstrom-Munksjo","Rhinelander Mill","WI","Oneida",61707,50933,"GEN5","61707 50933 GEN5",0,10,"Natural Gas Steam Turbine","NG","SB",2,1951,NA,NA,0
+"2442","Rousselot Inc","Rousselot Inc","MA","Essex",5623,50955,"GEN1","5623 50955 GEN1",449,1.5,"Natural Gas Steam Turbine","NG","SB",5,1947,NA,NA,3.41704718417047
+"2443","Rousselot Inc","Rousselot Inc","MA","Essex",5623,50955,"GEN2","5623 50955 GEN2",0,1.5,"Natural Gas Steam Turbine","NG","SB",5,1947,NA,NA,0
+"2449","Virginia Electric & Power Co","Bellmeade Power Station","VA","Richmond City",19876,50966,"1","19876 50966 1",39792,110,"Natural Gas Fired Combined Cycle","NG","OS",2,1997,3,2019,4.12951432129514
+"2450","Virginia Electric & Power Co","Bellmeade Power Station","VA","Richmond City",19876,50966,"2","19876 50966 2",0,110,"Natural Gas Fired Combined Cycle","NG","OS",2,1997,3,2019,0
+"2451","Virginia Electric & Power Co","Bellmeade Power Station","VA","Richmond City",19876,50966,"3","19876 50966 3",0,110,"Natural Gas Fired Combined Cycle","NG","OS",2,1997,3,2019,0
+"2452","Curators of the University of Missouri","MU Combined Heat and Power Plant","MO","Boone",34359,50969,"GEN1","34359 50969 GEN1",4495,6.2,"Natural Gas Steam Turbine","NG","OP",7,1961,NA,NA,8.27625570776256
+"2455","Curators of the University of Missouri","MU Combined Heat and Power Plant","MO","Boone",34359,50969,"GEN4","34359 50969 GEN4",3474,14.5,"Natural Gas Steam Turbine","NG","OP",7,1988,NA,NA,2.73500236183278
+"2465","Florida Power & Light Co","Indiantown Cogeneration LP","FL","Martin",6452,50976,"GEN1","6452 50976 GEN1",7623,395.4,"Conventional Steam Coal","BIT","OP",12,1995,12,2020,0.220082316502796
+"2469","Co-Gen II","Co-Gen II LLC","OR","Douglas",3930,50993,"GEN1","3930 50993 GEN1",0,7.5,"Wood/Wood Waste Biomass","WDS","SB",10,1987,NA,NA,0
+"2470","M.A. Patout & Son Limited, LLC","Enterprise Sugar Factory","LA","Iberia",11415,51008,"1000","11415 51008 1000",0,1,"Other Waste Biomass","AB","OP",10,1981,NA,NA,0
+"2471","M.A. Patout & Son Limited, LLC","Enterprise Sugar Factory","LA","Iberia",11415,51008,"2000","11415 51008 2000",0,2,"Other Waste Biomass","AB","SB",10,1981,NA,NA,0
+"2483","Virginia Electric & Power Co","Mecklenburg Power Station","VA","Mecklenburg",19876,52007,"GEN1","19876 52007 GEN1",28617,69.9,"Conventional Steam Coal","BIT","OP",11,1992,3,2019,4.67350618300116
+"2484","Virginia Electric & Power Co","Mecklenburg Power Station","VA","Mecklenburg",19876,52007,"GEN2","19876 52007 GEN2",29367,69.9,"Conventional Steam Coal","BIT","OP",11,1992,3,2019,4.79599035804574
+"2495","Rhode Island Hospital","Rhode Island Hospital","RI","Providence",16001,52024,"NEW1","16001 52024 NEW1",1243,3.5,"Natural Gas Steam Turbine","NG","OP",12,1993,NA,NA,4.05414220482714
+"2498","Morris Energy Operations Company, LLC","Dartmouth Power Associates LP","MA","Bristol",56516,52026,"GEN2","56516 52026 GEN2",0,32.2,"Natural Gas Fired Combined Cycle","NG","OP",3,1992,NA,NA,0
+"2502","Hartford Steam Co","Hartford Hospital Cogeneration","CT","Hartford",8153,52061,"GEN2","8153 52061 GEN2",0,4.2,"Natural Gas Fired Combined Cycle","NG","OP",7,1988,NA,NA,0
+"2504","Alcoa World Alumina LLC","Point Comfort Operations","TX","Calhoun",22337,52069,"GEN1","22337 52069 GEN1",0,16,"Natural Gas Steam Turbine","NG","OP",1,1958,NA,NA,0
+"2505","Alcoa World Alumina LLC","Point Comfort Operations","TX","Calhoun",22337,52069,"GEN2","22337 52069 GEN2",0,16,"Natural Gas Steam Turbine","NG","OP",1,1958,NA,NA,0
+"2506","Alcoa World Alumina LLC","Point Comfort Operations","TX","Calhoun",22337,52069,"GEN3","22337 52069 GEN3",0,16,"Natural Gas Steam Turbine","NG","OP",1,1958,NA,NA,0
+"2507","Alcoa World Alumina LLC","Point Comfort Operations","TX","Calhoun",22337,52069,"GEN4","22337 52069 GEN4",0,15.1,"Natural Gas Steam Turbine","NG","OP",1,1970,NA,NA,0
+"2512","U S Army-Radford","Radford Army Ammunition Plant","VA","Montgomery",22218,52072,"GEN4","22218 52072 GEN4",0,6,"Natural Gas Steam Turbine","NG","OP",1,1990,NA,NA,0
+"2524","Orange County Sanitation Dist","Plant No 2 Orange County","CA","Orange",14155,52099,"GEN6","14155 52099 GEN6",0,1,"Other Waste Biomass","OBG","OA",6,1993,NA,NA,0
+"2531","Virginia Electric & Power Co","Multitrade of Pittsylvania LP","VA","Pittsylvania",19876,52118,"GEN2","19876 52118 GEN2",0,45,"Wood/Wood Waste Biomass","WDS","OS",6,1994,3,2019,0
+"2534","Olin Blue Cube Operations","Freeport Energy","TX","Brazoria",59875,52120,"G-64","59875 52120 G-64",2105,64.8,"Natural Gas Fired Combined Cycle","NG","OP",9,1982,NA,NA,0.370828400699025
+"2547","South Houston Green Power LLC","Power Station 4","TX","Galveston",17566,52132,"GEN3","17566 52132 GEN3",0,34.7,"Natural Gas Fired Combined Cycle","NG","OS",9,1986,NA,NA,0
+"2554","Merck & Co Inc","Elkton","VA","Rockingham",12320,52148,"GEN5","12320 52148 GEN5",321,0.4,"Natural Gas Steam Turbine","NG","OP",6,1982,NA,NA,9.16095890410959
+"2559","CITGO Petroleum Corp","CITGO Refinery Powerhouse","LA","Calcasieu",7168,52175,"GEN1","7168 52175 GEN1",0,25,"Natural Gas Steam Turbine","NG","OS",1,1942,NA,NA,0
+"2567","Delaware City Refining Company LLC","Delaware City Plant","DE","New Castle",56605,52193,"G3","56605 52193 G3",37643,75,"Other Gases","OG","SB",11,1961,NA,NA,5.72952815829528
+"2571","Rensselaer Generating LLC","Rensselaer Cogen","NY","Rensselaer",6838,54034,"GEN1","6838 54034 GEN1",2683,49.2,"Natural Gas Fired Combined Cycle","NG","OP",4,1994,NA,NA,0.622517355310539
+"2572","Rensselaer Generating LLC","Rensselaer Cogen","NY","Rensselaer",6838,54034,"GEN2","6838 54034 GEN2",1544,39,"Natural Gas Fired Combined Cycle","NG","OP",4,1994,NA,NA,0.451937712211685
+"2577","Pawtucket Power Associates LP","Pawtucket Power Associates","RI","Providence",14584,54056,"GEN1","14584 54056 GEN1",6971,41.8,"Natural Gas Fired Combined Cycle","NG","OP",12,1990,NA,NA,1.90377094666929
+"2578","Pawtucket Power Associates LP","Pawtucket Power Associates","RI","Providence",14584,54056,"GEN2","14584 54056 GEN2",3498,27,"Natural Gas Fired Combined Cycle","NG","OP",12,1990,NA,NA,1.47894469812278
+"2581","Veolia Energy Operating Service","Spruance Operating Services LLC","VA","Richmond City",61854,54081,"GEN1","61854 54081 GEN1",9606,57.4,"Conventional Steam Coal","BIT","OP",5,1992,1,2020,1.91041000429574
+"2582","Veolia Energy Operating Service","Spruance Operating Services LLC","VA","Richmond City",61854,54081,"GEN2","61854 54081 GEN2",9184,57.4,"Conventional Steam Coal","BIT","OP",5,1992,1,2020,1.82648401826484
+"2583","Veolia Energy Operating Service","Spruance Operating Services LLC","VA","Richmond City",61854,54081,"GEN3","61854 54081 GEN3",11553,57.4,"Conventional Steam Coal","BIT","OP",8,1992,NA,NA,2.29762302515393
+"2584","Veolia Energy Operating Service","Spruance Operating Services LLC","VA","Richmond City",61854,54081,"GEN4","61854 54081 GEN4",8642,57.4,"Conventional Steam Coal","BIT","OP",8,1992,NA,NA,1.71869282293606
+"2605","International Paper Co-Vicksbg","International Paper Vicksburg Mill","MS","Warren",9382,54100,"GEN1","9382 54100 GEN1",0,2.5,"Wood/Wood Waste Biomass","BLQ","OP",1,1967,NA,NA,0
+"2616","North American Energy Services","Fortistar North Tonawanda","NY","Niagara",50136,54131,"GEN1","50136 54131 GEN1",17140,48.7,"Natural Gas Fired Combined Cycle","NG","OP",7,1993,NA,NA,4.0177022681031
+"2617","North American Energy Services","Fortistar North Tonawanda","NY","Niagara",50136,54131,"GEN2","50136 54131 GEN2",6976,17,"Natural Gas Fired Combined Cycle","NG","OP",7,1993,NA,NA,4.68439430566747
+"2619","Iowa State University","Iowa State University","IA","Story",9434,54201,"GEN4","9434 54201 GEN4",22,6.2,"Conventional Steam Coal","BIT","SB",10,1960,NA,NA,0.0405067020179702
+"2622","ArcelorMittal Warren Inc","ArcelorMittal Warren","OH","Trumbull",56616,54207,"GEN1","56616 54207 GEN1",0,3,"Other Gases","OG","OP",10,1934,NA,NA,0
+"2625","American Crystal Sugar Co","American Crystal Sugar Hillsboro","ND","Traill",491,54210,"G1","491 54210 G1",0,13.3,"Conventional Steam Coal","SUB","OP",9,1990,NA,NA,0
+"2626","American Crystal Sugar Co","American Crystal Sugar Moorhead","MN","Clay",491,54211,"G1","491 54211 G1",0,3,"Conventional Steam Coal","SUB","OP",9,1948,NA,NA,0
+"2627","American Crystal Sugar Co","American Crystal Sugar Moorhead","MN","Clay",491,54211,"G2","491 54211 G2",0,2,"Conventional Steam Coal","SUB","OP",9,1961,NA,NA,0
+"2628","American Crystal Sugar Co","American Crystal Sugar Crookston","MN","Polk",491,54212,"G1","491 54212 G1",0,3.5,"Conventional Steam Coal","SUB","OP",9,1954,NA,NA,0
+"2629","American Crystal Sugar Co","American Crystal Sugar Crookston","MN","Polk",491,54212,"G2","491 54212 G2",0,3,"Conventional Steam Coal","SUB","OP",9,1975,NA,NA,0
+"2630","American Crystal Sugar Co","American Crystal Sugar Drayton","ND","Pembina",491,54213,"G1","491 54213 G1",0,6,"Conventional Steam Coal","SUB","OP",9,1965,NA,NA,0
+"2631","American Crystal Sugar Co","American Crystal Sugar East Grand Forks","MN","Polk",491,54214,"G1","491 54214 G1",0,2.5,"Conventional Steam Coal","SUB","OP",9,1990,NA,NA,0
+"2632","American Crystal Sugar Co","American Crystal Sugar East Grand Forks","MN","Polk",491,54214,"G2","491 54214 G2",0,5,"Conventional Steam Coal","SUB","OP",9,1990,NA,NA,0
+"2633","Bowater Newport Coosa Pines Op","U S Alliance Coosa Pines","AL","Talladega",2053,54216,"AOW6","2053 54216 AOW6",0,12.5,"Natural Gas Steam Turbine","NG","OP",1,1968,NA,NA,0
+"2641","Pfizer Inc","Pfizer Groton Plant","CT","New London",14928,54236,"TG 3","14928 54236 TG 3",3723,10,"Natural Gas Steam Turbine","NG","OP",1,1952,NA,NA,4.25
+"2642","Pfizer Inc","Pfizer Groton Plant","CT","New London",14928,54236,"TG 4","14928 54236 TG 4",5288,10,"Natural Gas Steam Turbine","NG","OP",1,1994,NA,NA,6.0365296803653
+"2659","Bucknell University","Bucknell University","PA","Union",2468,54333,"G502","2468 54333 G502",885,1.2,"Natural Gas Fired Combined Cycle","NG","OA",10,1991,NA,NA,8.4189497716895
+"2662","Rio Grande Valley Sugar Growers, Inc.","Rio Grande Valley Sugar Growers","TX","Hidalgo",16098,54338,"GENA","16098 54338 GENA",225,2.5,"Other Waste Biomass","AB","OP",10,1973,NA,NA,1.02739726027397
+"2663","Rio Grande Valley Sugar Growers, Inc.","Rio Grande Valley Sugar Growers","TX","Hidalgo",16098,54338,"GENB","16098 54338 GENB",304,2.5,"Other Waste Biomass","AB","OP",10,1973,NA,NA,1.38812785388128
+"2664","Rio Grande Valley Sugar Growers, Inc.","Rio Grande Valley Sugar Growers","TX","Hidalgo",16098,54338,"GENC","16098 54338 GENC",182,2.5,"Other Waste Biomass","AB","OP",1,1995,NA,NA,0.831050228310502
+"2665","Rio Grande Valley Sugar Growers, Inc.","Rio Grande Valley Sugar Growers","TX","Hidalgo",16098,54338,"GEND","16098 54338 GEND",1643,16,"Other Waste Biomass","AB","OP",8,2009,NA,NA,1.17223173515982
+"2680","University of Colorado","University of Colorado","CO","Boulder",22208,54372,"GT1","22208 54372 GT1",3,16,"Natural Gas Fired Combined Cycle","NG","OP",8,1992,NA,NA,0.00214041095890411
+"2681","University of Colorado","University of Colorado","CO","Boulder",22208,54372,"GT2","22208 54372 GT2",858,16,"Natural Gas Fired Combined Cycle","NG","OP",8,1992,NA,NA,0.612157534246575
+"2682","University of Colorado","University of Colorado","CO","Boulder",22208,54372,"ST1","22208 54372 ST1",0,1,"Natural Gas Fired Combined Cycle","NG","OP",8,1992,NA,NA,0
+"2683","Sinclair Oil Corp","Sinclair Oil Refinery","WY","Carbon",24205,54374,"NO2","24205 54374 NO2",0,0.4,"Other Gases","OG","SB",1,1925,NA,NA,0
+"2685","State of Wisconsin","Waupun Correctional Central Heating Plt","WI","Dodge",18028,54407,"1","18028 54407 1",0,1,"Natural Gas Steam Turbine","NG","OP",5,1951,NA,NA,0
+"2686","State of Wisconsin","Waupun Correctional Central Heating Plt","WI","Dodge",18028,54407,"2","18028 54407 2",0,1,"Natural Gas Steam Turbine","NG","OP",5,1951,NA,NA,0
+"2687","State of Wisconsin","UW Madison Charter Street Plant","WI","Dane",18028,54408,"1","18028 54408 1",0,9.7,"Natural Gas Steam Turbine","NG","OP",1,1965,NA,NA,0
+"2689","Dartmouth College","Dartmouth College Heating Plant","NH","Grafton",4823,54409,"GEN2","4823 54409 GEN2",1141,2,"Petroleum Liquids","RFO","OP",1,1970,NA,NA,6.51255707762557
+"2692","EthosEnergy Power Plant Services","Quantum Pasco Power LP","FL","Pasco",58945,54424,"GT1","58945 54424 GT1",35042,57.4,"Natural Gas Fired Combined Cycle","NG","OP",7,1993,1,2019,6.96903886847088
+"2693","EthosEnergy Power Plant Services","Quantum Pasco Power LP","FL","Pasco",58945,54424,"GT2","58945 54424 GT2",35028,57.4,"Natural Gas Fired Combined Cycle","NG","OP",7,1993,1,2019,6.96625459405279
+"2694","EthosEnergy Power Plant Services","Quantum Pasco Power LP","FL","Pasco",58945,54424,"ST1","58945 54424 ST1",16703,26.5,"Natural Gas Fired Combined Cycle","NG","OP",7,1993,1,2019,7.19522701817868
+"2716","ReEnergy Biomass LLC","ReEnergy Lyonsdale Biomass","NY","Lewis",57431,54526,"STG","57431 54526 STG",0,21.1,"Wood/Wood Waste Biomass","WDS","OS",8,1992,NA,NA,0
+"2739","Saranac Power Partners LP","Saranac Facility","NY","Clinton",16729,54574,"GEN1","16729 54574 GEN1",21555,95.2,"Natural Gas Fired Combined Cycle","NG","OP",6,1994,NA,NA,2.58468113272706
+"2740","Saranac Power Partners LP","Saranac Facility","NY","Clinton",16729,54574,"GEN2","16729 54574 GEN2",26293,95.2,"Natural Gas Fired Combined Cycle","NG","OP",6,1994,NA,NA,3.15281934691685
+"2741","Saranac Power Partners LP","Saranac Facility","NY","Clinton",16729,54574,"GEN3","16729 54574 GEN3",22936,95.2,"Natural Gas Fired Combined Cycle","NG","OP",6,1994,NA,NA,2.75027819346917
+"2742","Bicent Power","Tanner Street Generation","MA","Middlesex",56171,54586,"VAX","56171 54586 VAX",7241,27.1,"Natural Gas Fired Combined Cycle","NG","OP",10,1992,NA,NA,3.05017776205159
+"2743","Bicent Power","Tanner Street Generation","MA","Middlesex",56171,54586,"TRENT","56171 54586 TRENT",29527,57.9,"Natural Gas Fired Combined Cycle","NG","OP",10,2008,NA,NA,5.82152348956239
+"2744","Power City Partners LP","Massena Energy Facility","NY","St Lawrence",15253,54592,"GEN1","15253 54592 GEN1",1055,66.5,"Natural Gas Fired Combined Cycle","NG","OP",7,1992,NA,NA,0.181103443540358
+"2745","Power City Partners LP","Massena Energy Facility","NY","St Lawrence",15253,54592,"GEN2","15253 54592 GEN2",635,35.6,"Natural Gas Fired Combined Cycle","NG","OP",7,1992,NA,NA,0.203619619311477
+"2746","Seneca Power Partners LP","Batavia Power Plant","NY","Genesee",16839,54593,"GEN1","16839 54593 GEN1",24723,47.7,"Natural Gas Fired Combined Cycle","NG","OP",9,1992,NA,NA,5.9166882053933
+"2747","Seneca Power Partners LP","Batavia Power Plant","NY","Genesee",16839,54593,"GEN2","16839 54593 GEN2",10226,18.5,"Natural Gas Fired Combined Cycle","NG","OP",9,1992,NA,NA,6.31000863877576
+"2753","New Hope Power Company","Okeelanta Cogeneration","FL","Palm Beach",13492,54627,"GEN1","13492 54627 GEN1",19342,74.9,"Other Waste Biomass","AB","OP",1,1996,NA,NA,2.94791838128159
+"2754","New Hope Power Company","Okeelanta Cogeneration","FL","Palm Beach",13492,54627,"GEN2","13492 54627 GEN2",43488,54,"Other Waste Biomass","AB","OP",8,2006,NA,NA,9.19330289193303
+"2766","FreePort-McMoRan-Corp-Chino Mines","Chino Mines","NM","Grant",3670,54667,"7","3670 54667 7",0,16.5,"Natural Gas Fired Combined Cycle","NG","SB",10,1959,NA,NA,0
+"2767","FreePort-McMoRan-Corp-Chino Mines","Chino Mines","NM","Grant",3670,54667,"9","3670 54667 9",23730,37.5,"Natural Gas Fired Combined Cycle","NG","SB",7,2001,NA,NA,7.22374429223744
+"2781","Falcon Power Operating Company","Yuma Cogeneration Associates","AZ","Yuma",49919,54694,"GEN1","49919 54694 GEN1",27908,44.1,"Natural Gas Fired Combined Cycle","NG","OP",3,1994,NA,NA,7.22413775251349
+"2782","Falcon Power Operating Company","Yuma Cogeneration Associates","AZ","Yuma",49919,54694,"GEN2","49919 54694 GEN2",13388,18.5,"Natural Gas Fired Combined Cycle","NG","OP",3,1994,NA,NA,8.26113785017895
+"2784","Goal Line LP","Goal Line LP","CA","San Diego",22269,54749,"CTG","22269 54749 CTG",14885,41.2,"Natural Gas Fired Combined Cycle","NG","OP",8,1994,NA,NA,4.12427406126701
+"2785","Goal Line LP","Goal Line LP","CA","San Diego",22269,54749,"STG","22269 54749 STG",3257,10.2,"Natural Gas Fired Combined Cycle","NG","OP",8,1994,NA,NA,3.64513385262781
+"2802","University of Illinois","University of Illinois Abbott Power Plt","IL","Champaign",19528,54780,"T1","19528 54780 T1",296,3,"Natural Gas Steam Turbine","NG","OP",11,1940,NA,NA,1.12633181126332
+"2803","University of Illinois","University of Illinois Abbott Power Plt","IL","Champaign",19528,54780,"T2","19528 54780 T2",2019,3,"Natural Gas Steam Turbine","NG","OP",11,1940,NA,NA,7.68264840182648
+"2804","University of Illinois","University of Illinois Abbott Power Plt","IL","Champaign",19528,54780,"T3","19528 54780 T3",0,3,"Natural Gas Steam Turbine","NG","OP",11,1948,NA,NA,0
+"2805","University of Illinois","University of Illinois Abbott Power Plt","IL","Champaign",19528,54780,"T4","19528 54780 T4",0,3,"Natural Gas Steam Turbine","NG","OP",2,1951,NA,NA,0
+"2807","University of Illinois","University of Illinois Abbott Power Plt","IL","Champaign",19528,54780,"T7","19528 54780 T7",810,7.5,"Natural Gas Steam Turbine","NG","OP",8,1962,NA,NA,1.23287671232877
+"2808","University of Illinois","University of Illinois Abbott Power Plt","IL","Champaign",19528,54780,"T10","19528 54780 T10",2986,12.5,"Natural Gas Steam Turbine","NG","OP",8,2004,NA,NA,2.72694063926941
+"2809","University of Illinois","University of Illinois Abbott Power Plt","IL","Champaign",19528,54780,"T11","19528 54780 T11",8550,12.5,"Natural Gas Steam Turbine","NG","OP",6,2004,NA,NA,7.80821917808219
+"2815","American Sugar Refining, Inc.","Domino Sugar Baltimore","MD","Baltimore City",5277,54795,"GEN1","5277 54795 GEN1",0,5,"Natural Gas Steam Turbine","NG","OA",6,1959,NA,NA,0
+"2821","Milford Power LLC","Milford Power LP","MA","Worcester",12469,54805,"ST-1","12469 54805 ST-1",75570,120.4,"Natural Gas Fired Combined Cycle","NG","OP",3,1993,NA,NA,7.16504346243117
+"2828","Bristol-Myers Squibb Co","Bristol Myers Squibb New Brunswick","NJ","Middlesex",2265,54829,"GEN2","2265 54829 GEN2",56,1,"Natural Gas Steam Turbine","NG","SB",8,1999,NA,NA,0.639269406392694
+"2833","Virginia Electric & Power Co","Gordonsville Energy LP","VA","Louisa",19876,54844,"GOR2","19876 54844 GOR2",0,97.2,"Natural Gas Fired Combined Cycle","NG","OP",3,1994,NA,NA,0
+"2834","Virginia Electric & Power Co","Gordonsville Energy LP","VA","Louisa",19876,54844,"GOR3","19876 54844 GOR3",0,53,"Natural Gas Fired Combined Cycle","NG","OP",3,1994,NA,NA,0
+"2835","Virginia Electric & Power Co","Gordonsville Energy LP","VA","Louisa",19876,54844,"GOR4","19876 54844 GOR4",0,53,"Natural Gas Fired Combined Cycle","NG","OP",3,1994,NA,NA,0
+"2836","Cox Interior Inc","Cox Waste to Energy","KY","Taylor",4413,54850,"1","4413 54850 1",2125,4,"Wood/Wood Waste Biomass","WDS","OP",1,1995,NA,NA,6.06449771689498
+"2837","Cox Interior Inc","Cox Waste to Energy","KY","Taylor",4413,54850,"2","4413 54850 2",0,1,"Wood/Wood Waste Biomass","WDS","OP",10,2002,NA,NA,0
+"2839","Archer Daniels Midland Co","Enderlin","ND","Ransom",772,54908,"GEN1","772 54908 GEN1",1038,5.1,"Other Waste Biomass","AB","SB",8,1983,NA,NA,2.32339511146925
+"2840","Archer Daniels Midland Co","Enderlin","ND","Ransom",772,54908,"GEN2","772 54908 GEN2",0,4.7,"Other Waste Biomass","AB","SB",8,1983,NA,NA,0
+"2852","University of Oregon","Univ of Oregon Central Power Station","OR","Lane",24008,54950,"CTG1","24008 54950 CTG1",698,7.5,"Natural Gas Fired Combined Cycle","NG","OP",12,2012,NA,NA,1.06240487062405
+"2853","University of Oregon","Univ of Oregon Central Power Station","OR","Lane",24008,54950,"STG1","24008 54950 STG1",13,3.5,"Natural Gas Fired Combined Cycle","NG","OP",12,2012,NA,NA,0.0424005218525766
+"2866","SEPG Operating Services, LLC MGC","Mid-Georgia Cogeneration Facility","GA","Houston",12564,55040,"CT1","12564 55040 CT1",73492,106.5,"Natural Gas Fired Combined Cycle","NG","OP",10,1997,NA,NA,7.87746264497181
+"2867","SEPG Operating Services, LLC MGC","Mid-Georgia Cogeneration Facility","GA","Houston",12564,55040,"CT2","12564 55040 CT2",74004,106.5,"Natural Gas Fired Combined Cycle","NG","OP",2,1998,NA,NA,7.93234291594315
+"2868","SEPG Operating Services, LLC MGC","Mid-Georgia Cogeneration Facility","GA","Houston",12564,55040,"ST1","12564 55040 ST1",63840,110,"Natural Gas Fired Combined Cycle","NG","OP",12,1997,NA,NA,6.62515566625156
+"2896","Casco Bay Energy Co LLC","Maine Independence Station","ME","Penobscot",4966,55068,"GEN1","4966 55068 GEN1",78145,177.8,"Natural Gas Fired Combined Cycle","NG","OP",5,2000,NA,NA,5.01724527584737
+"2897","Casco Bay Energy Co LLC","Maine Independence Station","ME","Penobscot",4966,55068,"GEN2","4966 55068 GEN2",65615,177.8,"Natural Gas Fired Combined Cycle","NG","OP",5,2000,NA,NA,4.21276535638525
+"2898","Casco Bay Energy Co LLC","Maine Independence Station","ME","Penobscot",4966,55068,"GEN3","4966 55068 GEN3",91127,194.6,"Natural Gas Fired Combined Cycle","NG","OP",5,2000,NA,NA,5.34564520594874
+"2910","Gregory Power Partners LP","Gregory Power Facility","TX","San Patricio",7667,55086,"GT1B","7667 55086 GT1B",0,166,"Natural Gas Fired Combined Cycle","NG","OS",7,2000,NA,NA,0
+"2933","Rumford Power","Rumford Power LLC","ME","Oxford",54821,55100,"UNT1","54821 55100 UNT1",96694,179.4,"Natural Gas Fired Combined Cycle","NG","OP",7,2000,NA,NA,6.15280259413672
+"2934","Rumford Power","Rumford Power LLC","ME","Oxford",54821,55100,"UNT2","54821 55100 UNT2",53726,95.1,"Natural Gas Fired Combined Cycle","NG","OP",7,2000,NA,NA,6.44911148562676
+"2945","Calpine Corp-Sutter","Sutter Energy Center","CA","Sutter",22650,55112,"CT02","22650 55112 CT02",17142,212,"Natural Gas Fired Combined Cycle","NG","OP",7,2001,NA,NA,0.923042129749289
+"2995","CXA La Paloma LLC","La Paloma Generating Plant","CA","Kern",61173,55151,"GEN3","61173 55151 GEN3",187922,300,"Natural Gas Fired Combined Cycle","NG","OA",3,2003,NA,NA,7.15076103500761
+"2996","CXA La Paloma LLC","La Paloma Generating Plant","CA","Kern",61173,55151,"GEN4","61173 55151 GEN4",10332,300,"Natural Gas Fired Combined Cycle","NG","OA",3,2003,NA,NA,0.393150684931507
+"3026","South Point Energy Center LLC","South Point Energy Center","AZ","Mohave",50157,55177,"A","50157 55177 A",179598,236,"Natural Gas Fired Combined Cycle","NG","OP",6,2001,NA,NA,8.6873113536104
+"3027","South Point Energy Center LLC","South Point Energy Center","AZ","Mohave",50157,55177,"B","50157 55177 B",0,236,"Natural Gas Fired Combined Cycle","NG","OA",6,2001,NA,NA,0
+"3028","South Point Energy Center LLC","South Point Energy Center","AZ","Mohave",50157,55177,"ST1","50157 55177 ST1",81553,236,"Natural Gas Fired Combined Cycle","NG","OP",6,2001,NA,NA,3.94478948997756
+"3039","Invenergy Services LLC","Nelson Energy Center","IL","Lee",49893,55183,"ST1","49893 55183 ST1",0,133.1,"Natural Gas Fired Combined Cycle","NG","OP",5,2015,NA,NA,0
+"3040","Invenergy Services LLC","Nelson Energy Center","IL","Lee",49893,55183,"ST2","49893 55183 ST2",0,133.1,"Natural Gas Fired Combined Cycle","NG","OP",5,2015,NA,NA,0
+"3046","Cordova Energy Co LLC","Cordova Energy","IL","Rock Island",4210,55188,"PT11","4210 55188 PT11",29173,210,"Natural Gas Fired Combined Cycle","NG","OP",6,2001,NA,NA,1.58583387692977
+"3047","Cordova Energy Co LLC","Cordova Energy","IL","Rock Island",4210,55188,"PT21","4210 55188 PT21",22433,210,"Natural Gas Fired Combined Cycle","NG","OP",6,2001,NA,NA,1.21944988040878
+"3048","Cordova Energy Co LLC","Cordova Energy","IL","Rock Island",4210,55188,"PT31","4210 55188 PT31",27460,191.2,"Natural Gas Fired Combined Cycle","NG","OP",6,2001,NA,NA,1.63948911942836
+"3065","Public Service Co of NM","Afton Generating Station","NM","Dona Ana",15473,55210,"2","15473 55210 2",0,110,"Natural Gas Fired Combined Cycle","NG","OP",10,2007,NA,NA,0
+"3076","Morris Cogeneration LLC","Morris Cogeneration LLC","IL","Grundy",54755,55216,"STG1","54755 55216 STG1",66346,82.9,"Natural Gas Fired Combined Cycle","NG","OP",6,2000,NA,NA,9.13600035251802
+"3096","Arkansas Electric Coop Corp","Harry L. Oswald","AR","Pulaski",807,55221,"G8","807 55221 G8",34689,105,"Natural Gas Fired Combined Cycle","NG","OP",7,2002,NA,NA,3.77136333985649
+"3097","Arkansas Electric Coop Corp","Harry L. Oswald","AR","Pulaski",807,55221,"G9","807 55221 G9",76056,105,"Natural Gas Fired Combined Cycle","NG","OP",7,2002,NA,NA,8.26875407697325
+"3233","Otay Mesa Energy Center LLC","Otay Mesa Generating Project","CA","San Diego",14274,55345,"1-Jan","14274 55345 1-Jan",140693,198.9,"Natural Gas Fired Combined Cycle","NG","OP",10,2009,NA,NA,8.07483396121591
+"3234","Otay Mesa Energy Center LLC","Otay Mesa Generating Project","CA","San Diego",14274,55345,"2-Jan","14274 55345 2-Jan",163088,198.9,"Natural Gas Fired Combined Cycle","NG","OP",10,2009,NA,NA,9.36015666072072
+"3235","Otay Mesa Energy Center LLC","Otay Mesa Generating Project","CA","San Diego",14274,55345,"3-Jan","14274 55345 3-Jan",189370,290.7,"Natural Gas Fired Combined Cycle","NG","OP",10,2009,NA,NA,7.4363879974805
+"3256","New Harquahala Generating Co, LLC","Harquahala Generating Project","AZ","Maricopa",32790,55372,"CTG1","32790 55372 CTG1",814,281.7,"Natural Gas Fired Combined Cycle","NG","OP",6,2004,NA,NA,0.0329862884022803
+"3257","New Harquahala Generating Co, LLC","Harquahala Generating Project","AZ","Maricopa",32790,55372,"CTG2","32790 55372 CTG2",815,281.7,"Natural Gas Fired Combined Cycle","NG","OP",9,2004,NA,NA,0.0330268120981062
+"3258","New Harquahala Generating Co, LLC","Harquahala Generating Project","AZ","Maricopa",32790,55372,"CTG3","32790 55372 CTG3",1112,281.7,"Natural Gas Fired Combined Cycle","NG","OP",8,2004,NA,NA,0.0450623497583977
+"3259","New Harquahala Generating Co, LLC","Harquahala Generating Project","AZ","Maricopa",32790,55372,"STG1","32790 55372 STG1",360,160,"Natural Gas Fired Combined Cycle","NG","OP",6,2004,NA,NA,0.0256849315068493
+"3260","New Harquahala Generating Co, LLC","Harquahala Generating Project","AZ","Maricopa",32790,55372,"STG2","32790 55372 STG2",361,160,"Natural Gas Fired Combined Cycle","NG","OP",9,2004,NA,NA,0.0257562785388128
+"3261","New Harquahala Generating Co, LLC","Harquahala Generating Project","AZ","Maricopa",32790,55372,"STG3","32790 55372 STG3",353,160,"Natural Gas Fired Combined Cycle","NG","OP",8,2004,NA,NA,0.025185502283105
+"3369","South Houston Green Power LLC","Green Power 2","TX","Galveston",17566,55470,"ST805","17566 55470 ST805",22494,250,"Natural Gas Fired Combined Cycle","NG","OP",5,2009,NA,NA,1.02712328767123
+"3427","Pine Bend LLC","GRS Pine Bend","MN","Dakota",57247,55598,"1","57247 55598 1",0,5,"Landfill Gas","LFG","OS",4,1996,NA,NA,0
+"3468","American Mun Power-Ohio, Inc","Fremont Energy Center","OH","Sandusky",40577,55701,"CA01","40577 55701 CA01",0,358.7,"Natural Gas Fired Combined Cycle","NG","OP",1,2012,NA,NA,0
+"3488","Los Esteros Critical Energy Facility LLC","Los Esteros Critical Energy Center","CA","Santa Clara",2860,55748,"CAG5","2860 55748 CAG5",108952,126.1,"Natural Gas Fired Combined Cycle","NG","OP",8,2013,NA,NA,9.86315854272357
+"3509","Inland Empire Energy Ctr LLC","Inland Empire Energy Center","CA","Riverside",9155,55853,"1","9155 55853 1",201502,409.5,"Natural Gas Fired Combined Cycle","NG","OP",7,2009,1,2020,5.61721890489014
+"3510","Inland Empire Energy Ctr LLC","Inland Empire Energy Center","CA","Riverside",9155,55853,"2","9155 55853 2",0,409.5,"Natural Gas Fired Combined Cycle","NG","OS",5,2010,1,2020,0
+"3524","Virginia Electric & Power Co","Warren County","VA","Warren",19876,55939,"CT02","19876 55939 CT02",0,297.5,"Natural Gas Fired Combined Cycle","NG","OP",12,2014,NA,NA,0
+"3525","Virginia Electric & Power Co","Warren County","VA","Warren",19876,55939,"CT03","19876 55939 CT03",0,297.5,"Natural Gas Fired Combined Cycle","NG","OP",12,2014,NA,NA,0
+"3526","Virginia Electric & Power Co","Warren County","VA","Warren",19876,55939,"ST01","19876 55939 ST01",0,579.7,"Natural Gas Fired Combined Cycle","NG","OP",12,2014,NA,NA,0
+"3580","Southern Power Co","Mankato Energy Center","MN","Blue Earth",17650,56104,"STG1","17650 56104 STG1",163692,320,"Natural Gas Fired Combined Cycle","NG","OP",7,2006,NA,NA,5.83946917808219
+"3595","Kennecott Utah Copper","Kennecott Power Plant","UT","Salt Lake",49805,56163,"4","49805 56163 4",0,82,"Conventional Steam Coal","BIT","OA",1,1958,NA,NA,0
+"3627","Phillips 66 Company","Santa Maria EPG","CA","San Luis Obispo",50045,56284,"EPG","50045 56284 EPG",1274,5.5,"Other Gases","OG","OP",12,1995,NA,NA,2.64425072644251
+"3633","Ashley Energy LLC","Trigen St. Louis","MO","St Louis",50130,56309,"ST-3","50130 56309 ST-3",255,18.2,"Natural Gas Fired Combined Cycle","NG","OP",6,2000,NA,NA,0.159942796929098
+"3634","Ashley Energy LLC","Trigen St. Louis","MO","St Louis",50130,56309,"ST-4","50130 56309 ST-4",0,1.5,"Natural Gas Steam Turbine","NG","OP",6,1999,NA,NA,0
+"3635","Ashley Energy LLC","Trigen St. Louis","MO","St Louis",50130,56309,"ST-5","50130 56309 ST-5",0,1.5,"Natural Gas Steam Turbine","NG","OP",6,1999,NA,NA,0
+"3649","City of Riverside - (CA)","Clearwater Power Plant","CA","Riverside",16088,56356,"CT1","16088 56356 CT1",11465,41,"Natural Gas Fired Combined Cycle","NG","OP",3,2005,NA,NA,3.19217062033634
+"3650","City of Riverside - (CA)","Clearwater Power Plant","CA","Riverside",16088,56356,"ST1","16088 56356 ST1",3467,8,"Natural Gas Fired Combined Cycle","NG","OP",3,2005,NA,NA,4.94720319634703
+"3653","Acciona Solar Power","Nevada Solar One","NV","Clark",55744,56405,"ONE","55744 56405 ONE",2572,75.7,"Solar Thermal without Energy Storage","SUN","OP",6,2007,NA,NA,0.387856414710797
+"3678","Phillips 66 Billings Refinery","Phillips 66 Billings Refinery","MT","Yellowstone",54916,56496,"3701","54916 56496 3701",0,1.6,"Other Gases","OG","OA",12,2007,NA,NA,0
+"3708","Virginia Electric & Power Co","Bear Garden","VA","Buckingham",19876,56807,"1B","19876 56807 1B",0,152,"Natural Gas Fired Combined Cycle","NG","OP",5,2011,NA,NA,0
+"3739","NRG Energy Services","Ivanpah 2","CA","San Bernardino",57499,57073,"ST1","57499 57073 ST1",13045,133.4,"Solar Thermal without Energy Storage","SUN","OP",12,2013,NA,NA,1.11630828421406
+"3740","NRG Energy Services","Ivanpah 1","CA","San Bernardino",57499,57074,"ST1","57499 57074 ST1",11334,133,"Solar Thermal without Energy Storage","SUN","OP",12,2013,NA,NA,0.972808734164178
+"3741","NRG Energy Services","Ivanpah 3","CA","San Bernardino",57499,57075,"ST1","57499 57075 ST1",9988,133.4,"Solar Thermal without Energy Storage","SUN","OP",12,2013,NA,NA,0.854709631485627
+"3743","Newark America","Newark America Mill","MA","Worcester",56406,57103,"1","56406 57103 1",0,6.3,"Natural Gas Steam Turbine","NG","OS",2,2007,NA,NA,0
+"3746","University of California Irvine","UCI Facilities Management Central Plant","CA","Orange",56427,57122,"STG1","56427 57122 STG1",4597,5.5,"Natural Gas Fired Combined Cycle","NG","OP",7,2007,NA,NA,9.54130344541303
+"3753","Domtar Paper Company Bennettsville","Marlboro Mill","SC","Marlboro",56788,57470,"MG1","56788 57470 MG1",0,51.4,"Wood/Wood Waste Biomass","BLQ","OP",9,2010,NA,NA,0
+"3760","Oregon State University","Oregon State University Energy Center","OR","Benton",56968,57653,"STG","56968 57653 STG",319,1,"Natural Gas Fired Combined Cycle","NG","OP",6,2010,NA,NA,3.64155251141553
+"3775","Middlebury College Biomass","Middlebury College","VT","Addison",57123,57804,"3","57123 57804 3",653,0.8,"Wood/Wood Waste Biomass","WDS","OP",1,1999,NA,NA,9.31792237442922
+"3798","Sonoco Products Co","Sonoco Products Co","SC","Darlington",57302,57919,"2","57302 57919 2",0,2.5,"Natural Gas Steam Turbine","NG","SB",6,1950,NA,NA,0
+"3802","University of Cincinnati","East Campus Utility Plant","OH","Hamilton",57281,57929,"STG","57281 57929 STG",0,1.3,"Natural Gas Steam Turbine","NG","OP",11,2010,NA,NA,0
+"3804","Wausau Paper Middletown","Wausau Paper Middletown","OH","Butler",57317,57940,"G3","57317 57940 G3",5998,7.5,"Conventional Steam Coal","BIT","OP",4,1986,NA,NA,9.12937595129376
+"3805","Michigan Sugar Company","MSC Sebewaing","MI","Huron",57324,57949,"1","57324 57949 1",144,1.5,"Conventional Steam Coal","BIT","OP",10,1990,NA,NA,1.0958904109589
+"3806","Michigan Sugar Company","MSC Sebewaing","MI","Huron",57324,57949,"2","57324 57949 2",0,1,"Conventional Steam Coal","BIT","OS",10,1979,NA,NA,0
+"3807","Michigan Sugar Company","MSC Croswell","MI","Sanilac",57324,57950,"1","57324 57950 1",446,1.3,"Natural Gas Steam Turbine","NG","OP",10,1948,NA,NA,3.91640323147172
+"3810","Roquette America","Roquette America","IA","Lee",57332,57953,"HRSG","57332 57953 HRSG",0,10,"Natural Gas Fired Combined Cycle","NG","OS",7,2004,NA,NA,0
+"3811","Veolia Energy","Southeast Steam Plant","MN","Hennepin",57341,57966,"SSP","57341 57966 SSP",321,13,"Natural Gas Steam Turbine","NG","OP",1,1998,NA,NA,0.281875658587987
+"3832","RockTenn-Battle Creek Mill","Battle Creek Mill","MI","Calhoun",57427,58052,"2TG","57427 58052 2TG",0,2,"Natural Gas Steam Turbine","NG","OS",1,1951,NA,NA,0
+"3836","Pasadena Refining System Inc","PRSI FCC Generator","TX","Harris",57445,58069,"55M1","57445 58069 55M1",929,4.7,"Petroleum Coke","PC","OP",4,1979,NA,NA,2.25638783639367
+"3846","Georgia-Pacific Toledo LLC","Georgia-Pacific Toledo Mill","OR","Lincoln",57492,58109,"TG1","57492 58109 TG1",0,18.5,"Wood/Wood Waste Biomass","BLQ","OS",2,2007,NA,NA,0
+"3868","Cargill Salt Hersey","Cargill Salt Hersey","MI","Osceola",58170,58196,"ST1","58170 58196 ST1",1191,2.1,"Natural Gas Steam Turbine","NG","OP",9,1998,NA,NA,6.47423352902805
+"3880","GSA Metropolitan Service Center","Central Utility Plant at White Oak","MD","Montgomery",58178,58207,"G12","58178 58207 G12",45,5,"Natural Gas Fired Combined Cycle","NG","OP",2,2014,NA,NA,0.102739726027397
+"3890","Virginia Electric & Power Co","Brunswick County Power Station","VA","Brunswick",19876,58260,"CT02","19876 58260 CT02",0,297.5,"Natural Gas Fired Combined Cycle","NG","OP",4,2016,NA,NA,0
+"3891","Virginia Electric & Power Co","Brunswick County Power Station","VA","Brunswick",19876,58260,"CT03","19876 58260 CT03",0,297.5,"Natural Gas Fired Combined Cycle","NG","OP",4,2016,NA,NA,0
+"3892","Virginia Electric & Power Co","Brunswick County Power Station","VA","Brunswick",19876,58260,"ST01","19876 58260 ST01",0,579.7,"Natural Gas Fired Combined Cycle","NG","OP",4,2016,NA,NA,0
+"3894","McKinley Paper Co. - Washington Mill","McKinley Paper Co. - Washington Mill","WA","Clallam",58341,58352,"G-11","58341 58352 G-11",0,20,"Wood/Wood Waste Biomass","WDS","OA",10,2013,NA,NA,0
+"3902","Buena Vista Biomass LLC","Buena Vista Biomass Power","CA","Amador",58460,58472,"1","58460 58472 1",0,22.5,"Wood/Wood Waste Biomass","WDS","OS",12,2012,NA,NA,0
+"3912","Gettysburg Energy and Nutrient Rec Facility LLC","Gettysburg Energy & Nutrient Rec Facility","PA","Adams",58527,58565,"GENRF","58527 58565 GENRF",0,3.3,"Other Waste Biomass","OBS","OA",6,2013,NA,NA,0
+"3914","State of CA DGS BPM","DGS Central Utility Plant","CA","Sacramento",58548,58593,"STG","58548 58593 STG",0,2.9,"Natural Gas Steam Turbine","NG","SB",12,2010,NA,NA,0
+"3915","Indeck Energy-Alexandria, LLC","Indeck Energy-Alexandria","NH","Grafton",58550,58595,"GEN1","58550 58595 GEN1",0,16,"Wood/Wood Waste Biomass","WDS","OP",11,2008,NA,NA,0
+"3922","East Texas Electric Coop, Inc","Woodville Renewable Power Project","TX","Tyler",39347,58944,"G1","39347 58944 G1",0,49.9,"Wood/Wood Waste Biomass","WDS","OS",10,2014,NA,NA,0
+"3964","Virginia Electric & Power Co","Greensville County Power Station","VA","Greensville",19876,59913,"CT02","19876 59913 CT02",0,369.8,"Natural Gas Fired Combined Cycle","NG","OP",12,2018,NA,NA,0
+"3965","Virginia Electric & Power Co","Greensville County Power Station","VA","Greensville",19876,59913,"CT03","19876 59913 CT03",0,369.8,"Natural Gas Fired Combined Cycle","NG","OP",12,2018,NA,NA,0
+"3966","Virginia Electric & Power Co","Greensville County Power Station","VA","Greensville",19876,59913,"ST01","19876 59913 ST01",0,663.9,"Natural Gas Fired Combined Cycle","NG","OP",12,2018,NA,NA,0
+"3970","Dinuba Energy","Dinuba Energy","CA","Tulare",59849,60100,"G-1","59849 60100 G-1",0,11.5,"Wood/Wood Waste Biomass","WDS","SB",10,1985,NA,NA,0
+"3980","Invenergy Services LLC","Lackawanna Energy Center","PA","Lackawanna",49893,60357,"GEN3","49893 60357 GEN3",237452,555,"Natural Gas Fired Combined Cycle","NG","OP",12,2018,NA,NA,4.88403471965116
+"3988","Tenaska Pennsylvania Partners, LLC","Tenaska Westmoreland Generating Station","PA","Westmoreland",60249,60464,"CTG1","60249 60464 CTG1",31557,370,"Natural Gas Fired Combined Cycle","NG","OP",12,2018,NA,NA,0.973620881155128
+"3989","Tenaska Pennsylvania Partners, LLC","Tenaska Westmoreland Generating Station","PA","Westmoreland",60249,60464,"CTG2","60249 60464 CTG2",72698,370,"Natural Gas Fired Combined Cycle","NG","OP",12,2018,NA,NA,2.24293471553746
+"3990","Tenaska Pennsylvania Partners, LLC","Tenaska Westmoreland Generating Station","PA","Westmoreland",60249,60464,"STG1","60249 60464 STG1",41650,394,"Natural Gas Fired Combined Cycle","NG","OP",12,2018,NA,NA,1.20674269290499
