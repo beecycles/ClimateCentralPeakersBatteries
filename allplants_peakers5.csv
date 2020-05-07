@@ -1,0 +1,1664 @@
+"","PlantID","PlantName","OperatorName","OperatorID","State","County","NameplateCapacityMWSum","NetGenerationMWSum","CapacityFactor"
+"85",47,"Colbert","Tennessee Valley Authority","18642","AL","Colbert",476,68000,1.63078930202218
+"109",53,"Gantt","PowerSouth Energy Cooperative","189","AL","Covington",3,904,3.43987823439878
+"111",54,"J K Smith","East Kentucky Power Coop, Inc","5580","KY","Clark",1055,394471,4.26833517280183
+"131",63,"Gold Creek","Alaska Electric Light&Power Co","213","AK","Juneau",9.7,4103,4.82864943746175
+"159",69,"Haines","Alaska Power and Telephone Co","219","AK","Haines",8.1,1126,1.5868989232764
+"169",72,"Venice Hydro","Metropolitan Water District of S CA","12397","CA","Los Angeles",10.1,0,0
+"170",75,"Anchorage 1","Anchorage Municipal Light and Power","599","AK","Anchorage",77.9,28937,4.24044993874596
+"207",92,"Seward (AK)","City of Seward - (AK)","16955","AK","Kenai Peninsula",15.6,144,0.105374077976818
+"216",95,"Wrangell","City of Wrangell - (AK)","21015","AK","Wrangell Petersburg",8.5,520,0.69836153639538
+"220",96,"Beluga","Chugach Electric Assn Inc","3522","AK","Kenai Peninsula",312.4,37832,1.3824332462187
+"226",99,"Frederickson","Puget Sound Energy Inc","15500","WA","Pierce",177.8,29871,1.91784674176002
+"228",100,"South Consolidated","Salt River Project","16572","AZ","Maricopa",1.4,0,0
+"241",114,"Douglas","Arizona Public Service Co","803","AZ","Cochise",26.1,141,0.0616700782029077
+"267",124,"Demoss Petrie","Tucson Electric Power Co","24211","AZ","Pima",85,5154,0.69218372280419
+"281",141,"Agua Fria","Salt River Project","16572","AZ","Maricopa",613.5,148612,2.76525512349607
+"289",145,"Horse Mesa","Salt River Project","16572","AZ","Maricopa",129.5,50123,4.41838119920312
+"300",148,"Mormon Flat","Salt River Project","16572","AZ","Maricopa",63.5,17190,3.0902815230288
+"304",151,"McClure","Modesto Irrigation District","12745","CA","Stanislaus",142.4,2958,0.237128674772972
+"348",172,"Osceola (AR)","City of Osceola - (AR)","14216","AR","Mississippi",4.8,0,0
+"361",193,"Municipal Light","City of Piggott - (AR)","15043","AR","Clay",7.2,0,0
+"387",202,"Carl Bailey","Arkansas Electric Coop Corp","807","AR","Woodruff",120,14199,1.35074200913242
+"443",248,"Inskip","Pacific Gas & Electric Co.","14328","CA","Tehama",7.6,0,0
+"446",250,"Kerckhoff","Pacific Gas & Electric Co.","14328","CA","Fresno",22.6,0,0
+"484",276,"San Joaquin 2","Pacific Gas & Electric Co.","14328","CA","Madera",2.8,355,1.44732550554468
+"485",277,"San Joaquin 3","Pacific Gas & Electric Co.","14328","CA","Madera",4,0,0
+"491",283,"Spaulding 3","Pacific Gas & Electric Co.","14328","CA","Nevada",6.6,31,0.0536183755361838
+"508",289,"Tule River","Pacific Gas & Electric Co.","14328","CA","Tulare",8.4,1,0.00135899108501848
+"540",316,"Sepulveda Canyon","Metropolitan Water District of S CA","12397","CA","Los Angeles",8.5,0,0
+"591",341,"Long Beach Generation LLC","NRG El Segundo Operations Inc","13584","CA","Los Angeles",252,22511,1.01974161049504
+"599",350,"Ormond Beach","GenOn California South, LP","15908","CA","Ventura",1612,186015,1.31728219857915
+"603",356,"AES Redondo Beach LLC","AES Redondo Beach LLC","22484","CA","Los Angeles",1316.4,274507,2.38046304505577
+"615",361,"Santa Ana 1","Southern California Edison Co","17609","CA","San Bernardino",3.2,558,1.99058219178082
+"649",387,"Drop 4","Imperial Irrigation District","9216","CA","Imperial",19.6,3283,1.912100456621
+"663",392,"Castaic","Los Angeles Department of Water & Power","11208","CA","Los Angeles",1682,232402,1.57728351223538
+"675",398,"Haiwee","Los Angeles Department of Water & Power","11208","CA","Inyo",5.6,512,1.04370515329419
+"677",399,"Harbor","Los Angeles Department of Water & Power","11208","CA","Los Angeles",548.1,37140,0.773531477357646
+"733",422,"Glenarm","City of Pasadena - (CA)","14534","CA","Los Angeles",265.6,107233,4.60888932442097
+"739",423,"Hydaburg","Alaska Power and Telephone Co","219","AK","Prince of Wales Ketchikan",1,3,0.0342465753424658
+"819",457,"Bear Valley","City of Escondido - (CA)","5969","CA","San Diego",1.4,133,1.08447488584475
+"825",464,"Alamosa","Public Service Co of Colorado","15466","CO","Alamosa",53.2,8794,1.88699488447145
+"845",477,"Valmont","Public Service Co of Colorado","15466","CO","Boulder",59.3,2717,0.523035105146034
+"850",483,"Coyote Creek","Metropolitan Water District of S CA","12397","CA","Orange",3.1,0,0
+"852",487,"Valley View","Metropolitan Water District of S CA","12397","CA","Orange",4.1,0,0
+"854",491,"Center","City of Center - (CO)","3227","CO","Saguache",1.5,0,0
+"858",493,"George Birdsall","City of Colorado Springs - (CO)","3989","CO","El Paso",61.1,3984,0.744344550814968
+"864",495,"Ruxton Park","City of Colorado Springs - (CO)","3989","CO","El Paso",1,0,0
+"865",502,"Holly","Town of Holly - (CO)","8751","CO","Prowers",2.9,11,0.043300267674382
+"868",504,"Julesburg","City of Julesburg - (CO)","9928","CO","Sedgwick",2.8,0,0
+"881",507,"Las Animas","City of Las Animas - (CO)","10730","CO","Bent",5.6,0,0
+"891",511,"Trinidad (CO)","City of Trinidad - (CO)","19204","CO","Las Animas",9.2,31,0.0384653563629144
+"903",515,"Big Thompson","U S Bureau of Reclamation","2518","CO","Larimer",4.5,1251,3.17351598173516
+"928",535,"McClellan (CA)","Sacramento Municipal Util Dist","16534","CA","Sacramento",77,7088,1.05082132479393
+"932",539,"Rocky River (CT)","FirstLight Power Resources Services LLC","54895","CT","Litchfield",31,3471,1.27817057003977
+"935",540,"Branford","Connecticut Jet Power LLC","22379","CT","New Haven",21.8,361,0.189036906706883
+"942",542,"Cos Cob","Connecticut Jet Power LLC","22379","CT","Fairfield",115,3102,0.307921381774866
+"947",544,"Devon Station","Devon Power LLC","22350","CT","New Haven",222.6,11843,0.607340808297128
+"952",546,"Montville Station","NRG Montville Operations Inc","22380","CT","New London",495.3,75609,1.74261344307725
+"981",561,"Franklin Drive","Connecticut Jet Power LLC","22379","CT","Litchfield",21.8,374,0.195844329940095
+"986",563,"South Meadow","NAES Corp","4426","CT","Hartford",167.2,1005,0.0686160450940552
+"994",565,"Torrington Terminal","Connecticut Jet Power LLC","22379","CT","Litchfield",21.8,347,0.181705835532655
+"1000",581,"North Main Street","City of Norwich - (CT)","13831","CT","New London",19,228,0.136986301369863
+"1004",585,"Drop 1","Imperial Irrigation District","9216","CA","Imperial",5.7,1664,3.33253224385164
+"1009",591,"Christiana","Calpine Mid-Atlantic Generation LLC","56609","DE","New Castle",52,836,0.183526519142958
+"1011",592,"Delaware City 10","Calpine Mid-Atlantic Generation LLC","56609","DE","New Castle",18.5,8,0.00493644329260768
+"1018",597,"West Station (DE)","Calpine Mid-Atlantic Generation LLC","56609","DE","New Castle",20,649,0.370433789954338
+"1019",599,"McKee Run","NAES Corporation - (DE)","54899","DE","Kent",113.6,28704,2.88442986687247
+"1022",607,"Fredonia","Puget Sound Energy Inc","15500","WA","Skagit",376,129254,3.9242081997474
+"1077",624,"Avon Park","Duke Energy Florida, LLC","6455","FL","Highlands",67.4,902,0.152771567551455
+"1082",627,"Bayboro","Duke Energy Florida, LLC","6455","FL","Pinellas",226.8,7901,0.397681057878927
+"1094",630,"Higgins","Duke Energy Florida, LLC","6455","FL","Pinellas",153.2,24175,1.80137284356856
+"1108",638,"Suwannee River","Duke Energy Florida, LLC","6455","FL","Suwannee",197.7,43207,2.49484367024434
+"1145",666,"J D Kennedy","JEA","9617","FL","Duval",370,109115,3.36650006170554
+"1154",673,"Tom G Smith","City of Lake Worth - (FL)","10620","FL","Palm Beach",98.7,11838,1.36916906080415
+"1179",683,"Indian River Plant","Orlando Utilities Comm","14610","FL","Brevard",342.8,1724,0.057410633887992
+"1205",698,"Trenton North","Trenton Municipal Utilities - (MO)","19150","MO","Grundy",13.5,68,0.0575004227972264
+"1231",708,"Hammond","Georgia Power Co","7140","GA","Floyd",953,181381,2.17267508995865
+"1246",711,"Langdale","Georgia Power Co","7140","AL","Chambers",1,0,0
+"1255",715,"McManus","Georgia Power Co","7140","GA","Glynn",500.6,9821,0.223954998294284
+"1301",732,"Boulevard","Georgia Power Co","7140","GA","Chatham",15.6,43,0.0314658705069664
+"1311",751,"Moccasin Low Head Hydro Project","City & County of San Francisco","16612","CA","Tuolumne",2.9,0,0
+"1316",753,"Crisp Plant","Crisp County Power Comm","4538","GA","Worth",17.5,131,0.0854533594259622
+"1337",762,"Ponca","Oklahoma Municipal Power Authority","14077","OK","Kay",48,0,0
+"1352",768,"Waimea","Hawaii Electric Light Co Inc","8287","HI","Hawaii",7.5,915,1.39269406392694
+"1355",769,"Kanoelehua","Hawaii Electric Light Co Inc","8287","HI","Hawaii",21,720,0.391389432485323
+"1415",817,"Salmon Diesel","Idaho Power Co","9191","ID","Lemhi",5,36,0.0821917808219178
+"1488",886,"Fisk Street","Midwest Generations EME LLC","12384","IL","Cook",288.8,618,0.0244279588661632
+"1508",899,"Moline","MidAmerican Energy Co","12341","IL","Rock Island",75.6,14738,2.22542340122249
+"1516",902,"Bottle Rock Power","Bottle Rock Power LLC","56589","CA","Lake",55,0,0
+"1520",913,"Venice","Union Electric Co - (MO)","19436","IL","Madison",586,86592,1.68684838000842
+"1527",934,"Breese","City of Breese - (IL)","2188","IL","Clinton",16.9,272,0.183729161600605
+"1534",935,"Bushnell","City of Bushnell - (IL)","2634","IL","McDonough",10.8,64,0.0676475562320311
+"1541",936,"Carlyle","City of Carlyle - (IL)","3037","IL","Clinton",9.5,191,0.229512136505648
+"1545",937,"Carmi","City of Carmi - (IL)","3040","IL","White",16.1,174,0.123372755892113
+"1553",940,"Fairfield","City of Fairfield- (IL)","6141","IL","Wayne",7.5,40,0.060882800608828
+"1556",941,"Farmer City","City of Farmer City - (IL)","6192","IL","DeWitt",11.3,13,0.0131329049985857
+"1562",943,"Freeburg","Village of Freeburg - (IL)","6764","IL","St Clair",15.7,145,0.105430009016084
+"1573",944,"Geneseo","City of Geneseo - (IL)","7095","IL","Henry",33.6,7637,2.59465372907154
+"1584",946,"Highland","City of Highland","8573","IL","Madison",17.6,263,0.170584267330843
+"1591",948,"McLeansboro","City of McLeansboro - (IL)","12167","IL","Hamilton",9.2,6,0.00744490768314473
+"1597",949,"Marshall (IL)","City of Marshall - (IL)","11736","IL","Clark",16.9,145,0.0979438545297344
+"1621",957,"Princeton (IL)","City of Princeton - (IL)","15388","IL","Bureau",37.9,272,0.0819267237744124
+"1629",958,"Rantoul","Village of Rantoul - (IL)","15686","IL","Champaign",14.4,139,0.110191527143582
+"1637",959,"Red Bud","City of Red Bud - (IL)","15772","IL","Randolph",15,150,0.114155251141553
+"1643",960,"North Ninth Street","Rochelle Municipal Utilities","16179","IL","Ogle",18,2085,1.32229832572298
+"1652",961,"South Main Street","Rochelle Municipal Utilities","16179","IL","Ogle",15.8,1458,1.0534073174961
+"1664",964,"Lakeside","City of Springfield - (IL)","17828","IL","Sangamon",5.4,16,0.0338237781160156
+"1667",965,"Reynolds","City of Springfield - (IL)","17828","IL","Sangamon",17.5,121,0.0789302022178734
+"1668",969,"Sullivan (IL)","City of Sullivan - (IL)","18277","IL","Moultrie",25.4,339,0.152356811562938
+"1681",971,"Waterloo","City of Waterloo - (IL)","20180","IL","Monroe",30.2,468,0.176902839517373
+"1694",972,"Winnetka","Village of Winnetka - (IL)","20824","IL","Cook",33.4,3965,1.35516637956963
+"1778",1011,"Broadway (IN)","Southern Indiana Gas & Elec Co","17633","IN","Vanderburgh",88.8,7511,0.965563165905632
+"1781",1013,"Northeast (IN)","Southern Indiana Gas & Elec Co","17633","IN","Vanderburgh",22.2,30,0.015426385289399
+"1783",1016,"Butler-Warner Generation Plant","Fayetteville Public Works Commission","6235","NC","Cumberland",303.4,67263,2.53079257005084
+"1794",1024,"Crawfordsville Power Plant","Crawfordsville Energy LLC","59774","IN","Montgomery",24.9,0,0
+"1797",1037,"Peru (IN)","City of Peru - (IN)","14839","IN","Miami",1.8,20,0.126839167935058
+"1798",1038,"Rensselaer City Light Plant","City of Rensselaer - (IN)","15860","IN","Jasper",21.8,7590,3.97448787231369
+"1804",1040,"Whitewater Valley","City of Richmond - (IN)","15989","IN","Wayne",93.9,41092,4.99559912663331
+"1810",1068,"Marshalltown","Interstate Power and Light Co","9417","IA","Marshall",189,30809,1.86085139281486
+"1816",1079,"Coralville GT","MidAmerican Energy Co","12341","IA","Johnson",72,271,0.042966768138001
+"1832",1097,"Merl Parr","MidAmerican Energy Co","12341","IA","Floyd",36,106,0.0336123795027905
+"1854",1120,"Algona","City of Algona - (IA)","309","IA","Kossuth",16.1,109,0.0772852321393119
+"1858",1121,"Alta Municipal Utilities","City of Alta - (IA)","405","IA","Buena Vista",5,9,0.0205479452054795
+"1863",1123,"Anita","City of Anita - (IA)","682","IA","Cass",2.9,58,0.228310502283105
+"1868",1124,"Atlantic","Atlantic Municipal Utilities","965","IA","Cass",10,142,0.162100456621005
+"1872",1126,"Bellevue","City of Bellevue - (IA)","1515","IA","Jackson",8,950,1.35559360730594
+"1877",1127,"Bloomfield","City of Bloomfield - (IA)","1869","IA","Davis",8.5,131,0.175933387053452
+"1883",1128,"Brooklyn","City of Brooklyn - (IA)","2287","IA","Poweshiek",2.3,4,0.0198530871550526
+"1884",1129,"Cascade","Cascade Municipal Utilities","3137","IA","Dubuque",5.2,15,0.0329293993677555
+"1890",1131,"Streeter Station","Cedar Falls Utilities","3203","IA","Black Hawk",51.5,2823,0.62574810480117
+"1892",1132,"Coggon","City of Coggon - (IA)","3900","IA","Linn",2,33,0.188356164383562
+"1893",1134,"Corning","City of Corning - (IA)","4375","IA","Adams",6.8,21,0.0352538275584206
+"1896",1135,"Dayton (IA)","City of Dayton - (IA)","4919","IA","Webster",1.8,6,0.0380517503805175
+"1897",1137,"Estherville","City of Estherville - (IA)","5998","IA","Emmet",15.6,43,0.0314658705069664
+"1902",1138,"Forest City Light Plant","City of Forest City- (IA)","6579","IA","Winnebago",22,250,0.129721876297219
+"1908",1141,"Gowrie","Gowrie Municipal Utilities","7424","IA","Webster",2.5,4,0.0182648401826484
+"1909",1142,"Graettinger","City of Graettinger - (IA)","7443","IA","Palo Alto",3.6,43,0.136352105530188
+"1912",1143,"Grand Junction","City of Grand Junction - (IA)","7486","IA","Greene",1.7,12,0.08058017727639
+"1913",1145,"Grundy Center City Light Plant","Grundy Center Mun Light & Power","7743","IA","Grundy",8.7,98,0.12858867369968
+"1916",1146,"Harlan","Harlan Municipal Utilities - (IA)","8122","IA","Shelby",3.4,0,0
+"1918",1150,"Indianola","Indianola Municipal Utilities","9275","IA","Warren",50,47,0.0107305936073059
+"1922",1153,"Lake Park","City of Lake Park - (IA)","10608","IA","Dickinson",4,54,0.154109589041096
+"1924",1154,"Lake Mills","City of Lake Mills","10606","IA","Winnebago",18.5,88,0.0543008762186844
+"1929",1155,"Lamoni Municipal Utilities","City of Lamoni - (IA)","10650","IA","Decatur",10.5,69,0.0750163078930202
+"1937",1156,"La Porte","La Porte City Utilities","10542","IA","Black Hawk",5.4,76,0.160662946051074
+"1940",1157,"Laurens","City of Laurens - (IA)","10769","IA","Pocahontas",9.1,98,0.122936424306287
+"1945",1158,"Lenox","City of Lenox - (IA)","10908","IA","Taylor",6.1,60,0.112283853581855
+"1965",1163,"McGregor","City of McGregor- (IA)","12114","IA","Clayton",2,8,0.045662100456621
+"1968",1164,"Milford","City of Milford - (IA)","12541","IA","Dickinson",6.5,56,0.0983491394450299
+"1973",1165,"Montezuma","City of Montezuma - (IA)","12839","IA","Poweshiek",9.8,190,0.221321405274439
+"1981",1166,"Mt Pleasant","City of Mt Pleasant - (IA)","13038","IA","Henry",24,293,0.139364535768645
+"1997",1168,"New Hampton","City of New Hampton - (IA)","13444","IA","Chickasaw",26.5,461,0.19858705953304
+"2002",1169,"Ogden","City of Ogden - (IA)","13990","IA","Boone",3.9,28,0.0819576162041915
+"2005",1172,"Osage (IA)","City of Osage - (IA)","14201","IA","Mitchell",19,5118,3.07498197548666
+"2014",1176,"Preston (IA)","City of Preston","15349","IA","Jackson",3.2,0,0
+"2017",1177,"Primghar","City of Primghar - (IA)","15377","IA","O'Brien",1.7,0,0
+"2019",1180,"Rockford","City of Rockford- (IA)","16211","IA","Floyd",2.9,21,0.0826641473783656
+"2022",1181,"Rock Rapids","Rock Rapids Municipal Utility","16206","IA","Lyon",2.5,18,0.0821917808219178
+"2023",1184,"Sibley One","City of Sibley - (IA)","17141","IA","Osceola",5.2,142,0.311731647348086
+"2026",1186,"Spencer Gas Turbine","City of Spencer - (IA)","17783","IA","Clay",23.8,189,0.0906526994359388
+"2027",1187,"State Center","City of State Center - (IA)","18014","IA","Marshall",6.3,126,0.228310502283105
+"2032",1188,"Story City","City of Story City - (IA)","18177","IA","Story",13.9,265,0.217634111888571
+"2038",1190,"Stuart (IA)","City of Stuart - (IA)","18231","IA","Guthrie",2.8,3,0.0122309197651663
+"2041",1191,"Sumner","City of Sumner - (IA)","18301","IA","Bremer",5.6,74,0.150848010437052
+"2044",1192,"Traer Main","City of Traer - (IA)","19062","IA","Tama",4.1,7,0.0194899209266065
+"2048",1193,"Villisca Municipal Power Plant","City of Villisca - (IA)","19843","IA","Montgomery",4,12,0.0342465753424658
+"2057",1198,"Webster City","City of Webster City - (IA)","20259","IA","Hamilton",21.3,203,0.108795849679508
+"2058",1199,"West Bend","City of West Bend","20364","IA","Palo Alto",6.7,33,0.0562257207115109
+"2062",1200,"West Liberty","City of West Liberty - (IA)","20380","IA","Muscatine",16.5,112,0.077487200774872
+"2066",1201,"Whittemore","City of Whittemore - (IA)","20604","IA","Kossuth",1.1,0,0
+"2067",1202,"Wilton","City of Wilton","20789","IA","Muscatine",9.2,32,0.0397061743101052
+"2072",1203,"Winterset","City of Winterset - (IA)","20835","IA","Madison",13.6,52,0.0436475960247113
+"2078",1206,"Summit Lake","Central Iowa Power Cooperative","3258","IA","Union",84.8,10246,1.37928620659947
+"2083",1217,"Earl F Wisdom","Corn Belt Power Coop","4363","IA","Clay",119.1,21902,2.09926810285666
+"2085",1224,"Bird City","Midwest Energy Inc","12524","KS","Cheyenne",4,0,0
+"2087",1225,"Colby","Midwest Energy Inc","12524","KS","Thomas",16,128,0.091324200913242
+"2088",1230,"Cimarron River","Sunflower Electric Power Corp","18315","KS","Seward",65,621,0.109062170706006
+"2090",1233,"Fort Dodge","Sunflower Electric Power Corp","18315","KS","Ford",149,1193,0.0914008151757531
+"2102",1248,"Hutchinson Energy Center","Westar Energy Inc","22500","KS","Reno",344.7,6222,0.206055692661079
+"2109",1258,"Anthony","City of Anthony - (KS)","701","KS","Harper",11.1,165,0.169690238183389
+"2112",1259,"Ashland","City of Ashland - (KS)","911","KS","Clark",5.6,96,0.195694716242661
+"2125",1262,"Baldwin City Plant No 1","City of Baldwin City- (KS)","1148","KS","Douglas",4.2,43,0.116873233311589
+"2128",1263,"Belleville","City of Belleville - (KS)","1512","KS","Republic",14.3,105,0.0838202892997414
+"2133",1264,"Beloit","City of Beloit - (KS)","1525","KS","Mitchell",19.3,73,0.0431778929188256
+"2140",1265,"Burlingame","City of Burlingame - (KS)","2547","KS","Osage",4,78,0.222602739726027
+"2144",1266,"Burlington (KS)","City of Burlington - (KS)","2551","KS","Coffey",11.4,124,0.124168869662741
+"2160",1271,"Coffeyville","City of Coffeyville - (KS)","3892","KS","Montgomery",62.7,19020,3.46289135041839
+"2164",1272,"Colby City of","City of Colby - (KS)","3913","KS","Thomas",14.7,37,0.0287329543689622
+"2174",1276,"Erie","City of Erie - (KS)","5957","KS","Neosho",4.3,7,0.0185834129765318
+"2178",1278,"Garnett Municipal","City of Garnett - (KS)","6965","KS","Anderson",11.7,6,0.00585411544315654
+"2185",1279,"Girard","City of Girard - (KS)","7257","KS","Crawford",10.8,54,0.0570776255707763
+"2197",1283,"Herington","City of Herington - (KS)","8490","KS","Dickinson",1.6,12,0.0856164383561644
+"2198",1285,"Hill City","City of Hill City","8599","KS","Graham",6.9,0,0
+"2204",1286,"Hoisington","City of Hoisington - (KS)","8703","KS","Barton",14,124,0.101108936725375
+"2208",1287,"Holton","City of Holton - (KS)","8770","KS","Jackson",21.5,1660,0.88138472974408
+"2216",1291,"Iola","City of Iola - (KS)","9418","KS","Allen",23.5,1000,0.485767026134266
+"2223",1292,"Jetmore","City of Jetmore","9732","KS","Hodgeman",2.5,53,0.242009132420091
+"2227",1295,"Quindaro","City of Kansas City - (KS)","9996","KS","Wyandotte",370.5,27497,0.847213749160396
+"2231",1296,"Kingman Municipal Power and Light Plant","City of Kingman - (KS)","10321","KS","Kingman",19.1,2719,1.62506873221927
+"2237",1297,"La Crosse","City of La Crosse - (KS)","10559","KS","Rush",5.5,16,0.033208800332088
+"2247",1300,"Lincoln","City of Lincoln Center - (KS)","11017","KS","Lincoln",10.1,132,0.14919300149193
+"2253",1305,"McPherson 2","City of McPherson - (KS)","12208","KS","McPherson",214.8,16831,0.894481858455992
+"2256",1306,"Meade","City of Meade - (KS)","12242","KS","Meade",8.2,62,0.086312506960686
+"2261",1307,"Minneapolis City of","City of Minneapolis - (KS)","21533","KS","Ottawa",9.1,259,0.324903407095188
+"2266",1312,"Oberlin (KS)","City of Oberlin - (KS)","13948","KS","Decatur",6.9,22,0.0363973264509298
+"2280",1314,"Osawatomie City of","City of Osawatomie - (KS)","14203","KS","Miami",6.6,20,0.034592500345925
+"2283",1315,"Osborne","City of Osborne - (KS)","14214","KS","Osborne",7.1,7,0.0112547430702939
+"2289",1316,"Ottawa","City of Ottawa - (KS)","14229","KS","Franklin",30.7,1363,0.506819567771779
+"2294",1317,"Pratt","City of Pratt- (KS)","15321","KS","Pratt",15.5,284,0.209161879510974
+"2296",1319,"Russell Downtown","City of Russell - (KS)","16440","KS","Russell",15.7,105,0.0763458685978536
+"2312",1321,"St Francis","City of St Francis - (KS)","17872","KS","Cheyenne",5.1,0,0
+"2315",1322,"St John","City of St. John - (KS)","17879","KS","Stafford",5,6,0.0136986301369863
+"2318",1324,"Sharon Spring","City of Sharon Springs - (KS)","16988","KS","Wallace",3,0,0
+"2322",1325,"Stafford","City of Stafford - (KS)","17924","KS","Stafford",2.5,0,0
+"2324",1326,"Sterling","City of Sterling - (KS)","18086","KS","Rice",10.3,75,0.0831227556855965
+"2345",1329,"Washington","City of Washington - (KS)","20141","KS","Washington",8.9,52,0.0666974501051767
+"2352",1330,"Wellington 1","City of Wellington - (KS)","20315","KS","Sumner",24,62,0.0294901065449011
+"2355",1332,"West 14th Street","City of Winfield - (KS)","20813","KS","Cowley",11,707,0.733706932337069
+"2356",1336,"Garden City","Sunflower Electric Power Corp","18315","KS","Finney",256.3,40575,1.80719832815782
+"2400",1366,"Paddys Run","Louisville Gas & Electric Co","11249","KY","Jefferson",226.6,80162,4.03835535834472
+"2410",1376,"Paris (KY)","City of Paris - (KY)","14459","KY","Bourbon",11.5,0,0
+"2477",1404,"Sterlington","Entergy Louisiana LLC","11241","LA","Ouachita",226.3,3131,0.157940826921874
+"2480",1416,"Arsenal Hill","Southwestern Electric Power Co","17698","LA","Caddo",125,25526,2.33114155251142
+"2481",1417,"Lieberman","Southwestern Electric Power Co","17698","LA","Caddo",253,66709,3.0099536159691
+"2484",1439,"Houma","Terrebonne Parish Consol Gov't","8884","LA","Terrebonne",78.9,33498,4.84660659409344
+"2487",1453,"New Roads","City of New Roads - (LA)","13483","LA","Pointe Coupee",9.4,5,0.00607208782667833
+"2493",1456,"Rayne","Louisiana Energy & Power Authority","26253","LA","Acadia",8.2,0,0
+"2495",1464,"Big Cajun 1","Louisiana Generating LLC","11252","LA","Pointe Coupee",492.8,146060,3.38342450928067
+"2499",1468,"Eastport","Emera Maine","1179","ME","Washington",2,19,0.108447488584475
+"2514",1480,"Androscoggin 3","Brookfield White Pine Hydro LLC","39006","ME","Androscoggin",3.6,0,0
+"2515",1481,"Bar Mills","Brookfield White Pine Hydro LLC","39006","ME","York",4,0,0
+"2526",1484,"Cape Gas Turbine","FPL Energy Cape LLC","14876","ME","Cumberland",35,744,0.2426614481409
+"2560",1507,"William F Wyman","FPL Energy Wyman LLC","31719","ME","Cumberland",862.7,156386,2.06935007592707
+"2580",1513,"Caribou Generation Station","Merlin One LLC","60160","ME","Aroostook",27.4,552,0.22997700229977
+"2592",1553,"Gould Street","Constellation Power Source Gen","4161","MD","Baltimore City",103.5,14839,1.63666644607681
+"2598",1555,"Notch Cliff","Constellation Power Source Gen","4161","MD","Baltimore",144,26694,2.11615296803653
+"2611",1557,"Philadelphia","Constellation Power Source Gen","4161","MD","Baltimore City",82.8,4833,0.666319237641453
+"2615",1559,"Riverside (MD)","Constellation Power Source Gen","4161","MD","Baltimore",50,3772,0.861187214611872
+"2617",1560,"Westport","Constellation Power Source Gen","4161","MD","Baltimore City",121.5,32722,3.07439352086739
+"2618",1563,"Crisfield","Calpine Mid-Atlantic Generation LLC","56609","MD","Somerset",11.6,4849,4.77188631711542
+"2622",1564,"Vienna Operations","NRG Vienna Operations Inc","19830","MD","Dorchester",180.6,5518,0.348786642192185
+"2636",1572,"Dickerson","GenOn Mid-Atlantic LLC","12653","MD","Montgomery",933,341686,4.1806271319992
+"2661",1580,"Easton","Easton Utilities Comm","5625","MD","Talbot",33.6,235,0.0798407262448358
+"2671",1586,"Exelon Framingham LLC","Exelon Power","6035","MA","Norfolk",42.6,516,0.138272557720754
+"2683",1592,"Exelon Medway LLC","Exelon Power","6035","MA","Norfolk",135,4329,0.366057838660578
+"2689",1597,"Oak Bluffs Diesel Generating Facility","GenOn Canal, LLC","21461","MA","Dukes",8.1,1503,2.11821410451547
+"2692",1599,"Canal","NRG Canal 3 Development LLC","61708","MA","Barnstable",1165,139131,1.36330766065024
+"2705",1615,"Nantucket","Nantucket Electric Co","13206","MA","Nantucket",7.4,146,0.225225225225225
+"2717",1631,"Doreen","NAEA Energy Massachusetts LLC","56401","MA","Berkshire",21.1,288,0.155813802506005
+"2726",1642,"Essential Power Massachusetts LLC","NAEA Energy Massachusetts LLC","56401","MA","Hampden",250.6,19145,0.87210785439147
+"2730",1643,"Woodland Road","NAEA Energy Massachusetts LLC","56401","MA","Berkshire",20.4,305,0.170673292147909
+"2731",1660,"Potter Station 2","Town of Braintree - (MA)","2144","MA","Norfolk",217,46784,2.46112408728405
+"2735",1670,"High Street Station","Town of Ipswich - (MA)","9442","MA","Essex",10.9,236,0.247161828159692
+"2744",1678,"Waters River","City of Peabody - (MA)","14605","MA","Essex",64.9,4760,0.837255771084422
+"2805",1728,"Delray","DTE Electric Company","5109","MI","Wayne",142.2,16136,1.29536507202538
+"2812",1730,"Hancock","DTE Electric Company","5109","MI","Oakland",160.2,11980,0.853670354978651
+"2827",1734,"Northeast (MI)","DTE Electric Company","5109","MI","Macomb",129.8,6556,0.576580760003096
+"2877",1750,"Manistique","Cloverland Electric Co-op","3828","MI","Schoolcraft",4.8,279,0.663527397260274
+"3026",1826,"Grand Haven Diesel Plant","City of Grand Haven - (MI)","7483","MI","Ottawa",7,62,0.101108936725375
+"3027",1827,"Hart","City of Hart Hydro - (MI)","8205","MI","Oceana",5.1,0,0
+"3030",1829,"Hillsdale","Hillsdale Board of Public Wks","8631","MI","Hillsdale",11.6,645,0.634742560226736
+"3036",1840,"Plant Four","City of Marquette - (MI)","11701","MI","Marquette",24,75,0.0356735159817352
+"3042",1844,"Marshall (MI)","City of Marshall - (MI)","11713","MI","Calhoun",11.9,136,0.130463144161774
+"3049",1846,"Newberry","Newberry Water & Light Board","13525","MI","Luce",5.5,48,0.099626400996264
+"3056",1851,"Frank Jenkins","City of Portland - (MI)","15246","MI","Ionia",3.8,0,0
+"3059",1852,"St Louis","City of St Louis - (MI)","17886","MI","Gratiot",7.1,1046,1.68178017878963
+"3067",1853,"Main Street (MI)","City of Sebewaing - (MI)","16873","MI","Huron",6,32,0.060882800608828
+"3083",1866,"Wyandotte","Wyandotte Municipal Serv Comm","21048","MI","Wayne",78.4,4099,0.596839763302581
+"3090",1867,"Zeeland","City of Zeeland - (MI)","21158","MI","Ottawa",22.3,257,0.131560087638471
+"3097",1868,"Dafter","Cloverland Electric Co-op","3828","MI","Chippewa",8,24,0.0342465753424658
+"3105",1873,"Tower","Wolverine Power Supply Coop","20910","MI","Cheboygan",21.3,35,0.0187579051171565
+"3106",1874,"Caro","Thumb Electric Coop of Mich","18895","MI","Tuscola",9.4,6,0.00728650539201399
+"3112",1875,"Ubly","Thumb Electric Coop of Mich","18895","MI","Huron",12.4,23,0.0211739578730299
+"3124",1880,"Claude Vandyke","Wolverine Power Supply Coop","20910","MI","Allegan",47.8,9172,2.19044343822243
+"3126",1881,"Vestaburg","Wolverine Power Supply Coop","20910","MI","Montcalm",23.7,1097,0.528389495790224
+"3127",1891,"Syl Laskin","ALLETE, Inc.","12647","MN","St Louis",116,13893,1.36720595181861
+"3145",1897,"M L Hibbard","ALLETE, Inc.","12647","MN","St Louis",72.8,10285,1.61275653570174
+"3179",1913,"Inver Hills","Northern States Power Co - Minnesota","13781","MN","Dakota",284.4,14143,0.567685554463775
+"3196",1929,"St James","City of St James - (MN)","17876","MN","Watonwan",12,55,0.0523211567732116
+"3209",1956,"Adrian","Adrian Public Utilities Comm","150","MN","Nobles",2,13,0.0742009132420091
+"3210",1958,"Alexandria","City of Alexandria - (MN)","295","MN","Douglas",9.2,84,0.104228707564026
+"3213",1964,"Benson City of","City of Benson - (MN)","1573","MN","Swift",9,89,0.112886859462202
+"3218",1966,"Blooming Prairie","City of Blooming Prairie - (MN)","1871","MN","Steele",6.8,235,0.394507117915659
+"3222",1967,"Blue Earth","Blue Earth Light & Water","1883","MN","Faribault",11,45,0.0466998754669988
+"3229",1969,"Delano","Delano Municipal Utilities","5015","MN","Wright",24.1,0,0
+"3237",1970,"Detroit Lakes","City of Detroit Lakes - (MN)","5111","MN","Becker",12.5,42,0.0383561643835616
+"3246",1972,"Fairfax","City of Fairfax - (MN)","6138","MN","Renville",2,10,0.0570776255707763
+"3253",1975,"Glencoe","Glencoe Light & Power Comm","7292","MN","McLeod",39.5,165,0.0476851049072308
+"3261",1976,"Grand Marais","City of Grand Marais - (MN)","7487","MN","Cook",6.7,170,0.289647652150208
+"3270",1980,"Hutchinson Plant #1","Hutchinson Utilities Comm","9130","MN","McLeod",33.3,11436,3.92035871487926
+"3274",1982,"Janesville","City of Janesville - (MN)","9650","MN","Waseca",4.9,16,0.0372751840462212
+"3278",1983,"Kenyon Municipal","Kenyon Municipal Utilities","10179","MN","Goodhue",5.4,19,0.0401657365127685
+"3281",1985,"Lake Crystal","City of Lake Crystal - (MN)","10596","MN","Blue Earth",5.8,14,0.0275547157927885
+"3285",1987,"Lanesboro","Lanesboro Public Utility Comm","10685","MN","Fillmore",2.6,4,0.0175623463294696
+"3287",1989,"Litchfield","Litchfield Public Utilities","11064","MN","Meeker",15.7,345,0.250850711107233
+"3294",1990,"Luverne","City of Luverne - (MN)","11332","MN","Rock",3.5,23,0.0750163078930202
+"3295",1993,"Marshall (MN)","City of Marshall - (MN)","11731","MN","Lyon",18,204,0.12937595129376
+"3296",1994,"Melrose","Melrose Public Utilities","12286","MN","Stearns",8.2,70,0.0974496046330326
+"3300",1996,"Moose Lake","Moose Lake Water & Light Comm","12897","MN","Carlton",9.6,102,0.1212899543379
+"3305",1997,"Mora","City of Mora - (MN)","12900","MN","Kanabec",13.8,119,0.0984382238104692
+"3308",1998,"Mountain Lake","City of Mountain Lake - (MN)","13048","MN","Cottonwood",9.2,3019,3.74602938256899
+"3319",2001,"New Ulm","New Ulm Public Utilities Comm","13488","MN","Brown",78.5,2261,0.328796207428089
+"3324",2002,"North Branch (MN)","North Branch Water & Light Comm","13681","MN","Chisago",11,318,0.330012453300125
+"3329",2003,"Owatonna","City of Owatonna - (MN)","14246","MN","Steele",19,0,0
+"3330",2004,"Preston (MN)","Preston Public Utilities Comm","15348","MN","Fillmore",3.7,85,0.262248549919783
+"3333",2005,"Princeton (MN)","Princeton Public Utils Comm","15387","MN","Mille Lacs",12.3,330,0.306270185989531
+"3340",2009,"Redwood Falls","Redwood Falls Public Util Comm","15793","MN","Redwood",8.5,1800,2.4174053182917
+"3343",2011,"Sleepy Eye","Sleepy Eye Public Utility Comm","17320","MN","Brown",11.4,32,0.0320435792678042
+"3349",2012,"Springfield (MN)","Springfield Public Utils Comm - (MN)","17836","MN","Brown",9,0,0
+"3354",2013,"Spring Valley","Spring Valley Pub Utils Comm","17824","MN","Fillmore",7.1,141,0.226702681844492
+"3358",2014,"Thief River Falls","City of Thief River Falls","18820","MN","Pennington",6.5,967,1.69827889005971
+"3364",2015,"Truman","Truman Public Utilities Comm","19237","MN","Martin",6.2,7,0.0128884960966269
+"3369",2020,"Wells IC","City of Wells - (MN)","29295","MN","Faribault",8.3,183,0.25169169830005
+"3374",2021,"Westbrook","City of Westbrook","20430","MN","Cottonwood",2.3,9,0.0446694460988684
+"3379",2023,"Windom","City of Windom","20806","MN","Cottonwood",8.4,85,0.115514242226571
+"3396",2038,"Cambridge CT","Great River Energy","7570","MN","Isanti",194.2,56197,3.30338962327591
+"3402",2042,"Maple Lake","Great River Energy","7570","MN","Wright",25,380,0.17351598173516
+"3408",2048,"Sweatt","Mississippi Power Co","12686","MS","Lauderdale",41.9,5128,1.39710770370855
+"3415",2059,"L L Wilkins","Clarksdale Public Utilities","3702","MS","Coahoma",55.2,226,0.046737476010853
+"3419",2067,"Yazoo","Public Serv Comm of Yazoo City","21095","MS","Yazoo",34.1,0,0
+"3435",2081,"Northeast (MO)","Kansas City Power & Light Co","10000","MO","Jackson",490.2,1584,0.0368873761338676
+"3444",2082,"Fairgrounds","Union Electric Co - (MO)","19436","MO","Cole",68.3,459,0.0767163400790228
+"3446",2092,"Ralph Green","KCP&L Greater Missouri Operations Co","56211","MO","Cass",85,6509,0.874160623153371
+"3454",2099,"Niangua","Sho-Me Power Electric Coop","17106","MO","Camden",3,657,2.5
+"3478",2113,"Albany","City of Albany - (MO)","228","MO","Gentry",6.2,0,0
+"3483",2115,"Butler Municipal Power Plant","City of Butler - (MO)","2647","MO","Bates",12.3,52,0.0482607565801685
+"3490",2120,"Carrollton","Carrollton Board of Public Wks","3082","MO","Carroll",20.6,0,0
+"3505",2122,"Chillicothe","Chillicothe Municipal Utils","3486","MO","Livingston",90,3020,0.383054287163876
+"3530",2126,"Fulton (MO)","City of Fulton - (MO)","6839","MO","Callaway",33.2,1000,0.343841117896242
+"3533",2127,"Gallatin (MO)","City of Gallatin - (MO)","6924","MO","Daviess",7.2,0,0
+"3537",2131,"Higginsville","City of Higginsville - (MO)","8567","MO","Lafayette",51.6,6642,1.46941701178719
+"3543",2132,"Blue Valley","City of Independence - (MO)","9231","MO","Jackson",115,19429,1.92862815167759
+"3546",2134,"Jackson Square","City of Independence - (MO)","9231","MO","Jackson",36,635,0.201357179096905
+"3548",2135,"Station H","City of Independence - (MO)","9231","MO","Jackson",43,9799,2.60141233938622
+"3550",2136,"Station I","City of Independence - (MO)","9231","MO","Jackson",38,157,0.0471641432347993
+"3552",2137,"Jackson (MO)","City of Jackson - (MO)","9603","MO","Cape Girardeau",26.3,147,0.0638054065315902
+"3562",2138,"Kahoka","City of Kahoka","9973","MO","Clark",7.4,1,0.0015426385289399
+"3570",2139,"Kennett","City of Kennett - (MO)","10152","MO","Dunklin",44.5,2556,0.655687240264738
+"3583",2140,"La Plata","City of La Plata - (MO)","10538","MO","Macon",3.6,12,0.0380517503805175
+"3585",2141,"Macon","City of Macon - (MO)","11460","MO","Macon",1,0,0
+"3586",2142,"Malden","City of Malden - (MO)","11540","MO","Dunklin",15.9,35,0.0251285144022285
+"3593",2144,"Marshall (MO)","City of Marshall - (MO)","11732","MO","Saline",30.8,685,0.253884243610271
+"3599",2145,"Memphis","City of Memphis - (MO)","12294","MO","Scotland",8.8,0,0
+"3609",2146,"Monroe (MO)","City of Monroe City - (MO)","12802","MO","Monroe",10.4,0,0
+"3615",2161,"James River Power Station","City Utilities of Springfield - (MO)","17833","MO","Greene",362.5,117980,3.71532042198079
+"3619",2164,"Unionville City of","City of Unionville - (MO)","19474","MO","Putnam",8.7,14,0.0183698105285257
+"3637",2176,"Glendive GT","Montana-Dakota Utilities Co","12199","MT","Dawson",83.7,1814,0.247404570574404
+"3639",2177,"Miles City GT","Montana-Dakota Utilities Co","12199","MT","Custer",23.3,150,0.0734905050267505
+"3675",2196,"Old Faithful","NorthWestern Energy","13902","WY","Teton",2,159,0.907534246575342
+"3690",2214,"Ansley","City of Ansley - (NE)","695","NE","Custer",1.5,22,0.167427701674277
+"3692",2215,"Auburn","Auburn Board of Public Works","993","NE","Nemaha",18.7,230,0.140404854345225
+"3698",2216,"Arnold","Village of Arnold - (NE)","871","NE","Custer",1.1,0,0
+"3702",2217,"Beaver City","City of Beaver City - (NE)","1435","NE","Furnas",2,0,0
+"3706",2221,"Broken Bow","City of Broken Bow - (NE)","2277","NE","Custer",8.7,90,0.118091639111951
+"3712",2222,"Burwell","City of Burwell - (NE)","2609","NE","Garfield",3.9,156,0.45662100456621
+"3716",2223,"Cambridge","City of Cambridge - (NE)","2888","NE","Furnas",4,5,0.0142694063926941
+"3718",2225,"Campbell Village","Village of Campbell - (NE)","2931","NE","Franklin",1.3,0,0
+"3722",2226,"Canaday","Nebraska Public Power District","13337","NE","Gosper",108.8,720,0.0755439161966156
+"3728",2230,"Chappell","City of Chappell - (NE)","3373","NE","Deuel",1.1,9,0.0933997509339975
+"3729",2231,"Crete","City of Crete","4527","NE","Saline",6,51,0.0970319634703196
+"3730",2232,"Curtis","City of Curtis - (NE)","4661","NE","Frontier",3.4,47,0.157802847166264
+"3733",2233,"David City","City of David City","4836","NE","Butler",10.6,43,0.0463082622555354
+"3740",2234,"Deshler","City of Deshler - (NE)","5097","NE","Thayer",2.3,13,0.064522533253921
+"3744",2235,"Emerson","City of Emerson - (NE)","5850","NE","Dixon",1.6,1,0.00713470319634703
+"3747",2237,"Falls City","City of Falls City - (NE)","6175","NE","Richardson",31.3,2485,0.906312457146192
+"3756",2238,"Franklin (NE)","City of Franklin - (NE)","6723","NE","Franklin",3.9,21,0.0614682121531437
+"3767",2241,"C W Burdick","City of Grand Island - (NE)","40606","NE","Hall",142.8,1474,0.117832521136308
+"3770",2243,"Don Henry","City of Hastings - (NE)","8245","NE","Adams",22,75,0.0389165628891656
+"3773",2248,"Kimball","City of Kimball - (NE)","10260","NE","Kimball",9.6,94,0.11177701674277
+"3779",2249,"Laurel","City of Laurel - (NE)","10760","NE","Cedar",3.5,4,0.0130463144161774
+"3783",2253,"Lyons","City of Lyons - (NE)","11372","NE","Burt",2.5,4,0.0182648401826484
+"3798",2265,"Hallam","Nebraska Public Power District","13337","NE","Lancaster",56.7,3593,0.723385921255023
+"3799",2266,"Hebron","Nebraska Public Power District","13337","NE","Thayer",56.7,377,0.0759021687484397
+"3800",2268,"Kearney","Nebraska Public Power District","13337","NE","Buffalo",1.5,372,2.8310502283105
+"3801",2271,"McCook","Nebraska Public Power District","13337","NE","Red Willow",56.7,528,0.106303302650335
+"3811",2290,"Jones Street","Omaha Public Power District","14127","NE","Douglas",130,1337,0.117404285212504
+"3818",2292,"Sarpy County","Omaha Public Power District","14127","NE","Sarpy",338.4,93777,3.16345655623563
+"3824",2294,"Ord","City of Ord - (NE)","14172","NE","Valley",12,150,0.142694063926941
+"3829",2295,"Oxford (NE)","Village of Oxford - (NE)","14277","NE","Furnas",3.4,27,0.0906526994359388
+"3833",2296,"Pender","City of Pender - (NE)","14656","NE","Thurston",4.9,39,0.0908582611126642
+"3837",2297,"Plainview Muncipal Power","City of Plainview - (NE)","15132","NE","Pierce",5,14,0.0319634703196347
+"3841",2299,"Red Cloud","City of Red Cloud - (NE)","15773","NE","Webster",5.7,102,0.204277817832252
+"3845",2300,"Sargent","City of Sargent - (NE)","16667","NE","Custer",2.4,3,0.0142694063926941
+"3848",2302,"Sidney (NE)","City of Sidney - (NE)","17149","NE","Cheyenne",5.1,9,0.0201450443190975
+"3851",2303,"Spalding","Village of Spalding - (NE)","17727","NE","Greeley",2.1,132,0.717547292889759
+"3856",2305,"Stuart (NE)","City of Stuart - (NE)","18230","NE","Holt",1.9,18,0.108147080028839
+"3860",2308,"Tecumseh","City of Tecumseh","18525","NE","Johnson",7,140,0.228310502283105
+"3865",2310,"Wahoo","City of Wahoo - (NE)","19968","NE","Saunders",14.2,140,0.112547430702939
+"3871",2311,"Wakefield","City of Wakefield - (NE)","19980","NE","Dixon",4.1,35,0.0974496046330326
+"3875",2312,"Wayne IC","City of Wayne","20219","NE","Wayne",21.8,238,0.124628209961878
+"3883",2313,"West Point Municipal","City of West Point - (NE)","20397","NE","Cuming",8.5,30,0.040290088638195
+"3887",2315,"Wilber","City of Wilber","20632","NE","Saline",3.6,17,0.0539066463723998
+"3890",2316,"Wisner","City of Wisner","20880","NE","Cuming",3.8,33,0.0991348233597693
+"3961",2362,"Lost Nation","Granite Shore Power","62032","NH","Coos",18,325,0.20611364789447
+"3971",2369,"White Lake","Granite Shore Power","62032","NH","Carroll",18.6,416,0.255314970295085
+"3972",2378,"B L England","RC Cape May Holdings LLC","55768","NJ","Cape May",339.6,14044,0.472083729985855
+"3974",2379,"Carlls Corner","Calpine New Jersey Generation LLC","56606","NJ","Cumberland",83.8,11679,1.59095367312911
+"3976",2390,"Sayreville","GenOn REMA, LLC","17235","NJ","Middlesex",212,1725,0.0928857585939519
+"3980",2393,"Gilbert","GenOn REMA, LLC","17235","NJ","Hunterdon",512,1063,0.0237005921803653
+"3994",2399,"PSEG Burlington Generating Station","PSEG Fossil LLC","15147","NJ","Burlington",242,48825,2.30315294916789
+"3998",2401,"PSEG Essex Generating Station","PSEG Fossil LLC","15147","NJ","Essex",93.6,1243,0.151597197830075
+"4048",2480,"Danskammer Generating Station","Danskammer Energy","58971","NY","Orange",537.4,30503,0.64794894409579
+"4056",2483,"Neversink","New York Power Authority","15296","NY","Sullivan",25,7279,3.32374429223744
+"4057",2485,"South Cairo","Central Hudson Gas & Elec Corp","3249","NY","Greene",21.6,265,0.140051581261627
+"4061",2487,"West Coxsackie","Central Hudson Gas & Elec Corp","3249","NY","Greene",21.6,591,0.312341451040081
+"4069",2494,"Gowanus Gas Turbines Generating","U S Power Generating Company LLC","54863","NY","Kings",640,18032,0.321632420091324
+"4101",2496,"Hudson Avenue","Consolidated Edison Co-NY Inc","4226","NY","Kings",48.9,500,0.116723160676434
+"4105",2499,"Narrows Gas Turbines Generating","U S Power Generating Company LLC","54863","NY","Kings",352,71060,2.30450913242009
+"4140",2503,"59th Street","Consolidated Edison Co-NY Inc","4226","NY","New York",17.1,199,0.132847339047772
+"4141",2504,"74th Street","Consolidated Edison Co-NY Inc","4226","NY","New York",37,344,0.106133530791065
+"4160",2514,"Glenwood","National Grid Generation LLC","56505","NY","Nassau",110,4512,0.468244084682441
+"4172",2518,"Shoreham","National Grid Generation LLC","56505","NY","Suffolk",71.5,2434,0.388606826962991
+"4174",2519,"South Hampton","National Grid Generation LLC","56505","NY","Suffolk",11.5,1489,1.47806233869367
+"4175",2520,"Southold","National Grid Generation LLC","56505","NY","Suffolk",14,1822,1.4856490541422
+"4176",2521,"West Babylon","National Grid Generation LLC","56505","NY","Suffolk",52.4,1879,0.409346787967514
+"4181",2528,"Harris Lake","New York State Elec & Gas Corp","13511","NY","Essex",4.2,182,0.494672754946728
+"4189",2535,"Cayuga Operating Company","Cayuga Operating Company, LLC","22125","NY","Tompkins",322.5,95387,3.37641145446179
+"4294",2594,"Oswego Harbor Power","NRG Oswego Harbor Power Operations Inc","13923","NY","Oswego",1803.6,41725,0.264090034036443
+"4357",2625,"Bowline Point","GenOn New York, LLC","12792","NY","Rockland",1242,473118,4.34854300399268
+"4360",2628,"Hillburn","Alliance NYGT, LLC","56142","NY","Rockland",46.5,318,0.0780674620709972
+"4367",2632,"Shoemaker","Alliance NYGT, LLC","56142","NY","Orange",41.9,360,0.0980808840357014
+"4371",2641,"Rochester 5","Rochester Gas & Electric Corp","16183","NY","Monroe",43.6,3048,0.798039462108835
+"4376",2678,"Plant No 1 Freeport","Village of Freeport - (NY)","6775","NY","Nassau",11.1,90,0.0925583117363939
+"4381",2681,"Greenport","Village of Greenport - (NY)","7630","NY","Suffolk",10.1,40,0.0452100004521
+"4442",2695,"Charles P Keller","Village of Rockville Centre - (NY)","16217","NY","Nassau",33.8,309,0.104360865688579
+"4467",2710,"Marshall Dam","Duke Energy Progress - (NC)","3046","NC","Madison",5,812,1.85388127853881
+"4480",2716,"W H Weatherspoon","Duke Energy Progress - (NC)","3046","NC","Robeson",163,1712,0.119898030646833
+"4551",2783,"Buxton","North Carolina El Member Corp","13683","NC","Dare",15,192,0.146118721461187
+"4559",2801,"Jamestown","Otter Tail Power Co","14232","ND","Stutsman",48.2,216,0.0511567100551356
+"4561",2811,"Grafton","City of Grafton - (ND)","7444","ND","Walsh",4,0,0
+"4579",2831,"Dicks Creek","Vistra Energy Dicks Creek","59917","OH","Butler",159.1,3456,0.247970174698432
+"4591",2837,"FirstEnergy Eastlake","FirstEnergy Generation Corp","6526","OH","Lake",32,154,0.0549372146118721
+"4603",2851,"Monument","Kimura Power LLC","61919","OH","Montgomery",13.5,57,0.0481988838153222
+"4608",2852,"Sidney (OH)","Kimura Power LLC","61919","OH","Shelby",13.5,62,0.0524268560798241
+"4613",2854,"Yankee Street","Kimura Power LLC","61919","OH","Montgomery",126.6,7331,0.661036450330744
+"4634",2869,"FirstEnergy West Lorain","FirstEnergy Generation Corp","6526","OH","Lorain",555.6,43237,0.888360438014274
+"4648",2880,"Richland","Richland-Stryker Generation LLC","57359","OH","Defiance",450,109144,2.7687468290208
+"4654",2881,"Stryker","Richland-Stryker Generation LLC","57359","OH","Williams",19,45,0.0270367700072098
+"4655",2902,"Arcanum","City of Arcanum - (OH)","768","OH","Darke",1.2,4,0.0380517503805175
+"4657",2903,"Bryan (OH)","City of Bryan - (OH)","2439","OH","Williams",39.3,2437,0.707878745628406
+"4661",2906,"Collinwood","City of Cleveland - (OH)","3762","OH","Cuyahoga",16,0,0
+"4662",2909,"West 41st Street","City of Cleveland - (OH)","3762","OH","Cuyahoga",32,333,0.118792808219178
+"4668",2917,"Hamilton (OH)","City of Hamilton - (OH)","7977","OH","Butler",126.9,720,0.0647689368179021
+"4673",2921,"Lebanon","City of Lebanon - (OH)","10830","OH","Warren",30.6,0,0
+"4678",2933,"Oberlin (OH)","City of Oberlin - (OH)","13949","OH","Lorain",18.5,401,0.24743922004196
+"4687",2935,"Orrville","City of Orrville - (OH)","14194","OH","Wayne",84.5,31210,4.21631406879036
+"4692",2936,"Painesville","City of Painesville","14381","OH","Lake",55.5,3369,0.692953227199803
+"4697",2937,"Piqua Power Plant","City of Piqua - (OH)","15095","OH","Miami",36.3,1671,0.525491527982188
+"4699",2942,"St Marys","City of St Marys - (OH)","17891","OH","Auglaize",25,158,0.0721461187214612
+"4701",2943,"Shelby Municipal Light Plant","City of Shelby - (OH)","17043","OH","Richland",3,0,0
+"4702",2945,"Anadarko","City of Woodsfield - (OH)","20977","OH","Monroe",7.8,34,0.0497599812668306
+"4716",2953,"Mustang","Oklahoma Gas & Electric Co","14063","OK","Canadian",546.5,9522,0.198899597688904
+"4744",2966,"Weleetka","Public Service Co of Oklahoma","15474","OK","Okfuskee",163,36494,2.55581701543547
+"4748",2975,"Cushing","City of Cushing - (OK)","4667","OK","Payne",24.6,0,0
+"4782",2986,"Kingfisher","City of Kingfisher - (OK)","10320","OK","Kingfisher",9.1,42,0.0526870389884088
+"4790",2991,"Mangum","City of Mangum - (OK)","11566","OK","Greer",6.7,23,0.0391876235262046
+"4794",2995,"Pawhuska","City of Pawhuska - (OK)","14582","OK","Osage",9,39,0.0494672754946728
+"4798",3000,"Boomer Lake Station","Stillwater Utilities Authority","18125","OK","Payne",6,0,0
+"4816",3008,"Mooreland","Western Farmers Elec Coop, Inc","20447","OK","Woodward",305,97138,3.63567632307808
+"4829",3025,"East Side","PacifiCorp","14354","OR","Klamath",3.2,0,0
+"4946",3096,"Brunot Island","GenOn Power Midwest, LP","14165","PA","Allegheny",365.4,36208,1.13118044152527
+"4951",3109,"Hamilton (PA)","GenOn REMA, LLC","17235","PA","Adams",19.6,177,0.103089180877831
+"4952",3110,"Hunterstown","GenOn REMA, LLC","17235","PA","Adams",60,3021,0.574771689497717
+"4955",3111,"Mountain","GenOn REMA, LLC","17235","PA","Cumberland",54,6702,1.4167935058346
+"4957",3112,"Orrtanna","GenOn REMA, LLC","17235","PA","Adams",27,233,0.0985117537628953
+"4958",3113,"Portland (PA)","GenOn REMA, LLC","17235","PA","Northampton",194,7935,0.466918514334134
+"4961",3114,"Shawnee (PA)","GenOn REMA, LLC","17235","PA","Monroe",20,196,0.111872146118721
+"4962",3115,"Titus","GenOn REMA, LLC","17235","PA","Berks",36,170,0.0539066463723998
+"4964",3116,"Tolna","GenOn REMA, LLC","17235","PA","York",54,806,0.170387282259428
+"4973",3120,"Blossburg","GenOn REMA, LLC","17235","PA","Tioga",24,3778,1.79699391171994
+"4988",3132,"Warren","GenOn REMA, LLC","17235","PA","Warren",53.1,14371,3.08950115660123
+"5000",3139,"TalenEnergy Martin Creek LLC Allentown","TalenEnergy Martins Creek LLC","15276","PA","Lehigh",64,1728,0.308219178082192
+"5007",3142,"TalenEnergy Martins Creek LLC Fishbach","TalenEnergy Martins Creek LLC","15276","PA","Schuylkill",37,91,0.0280760212267062
+"5009",3143,"TalenEnergy Martins Creek LLC Harrisburg","TalenEnergy Martins Creek LLC","15276","PA","Dauphin",48,1384,0.329147640791476
+"5012",3144,"TalenEnergy Martins Creek LLC Harwood","TalenEnergy Martins Creek LLC","15276","PA","Luzerne",32,555,0.19798801369863
+"5028",3146,"TalenEnergy Martins Creek LLC Jenkins","TalenEnergy Martins Creek LLC","15276","PA","Luzerne",32,465,0.165881849315068
+"5030",3147,"TalenEnergy Martins Creek LLC Lock Haven","TalenEnergy Martins Creek LLC","15276","PA","Lycoming",18.5,37,0.0228310502283105
+"5031",3148,"TalenEnergy Martins Creek","TalenEnergy Martins Creek LLC","15276","PA","Northampton",1793.8,706884,4.49852383476113
+"5040",3152,"Sunbury Generation LP","Sunbury Generation LP","22001","PA","Snyder",52.7,284,0.0615181998561687
+"5045",3154,"TalenEnergy Martins Creek LLC West Shore","TalenEnergy Martins Creek LLC","15276","PA","Cumberland",37,188,0.0580032086881402
+"5047",3155,"TalenEnergy Martins Creek LLC Williamsport","TalenEnergy Martins Creek LLC","15276","PA","Lycoming",32,188,0.0670662100456621
+"5049",3157,"Chester Generating Station","Exelon Power","6035","PA","Chester",55.8,1585,0.324258195446883
+"5052",3160,"Delaware Generating Station","Exelon Power","6035","PA","Philadelphia",77,979,0.145140247879974
+"5056",3161,"Eddystone Generating Station","Exelon Power","6035","PA","Delaware",861.6,44645,0.591511279853135
+"5062",3162,"Falls","Exelon Power","6035","PA","Bucks",63.6,2001,0.359158266563281
+"5065",3163,"Moser Generating Station","Exelon Power","6035","PA","Montgomery",63.6,2362,0.423953935843313
+"5078",3168,"Richmond Generating Station","Exelon Power","6035","PA","Philadelphia",131.6,13364,1.1592483102247
+"5080",3169,"Schuylkill Generating Station","Exelon Power","6035","PA","Philadelphia",39.8,1120,0.321240907735022
+"5082",3170,"Southwark","Exelon Power","6035","PA","Philadelphia",74.4,1233,0.189184710561202
+"5109",3250,"Darlington County","Duke Energy Progress - (NC)","3046","SC","Darlington",845.4,230819,3.1167732331727
+"5183",3281,"Coit GT","Dominion Energy South Carolina, Inc","17539","SC","Richland",39.2,1123,0.327031497530519
+"5192",3285,"Hagood","Dominion Energy South Carolina, Inc","17539","SC","Charleston",177.3,23667,1.52380842006042
+"5195",3286,"Hardeeville","Dominion Energy South Carolina, Inc","17539","SC","Jasper",16.3,0,0
+"5208",3291,"Parr GT","Dominion Energy South Carolina, Inc","17539","SC","Fairfield",83.8,7275,0.991025599110733
+"5234",3318,"Hilton Head","South Carolina Public Service Authority","17543","SC","Beaufort",117.9,860,0.083268461392481
+"5242",3320,"Myrtle Beach","South Carolina Public Service Authority","17543","SC","Horry",111.5,667,0.0682883879026148
+"5255",3325,"Ben French","Black Hills Power, Inc. d/b/a","19545","SD","Pennington",110,1003,0.104088833540888
+"5264",3338,"Aberdeen CT","NorthWestern Energy - (SD)","13809","SD","Brown",111,36674,3.77164836068946
+"5268",3344,"Huron","NorthWestern Energy - (SD)","13809","SD","Beadle",57.9,14186,2.79690223263223
+"5272",3352,"Lake Preston","Otter Tail Power Co","14232","SD","Kingsbury",24.1,496,0.234941927660623
+"5363",3406,"Johnsonville","Tennessee Valley Authority","18642","TN","Humphreys",1426,321912,2.57699475494246
+"5414",3416,"South Holston","Tennessee Valley Authority","18642","TN","Sullivan",38.5,1246,0.369447903694479
+"5449",3452,"Lake Hubbard","Luminant Generation Company LLC","55983","TX","Dallas",927.5,275420,3.38982633632414
+"5471",3464,"Greens Bayou","NRG Texas Power LLC","54888","TX","Harris",878.4,48969,0.636392132644659
+"5509",3476,"Knox Lee","Southwestern Electric Power Co","17698","TX","Gregg",427,142855,3.81912140557997
+"5512",3477,"Lone Star","Southwestern Electric Power Co","17698","TX","Morris",40,5917,1.68864155251142
+"5527",3490,"Graham","Luminant Generation Company LLC","55983","TX","Young",634.7,131164,2.35907662844345
+"5532",3492,"Morgan Creek","Luminant Generation Company LLC","55983","TX","Mitchell",536.4,9111,0.193897929371865
+"5538",3494,"Permian Basin","Luminant Generation Company LLC","55983","TX","Ward",447,66529,1.69902342353386
+"5543",3504,"Stryker Creek","Luminant Generation Company LLC","55983","TX","Cherokee",713.4,115130,1.84226157330066
+"5550",3507,"Trinidad (TX)","Luminant Generation Company LLC","55983","TX","Henderson",243.3,40265,1.88921544891682
+"5559",3559,"Silas Ray","Brownsville Public Utilities Board","2409","TX","Cameron",146.4,40928,3.19135663847094
+"5570",3561,"Bryan (TX)","City of Bryan - (TX)","2442","TX","Brazos",22,549,0.284869240348692
+"5571",3576,"Ray Olinger","City of Garland - (TX)","6958","TX","Collin",427.7,80947,2.160515574972
+"5580",3584,"H 5","Guadalupe Blanco River Authority","7751","TX","Gonzales",2.4,0,0
+"5592",3599,"Marble Falls","Lower Colorado River Authority","11269","TX","Burnet",39.6,16647,4.79884461048845
+"5600",3602,"Ty Cooke","City of Lubbock - (TX)","11292","TX","Lubbock",138.1,9170,0.758004093387427
+"5661",3648,"Gadsby","PacifiCorp","14354","UT","Salt Lake",492.1,59310,1.37584798723948
+"5668",3655,"Olmstead","PacifiCorp","14354","UT","Utah",10.3,0,0
+"5699",3708,"Ascutney","Green Mountain Power Corp","7601","VT","Windsor",13.2,252,0.217932752179328
+"5719",3723,"Rutland","Green Mountain Power Corp","7601","VT","Rutland",13.2,330,0.285388127853881
+"5726",3734,"Berlin 5","Green Mountain Power Corp","7601","VT","Washington",41.8,963,0.262994035524677
+"5727",3735,"Colchester 16","Green Mountain Power Corp","7601","VT","Chittenden",18,169,0.107179096905124
+"5750",3754,"Burlington GT","City of Burlington Electric - (VT)","2548","VT","Chittenden",25.5,485,0.217118810994718
+"5780",3780,"Smith Mountain","Appalachian Power Co","733","VA","Pittsylvania",547.5,52415,1.09286712120264
+"5785",3782,"Bayview","Calpine Mid-Atlantic Generation LLC","56609","VA","Northampton",12,2949,2.80536529680365
+"5791",3785,"Tasley","Calpine Mid-Atlantic Generation LLC","56609","VA","Accomack",27,768,0.324708269913749
+"5798",3796,"Bremo Bluff","Virginia Electric & Power Co","19876","VA","Fluvanna",254.2,14083,0.63243446177281
+"5808",3798,"Cushaw","Cushaw Hydro LLC","61891","VA","Amherst",7.5,1710,2.6027397260274
+"5813",3799,"Low Moor","Virginia Electric & Power Co","19876","VA","Alleghany",82.8,2916,0.402025014889815
+"5817",3800,"Northern Neck","Virginia Electric & Power Co","19876","VA","Richmond",82.8,2525,0.348118368517416
+"5821",3803,"Chesapeake","Virginia Electric & Power Co","19876","VA","Chesapeake City",67.4,1529,0.258966437678685
+"5873",3853,"Crystal Mountain","Puget Sound Energy Inc","15500","WA","Pierce",2.7,71,0.300186030779638
+"6093",3976,"Gordon","Dahlberg Light & Power Co","4715","WI","Douglas",7,0,0
+"6112",3992,"Blount Street","Madison Gas & Electric Co","11479","WI","Dane",100,25584,2.92054794520548
+"6133",4005,"French Island","Northern States Power Co - Minnesota","13781","WI","La Crosse",188,53869,3.27097299135335
+"6155",4014,"Wheaton","Northern States Power Co - Minnesota","13781","WI","Chippewa",300.2,22990,0.874226923299231
+"6224",4057,"Rock River","Wisconsin Power & Light Co","20856","WI","Rock",168.9,11726,0.792530772578949
+"6228",4059,"Sheepskin","Wisconsin Power & Light Co","20856","WI","Rock",41.7,2148,0.588022732498932
+"6277",4100,"Arcadia Electric","City of Arcadia - (WI)","765","WI","Trempealeau",16.9,183,0.123611899165113
+"6287",4102,"Barron","City of Barron - (WI)","1278","WI","Barron",8.6,280,0.371668259530636
+"6295",4107,"Cashton","Village of Cashton - (WI)","3156","WI","Monroe",3.5,0,0
+"6298",4112,"Cumberland (WI)","City of Cumberland - (WI)","4627","WI","Barron",21.9,140,0.0729759596338692
+"6306",4113,"Elroy","City of Elroy - (WI)","5834","WI","Juneau",6.6,33,0.0570776255707763
+"6309",4114,"Fennimore","City of Fennimore - (WI)","6274","WI","Grant",7.4,13,0.0200543008762187
+"6314",4118,"Kaukauna Gas Turbine","City of Kaukauna","10056","WI","Outagamie",18,2013,1.27663622526636
+"6324",4124,"La Farge","La Farge Municipal Electric Co","10525","WI","Vernon",1.5,0,0
+"6328",4130,"New Lisbon","City of New Lisbon","13466","WI","Juneau",8.3,21,0.0288826539032844
+"6332",4139,"Viola","Village of Viola - (WI)","19867","WI","Richland",1.8,0,0
+"6339",4148,"Washington Island","Washington Island El Coop, Inc","20153","WI","Door",5,235,0.536529680365297
+"6367",4195,"Powerlane Plant","City of Greenville - (TX)","7634","TX","Hunt",112.2,32019,3.25769784875345
+"6379",4251,"Logan City","City of Logan - (UT)","11135","UT","Cache",15.9,1426,1.02380747250223
+"6382",4256,"Walnut","Turlock Irrigation District","19281","CA","Stanislaus",49.8,10,0.00229227411930828
+"6384",4257,"Easton 2","Easton Utilities Comm","5625","MD","Talbot",38.8,2698,0.793790895824507
+"6398",4266,"Spencer","City of Garland - (TX)","6958","TX","Denton",126.5,9377,0.846192719331492
+"6429",6006,"Racine","AEP Generation Resources Inc","58620","OH","Meigs",47.4,16605,3.99904629790186
+"6439",6013,"Olive","City of Burbank Water and Power","2507","CA","Los Angeles",109.7,0,0
+"6506",6046,"DeBary","Duke Energy Florida, LLC","6455","FL","Volusia",748,48978,0.747472712621786
+"6518",6049,"West Tisbury Generating Facility","GenOn Canal, LLC","21461","MA","Dukes",5.4,715,1.51150008455945
+"6532",6058,"Cascade Creek","Rochester Public Utilities","16181","MN","Olmsted",84.9,34789,4.67767612716545
+"6534",6060,"Coachella","Imperial Irrigation District","9216","CA","Riverside",92.4,2790,0.344689557018324
+"6538",6063,"Electrifarm","MidAmerican Energy Co","12341","IA","Black Hawk",264.1,5538,0.239375910951124
+"6565",6074,"Greenwood (MO)","KCP&L Greater Missouri Operations Co","56211","MO","Jackson",261.8,14661,0.639278127191101
+"6576",6081,"Stony Brook","Massachusetts Mun Wholes Electric Co","11806","MA","Hampden",534.6,110102,2.35105152659693
+"6599",6087,"Wallace Dam","Georgia Power Co","7140","GA","Hancock",321.2,30122,1.07054311173283
+"6605",6088,"North Loop","Tucson Electric Power Co","24211","AZ","Pima",107.8,7898,0.836361942037089
+"6615",6092,"Spirit Mound","Basin Electric Power Coop","1307","SD","Clay",135,819,0.0692541856925419
+"6654",6120,"Whitehorn","Puget Sound Energy Inc","15500","WA","Whatcom",169.2,28556,1.92660599976251
+"6657",6124,"McIntosh","Georgia Power Co","7140","GA","Effingham",988,58476,0.675641949975043
+"6666",6125,"Shrewsbury","Town of Shrewsbury - (MA)","17127","MA","Worcester",14,742,0.605022831050228
+"6682",6130,"Carters","USCE-Mobile District","27813","GA","Murray",500,160893,3.67335616438356
+"6741",6156,"New Haven Harbor","PSEG Power Connecticut LLC","15452","CT","New Haven",641.5,31999,0.569423831843888
+"6870",6210,"Northeast (WA)","Avista Corp","20169","WA","Spokane",61.8,1515,0.279846610808175
+"6871",6211,"Dynegy Oakland Power Plant","Dynegy Oakland, LLC","54803","CA","Alameda",223.5,3852,0.196745426128528
+"6876",6220,"Durant","City of Durant - (IA)","5529","IA","Cedar",4.4,38,0.0985886259858863
+"6878",6223,"Empire Energy Center","Empire District Electric Co","5860","MO","Jasper",379,117952,3.55272828038216
+"6882",6229,"Mobile","Nebraska Public Power District","13337","NE","York",3.1,123,0.452938577110031
+"6888",6238,"Pearl Station","Prairie Power, Inc","40307","IL","Pike",24,248,0.117960426179604
+"6900",6253,"Germantown","Wisconsin Electric Power Co","20847","WI","Washington",335.7,39479,1.34248887691908
+"6910",6258,"Wilson","Georgia Power Co","7140","GA","Burke",321.2,4093,0.145466202653292
+"6924",6281,"Kodiak Microgrid","Kodiak Electric Assn Inc","10433","AK","Kodiak Island",18.3,74,0.0461611398058737
+"6929",6283,"Seldovia","Homer Electric Assn Inc","19558","AK","Kenai Peninsula",2.2,85,0.441054379410544
+"6935",6286,"Fairbanks","Golden Valley Elec Assn Inc","7353","AK","Fairbanks North Star",42.2,3927,1.06229305979355
+"6944",6292,"Bernice Lake","Homer Electric Assn Inc","19558","AK","Kenai Peninsula",76.7,396,0.0589380436141523
+"6999",6306,"Valdez","Copper Valley Elec Assn, Inc","4329","AK","Valdez Cordova",5.4,888,1.87721968543886
+"7039",6358,"Hutchinson Plant #2","Hutchinson Utilities Comm","9130","MN","McLeod",90.5,23088,2.91228335729963
+"7048",6373,"Rokeby","Lincoln Electric System","11018","NE","Lancaster",266.1,36505,1.56604188009108
+"7052",6377,"Ocracoke","North Carolina El Member Corp","13683","NC","Hyde",4,122,0.348173515981735
+"7064",6390,"Tangier","A & N Electric Coop","84","VA","Accomack",2.4,165,0.784817351598173
+"7066",6391,"Smith Island","A & N Electric Coop","84","MD","Somerset",1.7,101,0.678216492076283
+"7168",6449,"Azusa","City of Pasadena - (CA)","14534","CA","Los Angeles",3,0,0
+"7183",6463,"Ames GT","City of Ames - (IA)","554","IA","Story",78.7,43,0.00623719923645077
+"7246",6507,"Drop 2 (WA)","Yakama Power","56621","WA","Yakima",2.5,0,0
+"7253",6515,"Valencia","UNS Electric, Inc","19728","AZ","Santa Cruz",108,3042,0.321537290715373
+"7264",6518,"Kings Beach","Liberty Utilities (CalPeco Electric) LLC","57222","CA","Placer",15,274,0.208523592085236
+"7282",6526,"Rainbow Falls Auscble","New York State Elec & Gas Corp","13511","NY","Clinton",2.6,0,0
+"7302",6554,"Waverly Municipal Electric North Plant","Waverly Municipal Elec Utility","20214","IA","Bremer",25.1,308,0.140078953592025
+"7337",6565,"Berlin","Town of Berlin - (MD)","1615","MD","Worcester",9,167,0.211821410451547
+"7348",6567,"Block Island","Block Island Power Co","1857","RI","Washington",7.1,44,0.0707440992989903
+"7352",6579,"Johnson","City of Johnson - (KS)","9776","KS","Stanton",6,85,0.161719939117199
+"7358",6584,"Stock Island","Utility Board of Key West City","50079","FL","Monroe",126.5,2141,0.193206634540762
+"7365",6586,"Wilkins Station","City of Marblehead - (MA)","11624","MA","Essex",5.4,49,0.103585320480298
+"7374",6619,"Burlington (CO)","Tri-State G & T Assn, Inc","30151","CO","Kit Carson",129.4,3674,0.324116223102059
+"7384",6635,"A L Pierce","Connecticut Mun Elec Engy Coop","4180","CT","New Haven",84,3520,0.478364861926506
+"7397",6643,"Greg Avenue","Metropolitan Water District of S CA","12397","CA","Los Angeles",1,0,0
+"7403",6650,"Mexico","Union Electric Co - (MO)","19436","MO","Audrain",60.7,312,0.0586761752160863
+"7404",6651,"Moberly","Union Electric Co - (MO)","19436","MO","Randolph",60.6,279,0.0525566255255663
+"7405",6652,"Moreau","Union Electric Co - (MO)","19436","MO","Cole",60.8,279,0.052383741888969
+"7446",6741,"Rock Lake CT","Great River Energy","7570","MN","Pine",25,245,0.111872146118721
+"7455",6776,"West Station (NJ)","City of Vineland - (NJ)","19856","NJ","Cumberland",27,1154,0.487907999323524
+"7459",6791,"Augusta Electric Plant No 2","City of Augusta - (KS)","998","KS","Butler",20.7,1901,1.04835329671542
+"7469",6824,"St Bonifacius","Great River Energy","7570","MN","Carver",61.2,608,0.113409138388993
+"7470",7011,"Hugoton 2","City of Hugoton - (KS)","9011","KS","Stevens",19.2,55,0.0327007229832572
+"7478",7013,"East 12th Street","City of Winfield - (KS)","20813","KS","Cowley",28.1,3574,1.45192479565804
+"7481",7018,"Chanute 3","City of Chanute","3355","KS","Neosho",34.8,291,0.0954574082821603
+"7486",7028,"Whitehead","City of Springville - (UT)","17845","UT","Utah",31,10131,3.73066725585506
+"7494",7032,"Gravel Neck","Virginia Electric & Power Co","19876","VA","Surry",407.7,91390,2.55890321359492
+"7502",7039,"Lake (WY)","NorthWestern Energy","13902","WY","Teton",2.7,38,0.160662946051074
+"7514",7058,"Solon Diesel","Dahlberg Light & Power Co","4715","WI","Douglas",8,0,0
+"7522",7060,"Sibley No Two","City of Sibley - (IA)","17141","IA","Osceola",1.1,15,0.155666251556662
+"7535",7080,"St George Red Rock","City of St George","17874","UT","Washington",14,599,0.488421395955643
+"7576",7138,"Forked River","Forked River Power, LLC","61358","NJ","Ocean",76.8,8651,1.28588161149163
+"7578",7145,"Pleasant Hill","MidAmerican Energy Co","12341","IA","Polk",179.8,12872,0.817244934757544
+"7581",7146,"Wading River","National Grid Generation LLC","56505","NY","Suffolk",238.5,12886,0.61677340302308
+"7597",7155,"Lime Creek","Interstate Power and Light Co","9417","IA","Cerro Gordo",90.2,1845,0.233499377334994
+"7599",7158,"Woodsdale","Duke Energy Kentucky Inc","55729","OH","Butler",571.8,116441,2.32465050685091
+"7605",7159,"Concord","Wisconsin Electric Power Co","20847","WI","Jefferson",381.6,142667,4.26786876693183
+"7649",7203,"South Fond Du Lac","Wisconsin Power & Light Co","20856","WI","Fond Du Lac",381.6,63285,1.89316432612504
+"7654",7212,"Darbytown","Virginia Electric & Power Co","19876","VA","Henrico",368.4,85266,2.6421177100531
+"7661",7231,"Gianera","City of Santa Clara - (CA)","16655","CA","Santa Clara",64.6,8019,1.41704482802494
+"7666",7237,"Angus Anson","Northern States Power Co - Minnesota","13781","SD","Minnehaha",405.7,120297,3.38489875439372
+"7686",7247,"Watertown Power Plant","Missouri Basin Muni Power Agny","12710","SD","Codington",67.5,104,0.0175883646203281
+"7708",7268,"491 E 48th Street","City of Holland","8723","MI","Allegan",161.7,50703,3.57947662252946
+"7711",7270,"Paris (WI)","Wisconsin Electric Power Co","20847","WI","Kenosha",381.6,89686,2.68294755080746
+"7715",7277,"Lincoln Combustion","Duke Energy Carolinas, LLC","5416","NC","Lincoln",1753.6,82484,0.536951513182015
+"7731",7279,"O'Shaughnessy Hydro","City of Columbus - (OH)","4065","OH","Delaware",5.2,0,0
+"7733",7281,"Gardner Energy Center","City of Gardner - (KS)","6949","KS","Johnson",39.2,35,0.0101924331376386
+"7735",7283,"Paragould Turbine","Paragould Light & Water Comm","14446","AR","Greene",13.9,47,0.0385992575802372
+"7741",7294,"Central Energy Plant","Reedy Creek Improvement Dist","15776","FL","Orange",70,0,0
+"7774",7318,"Van Sant Station","NAES Corporation - (DE)","54899","DE","Kent",45.1,6817,1.72549079164515
+"7777",7335,"Richmond","Indiana Municipal Power Agency","9234","IN","Wayne",82.8,14825,2.04390289634483
+"7779",7336,"Anderson","Indiana Municipal Power Agency","9234","IN","Madison",168.7,7094,0.480033996205201
+"7782",7337,"Florence","Omya Inc","19794","VT","Rutland",9.2,0,0
+"7785",7339,"Wellington 2","City of Wellington - (KS)","20315","KS","Sumner",20,1810,1.03310502283105
+"7788",7348,"Robins","Georgia Power Co","7140","GA","Houston",183.8,29263,1.81747829932277
+"7809",7392,"Poplar Bluff Generating Station","City of Poplar Bluff - (MO)","15229","MO","Butler",34.1,1812,0.606596231872414
+"7814",7393,"Lakin Municipal","City of Lakin - (KS)","10628","KS","Kearny",4.4,0,0
+"7818",7396,"Front Street","City of Chicopee - (MA)","3477","MA","Hampden",8.1,844,1.18946953041321
+"7821",7397,"Falling Spring","Borough of Chambersburg","3329","PA","Franklin",7.2,1737,2.75399543378995
+"7824",7398,"Water Street Station","City of Bay City - (MI)","1366","MI","Bay",12.6,781,0.70758135826629
+"7826",7399,"Henry Station","City of Bay City - (MI)","1366","MI","Bay",15.4,1312,0.972543438296863
+"7828",7400,"Salisbury City of","City of Salisbury - (MO)","16560","MO","Chariton",6.4,0,0
+"7832",7405,"Shelbina Power #1","City of Shelbina - (MO)","17035","MO","Shelby",4.6,8,0.0198530871550526
+"7834",7406,"Shelbina Power #2","City of Shelbina - (MO)","17035","MO","Shelby",6.6,38,0.0657257506572575
+"7838",7408,"Payson","Payson City Corporation","14600","UT","Utah",9.7,4,0.00470743303676505
+"7846",7414,"Thorne Bay Plant","Alaska Power and Telephone Co","219","AK","Prince of Wales Ketchikan",1,77,0.878995433789954
+"7848",7415,"Lakefield Utilities","City of Lakefield - (MN)","10622","MN","Jackson",3.4,23,0.0772226698898738
+"7850",7425,"Interstate","City of Springfield - (IL)","17828","IL","Sangamon",138.6,30355,2.5001317809537
+"7853",7429,"Edenton Generators","Town of Edenton - (NC)","6710","NC","Chowan",2.4,95,0.451864535768645
+"7856",7432,"Oxford (KS)","City of Oxford - (KS)","14276","KS","Sumner",5.1,0,0
+"7869",7438,"Church Street Plant","City of Manassas - (VA)","11560","VA","Prince William",4.3,59,0.156631623659339
+"7872",7439,"Godwin Drive Plant","City of Manassas - (VA)","11560","VA","Prince William",6.3,96,0.173950858882366
+"7876",7440,"VMEA 1 Credit Gen","City of Manassas - (VA)","11560","VA","Prince William",13.2,185,0.159990314099903
+"7884",7441,"VMEA Peaking Gen","City of Manassas - (VA)","11560","VA","Prince William",6.4,83,0.148045091324201
+"7888",7447,"Pratt 2","City of Pratt- (KS)","15321","KS","Pratt",16,502,0.358162100456621
+"7890",7449,"Combustion Turbine Project No 2","Northern California Power Agny","40613","CA","San Joaquin",50,11838,2.7027397260274
+"7891",7450,"Alameda","Northern California Power Agny","40613","CA","Alameda",54.8,9563,1.99209245742092
+"7893",7451,"Lodi","Northern California Power Agny","40613","CA","San Joaquin",27.4,3492,1.45485451454855
+"7894",7452,"Roseville","City of Roseville - (CA)","16295","CA","Placer",54.8,2955,0.615563443655634
+"7910",7469,"Madison Utilities","City of Madison - (NE)","11481","NE","Madison",5.8,23,0.0452684616595812
+"7914",7470,"Marceline","City of Marceline - (MO)","11626","MO","Linn",8,9,0.0128424657534247
+"7922",7480,"Rowesville Rd Plant","City of Orangeburg - (SC)","14164","SC","Orangeburg",9.6,13,0.0154585235920852
+"7924",7481,"City Light & Water","City of Blue Hill - (NE)","20848","NE","Webster",1.3,6,0.0526870389884088
+"7966",7497,"Croswell","City of Croswell - (MI)","4562","MI","Sanilac",5.1,0,0
+"7979",7503,"Unalaska Power Module","City of Unalaska - (AK)","19454","AK","Aleutians West",1.1,201,2.08592777085928
+"7982",7505,"Fergus Control Ctr","Otter Tail Power Co","14232","MN","Otter Tail",2,21,0.11986301369863
+"7990",7515,"McPherson 3","City of McPherson - (KS)","12208","KS","McPherson",115.6,13016,1.28533282773222
+"8005",7546,"Ponca City","Oklahoma Municipal Power Authority","14077","OK","Kay",134.3,47434,4.03189887017751
+"8019",7556,"State Farm","State Farm Insurance","56076","IL","McLean",5.1,22,0.049243441668905
+"8024",7584,"Panora","City of Panora - (IA)","14433","IA","GUTHRIE",4.5,78,0.197869101978691
+"8031",7593,"El Vado Dam","Los Alamos County","11204","NM","Rio Arriba",8,1598,2.28025114155251
+"8034",7603,"Prospect Municipal","American Mun Power-Ohio, Inc","40577","OH","Marion",1.8,0,0
+"8047",7690,"Pennsbury","Exelon Power","6035","PA","Bucks",6,140,0.266362252663623
+"8080",7719,"Meridian","Tennessee Valley Authority","18642","MS","Lauderdale",9,39,0.0494672754946728
+"8089",7723,"Nymans Plant Microgrid","Kodiak Electric Assn Inc","10433","AK","Kodiak Island",10,0,0
+"8097",7749,"Essex","Associated Electric Coop, Inc","924","MO","Stoddard",121.2,33318,3.13813915638139
+"8100",7754,"Nodaway","Associated Electric Coop, Inc","924","MO","Nodaway",315.6,10988,0.397445468803352
+"8108",7758,"South Plant","Waverly Municipal Elec Utility","20214","IA","Bremer",12,75,0.0713470319634703
+"8114",7759,"Georgetown","Indianapolis Power & Light Co","9273","IN","Marion",340,127147,4.26896991673382
+"8125",7764,"MPC Generating","SEPG Operating Services, LLC MPC","59421","GA","Walton",386.1,18529,0.547832853768927
+"8127",7766,"Erie Energy Center","City of Erie - (KS)","5957","KS","Neosho",20,377,0.215182648401826
+"8135",7767,"Bloomington Power Plant","City of St George","17874","UT","Washington",10.2,188,0.210403796221685
+"8143",7770,"1515 S Caron Road","Rochelle Municipal Utilities","16179","IL","Ogle",4.2,272,0.739291150250054
+"8146",7774,"Cleveland Peaking","American Mun Power-Ohio, Inc","40577","OH","Cuyahoga",10.8,707,0.747294097750719
+"8152",7775,"Versailles Peaking","American Mun Power-Ohio, Inc","40577","OH","Darke",5.4,250,0.528496533062743
+"8155",7776,"Napoleon Peaking","American Mun Power-Ohio, Inc","40577","OH","Henry",5.4,199,0.420683240317943
+"8158",7777,"Dover Peaking","American Mun Power-Ohio, Inc","40577","OH","Tuscarawas",10.8,577,0.609884999154406
+"8164",7778,"Orrville Peaking","American Mun Power-Ohio, Inc","40577","OH","Wayne",5.4,238,0.503128699475731
+"8167",7779,"Bryan Peaking","American Mun Power-Ohio, Inc","40577","OH","Williams",10.8,547,0.578175207170641
+"8173",7780,"Jackson Cntr Peaking","American Mun Power-Ohio, Inc","40577","OH","Shelby",1.8,79,0.50101471334348
+"8174",7781,"Arcanum Peaking","American Mun Power-Ohio, Inc","40577","OH","Darke",1.8,99,0.627853881278539
+"8175",7782,"Hamilton Peaking","American Mun Power-Ohio, Inc","40577","OH","Butler",32,2733,0.974957191780822
+"8176",7783,"Bowling Green Peaking","American Mun Power-Ohio, Inc","40577","OH","Wood",32,3592,1.28139269406393
+"8183",7791,"Montpelier","American Mun Power-Ohio, Inc","40577","OH","Williams",10.8,526,0.555978352782006
+"8189",7795,"Custer Energy Center","Manitowoc Public Utilities","11571","WI","Manitowoc",24.5,1642,0.765073152548691
+"8190",7797,"Dominion/Lo Mar","City of Manassas - (VA)","11560","VA","Prince William",19.2,172,0.102264079147641
+"8195",7798,"Gateway Gen","City of Manassas - (VA)","11560","VA","Prince William",3.6,37,0.117326230339929
+"8211",7810,"Argyle","City of Argyle - (WI)","792","WI","Lafayette",2.3,134,0.665078419694262
+"8217",7814,"Webb Forging","Central Electric Power","59159","SC","Union",5.8,40,0.0787277594079673
+"8219",7818,"Alsey","Prairie Power, Inc","40307","IL","Scott",173,21066,1.39005463615488
+"8231",7824,"Rockwood","Imperial Irrigation District","9216","CA","Imperial",49.8,1092,0.250316333828465
+"8240",7827,"Shelby North","American Mun Power-Ohio, Inc","40577","OH","Richland",1.8,84,0.532724505327245
+"8241",7828,"Shelby South","City of Shelby - (OH)","17043","OH","Richland",1.8,88,0.558092338914257
+"8244",7831,"Beaver Island","Great Lakes Energy Coop","38084","MI","Charlevoix",3.3,60,0.20755500207555
+"8285",7842,"Freedom Power Project","Southwestern Electric Coop Inc - (IL)","17697","IL","Fayette",71,1453,0.233616309730529
+"8286",7843,"Pleasant Valley (MN)","Great River Energy","7570","MN","Mower",467.8,95261,2.32461380483015
+"8289",7844,"Minnesota River","Minnesota Municipal Power Agny","12667","MN","Carver",49,549,0.127900475258597
+"8309",7847,"Coon Rapids II","City of Coon Rapids","4305","IA","Carroll",5.4,71,0.150093015389819
+"8315",7849,"Knoxville Industrial","MidAmerican Energy Co","12341","IA","Marion",16,69,0.0492294520547945
+"8323",7850,"Shenandoah","MidAmerican Energy Co","12341","IA","Page",20,154,0.0878995433789954
+"8333",7851,"Waterloo Lundquist","MidAmerican Energy Co","12341","IA","Black Hawk",18,171,0.108447488584475
+"8342",7853,"West Receiving","City of Denison - (IA)","5056","IA","Crawford",2,8,0.045662100456621
+"8343",7854,"Avenue A Generator Sets","City of Rock Falls - (IL)","16198","IL","Whiteside",3.6,290,0.919583967529173
+"8347",7856,"North","City of Greenfield - (IA)","7626","IA","Adair",8,77,0.109874429223744
+"8351",7857,"Gilliam South","City of Stuart - (IA)","18231","IA","Adair",4.3,10,0.0265477328236169
+"8353",7858,"MEPI GT Facility","Midwest Electric Power Inc","12159","IL","Massac",301.5,2601,0.0984802017310707
+"8358",7860,"Shelbina Power #3","City of Shelbina - (MO)","17035","MO","Shelby",3.6,22,0.0697615423642821
+"8362",7863,"Elk Mound","Dairyland Power Coop","4716","WI","Chippewa",71,7084,1.13897999871374
+"8364",7865,"Earlville","City of Earlville - (IA)","5563","IA","Delaware",1.8,42,0.266362252663623
+"8390",7874,"Edgerton","American Mun Power-Ohio, Inc","40577","OH","Williams",3.6,201,0.637366818873668
+"8392",7878,"Wellington","American Mun Power-Ohio, Inc","40577","OH","Lorain",1,51,0.582191780821918
+"8393",7883,"Powell Valley","Powell Valley Electric Coop","15293","TN","Hancock",22,598,0.310294728102947
+"8404",7884,"Dakota Magic","Dakota Magic Casino","4775","ND","Richland",1.5,0,0
+"8441",7911,"Kern Canyon","Pacific Gas & Electric Co.","14328","CA","Kern",9.5,0,0
+"8443",7913,"Hell Gate","New York Power Authority","15296","NY","Bronx",94,37085,4.50366754104731
+"8445",7914,"Harlem River Yard","New York Power Authority","15296","NY","Bronx",94,33058,4.01462158748664
+"8457",7918,"Galion","American Mun Power-Ohio, Inc","40577","OH","Crawford",5.4,285,0.602486047691527
+"8460",7919,"Seville","American Mun Power-Ohio, Inc","40577","OH","Medina",5.4,194,0.410113309656689
+"8468",7924,"Albertville","Albertville Municipal Utilities Board","241","AL","Marshall",4,0,0
+"8472",7925,"Lakefield Junction","Great River Energy","7570","MN","Martin",537.8,144743,3.07236398586496
+"8479",7926,"South Strawberry","City of Strawberry Point","18204","IA","Clayton",3.6,13,0.041222729578894
+"8481",7927,"Buffalo Mountain","Tennessee Valley Authority","18642","TN","Anderson",1.8,0,0
+"8484",7928,"Osawatomie","Kansas City Power & Light Co","10000","KS","Miami",102,15909,1.78048616706957
+"8485",7929,"West Gardner","Kansas City Power & Light Co","10000","KS","Johnson",408,44502,1.24513161428955
+"8489",7930,"Russell Energy Center","City of Russell - (KS)","16440","KS","Russell",15,1212,0.922374429223744
+"8493",7932,"Gaylord - Wolverine","Wolverine Power Supply Coop","20910","MI","Otsego",70.2,19534,3.17650808518388
+"8496",7934,"Industrial Park","City of Rock Falls - (IL)","16198","IL","Whiteside",13.4,564,0.480474340625639
+"8503",7935,"Trenton South","Trenton Municipal Utilities - (MO)","19150","MO","Grundy",14,72,0.0587084148727984
+"8511",7940,"Ponton Diesel Generating Facility","Old Dominion Electric Coop","40229","VA","Amelia",4,166,0.473744292237443
+"8513",7941,"Nottoway Diesel Generating Facility","Old Dominion Electric Coop","40229","VA","Southampton",4,257,0.733447488584475
+"8515",7942,"Diamond Valley Lake","Metropolitan Water District of S CA","12397","CA","Riverside",29.7,3725,1.43174515320634
+"8529",7948,"Lawrence County Station","Hoosier Energy R E C, Inc","9267","IN","Lawrence",402,146338,4.15553510983893
+"8548",7957,"Sediver","Central Electric Power","59159","SC","York",2.9,88,0.346402141395056
+"8556",7962,"Warren F Sam Beasley Generation Station","Delaware Municipal Electric Corp","5084","DE","Kent",96,30699,3.65047089041096
+"8558",7964,"Peno Creek","Union Electric Co - (MO)","19436","MO","Pike",240,92471,4.39835426179604
+"8565",7967,"Lordsburg Generating","Public Service Co of NM","15473","NM","Hidalgo",88,5042,0.654057700290577
+"8567",7971,"Pella Peaking","City of Pella - (IA)","14645","IA","Marion",28,340,0.138617090671885
+"8597",7975,"Pyramid","Tri-State G & T Assn, Inc","30151","NM","Hidalgo",186,66330,4.07092355280601
+"8601",7976,"Mulvane 2","City of Mulvane - (KS)","13095","KS","Sedgwick",9.2,12,0.0148898153662895
+"8604",7977,"Granite Falls 2","City of Granite Falls - (MN)","7494","MN","Yellow Medicine",6,0,0
+"8607",7981,"Mill Creek (SC)","Duke Energy Carolinas, LLC","5416","SC","Cherokee",799.2,201194,2.8737927425142
+"8615",7982,"South Generation","Redwood Falls Public Util Comm","15793","MN","Redwood",6.6,161,0.278469627784696
+"8622",7987,"Lake One","City of Burbank Water and Power","2507","CA","Los Angeles",60.5,11806,2.22763123136722
+"8629",7990,"Altamont","City of Altamont - (IL)","406","IL","Effingham",7.2,72,0.114155251141553
+"8640",7997,"Winston","City of Lakeland - (FL)","10623","FL","Polk",50,0,0
+"8666",8002,"Newington","Granite Shore Power","62032","NH","Rockingham",414,114889,3.16791851410672
+"8670",8006,"Roseton Generating Facility","CCI Roseton LLC","5511","NY","Orange",1242,516508,4.74735108346385
+"8672",8007,"Holtsville","National Grid Generation LLC","56505","NY","Suffolk",567,43118,0.868103371908547
+"8682",8008,"Mickleton Station","Calpine New Jersey Generation LLC","56606","NJ","Gloucester",71.2,5021,0.805018983120414
+"8683",8009,"Auburn State Street","New York State Elec & Gas Corp","13511","NY","Cayuga",7,13,0.0212002609262883
+"8684",8010,"Murray Turbine","City of Murray - (UT)","13137","UT","Salt Lake",42,9221,2.50625135899109
+"8688",8012,"Croydon CT Generating Station","Exelon Power","6035","PA","Bucks",546.4,54366,1.13582803505887
+"8698",8015,"Paragould Reciprocating","Paragould Light & Water Comm","14446","AR","Greene",19.2,512,0.30441400304414
+"8701",8016,"Factory","City of Springfield - (IL)","17828","IL","Sangamon",26.6,128,0.0549318501733786
+"8702",8019,"Portage","Upper Peninsula Power Company","19578","MI","Houghton",22.6,838,0.423283630339031
+"8703",8020,"Baldwin City Plant No 2","City of Baldwin City- (KS)","1148","KS","Douglas",6.4,310,0.552939497716895
+"8713",8026,"Hartzog","Basin Electric Power Coop","1307","WY","Campbell",22.5,244,0.123795027904617
+"8716",8027,"Blue Lake","Northern States Power Co - Minnesota","13781","MN","Scott",559.4,105279,2.14840019394557
+"8722",8028,"Arvada","Basin Electric Power Coop","1307","WY","Sheridan",22.5,231,0.117199391171994
+"8725",8029,"Sycamore (IA)","MidAmerican Energy Co","12341","IA","Polk",157.6,4618,0.334498064575945
+"8727",8030,"Barber Creek","Basin Electric Power Coop","1307","WY","Campbell",22.5,219,0.111111111111111
+"8738",8037,"Clifton","Sunflower Electric Power Corp","18315","KS","Washington",87.5,8063,1.05192433137639
+"8769",8063,"DeCordova Steam Electric Station","Luminant Generation Company LLC","55983","TX","Hood",357.6,13144,0.419590777685841
+"8777",8067,"Fort Lupton","Public Service Co of Colorado","15466","CO","Weld",100.8,2737,0.309963216641299
+"8798",8076,"Ellwood","GenOn California South, LP","15908","CA","Santa Barbara",58,6212,1.22264210360573
+"8806",8100,"Springfield (CO)","City of Springfield - (CO)","17834","CO","Baca",2.7,0,0
+"8812",8105,"Halstad","City of Halstad - (MN)","7969","MN","Norman",4,22,0.0627853881278539
+"8814",8106,"Tipton","City of Tipton - (IA)","18947","IA","Cedar",8.6,67,0.0889349049591165
+"8819",8108,"Hopkinton","City of Hopkinton - (IA)","8847","IA","Delaware",4.1,19,0.0529012139436463
+"8821",8110,"Stanberry","City of Stanberry - (MO)","17946","MO","Gentry",4.3,0,0
+"8858",9038,"Cherry Street","Town of Hudson - (MA)","8973","MA","Middlesex",17.3,511,0.33718689788054
+"8865",9674,"Nine Springs","Madison Gas & Electric Co","11479","WI","Dane",16.2,37,0.0260724956310953
+"8925",10051,"Lockville Hydropower","Brooks Energy, LLC","49753","NC","Chatham",1.2,339,3.22488584474886
+"8948",10075,"Taconite Harbor Energy Center","ALLETE, Inc.","12647","MN","Cook",168,0,0
+"8956",10099,"Pedricktown Cogeneration Company LP","Pedricktown Cogeneration Company LP","50160","NJ","Salem",140.2,46905,3.81915267817013
+"8966",10120,"PInova Inc","PInova Inc","8486","GA","Glynn",7.1,0,0
+"8967",10121,"High Shoals Hydro (GA)","High Shoals Hydro","8596","GA","Morgan",1.4,0,0
+"8996",10156,"Fresno Cogen Partners","Wellhead Energy, LLC","20323","CA","Fresno",82.6,5887,0.813598018729201
+"9000",10167,"Seadrift Coke LP","Seadrift Coke L P","54705","TX","Calhoun",7.6,2791,4.1922013938957
+"9001",10169,"Carson Cogeneration","Carson Cogeneration Co","3084","CA","Los Angeles",55.8,0,0
+"9009",10176,"M Street Jet","Massachusetts Bay Trans Auth","11724","MA","Suffolk",69,635,0.10505591952882
+"9072",10215,"Snowbird Power Plant","Snowbird Corporation","20712","UT","Salt Lake",1.8,15,0.0951293759512938
+"9082",10222,"Tulare Success Power Project","Lower Tule River Irrgtn Dist","11278","CA","Tulare",1.4,490,3.99543378995434
+"9094",10238,"Dolgeville Hydro","EONY Generation Limited","60023","NY","Herkimer",5,1217,2.77853881278539
+"9135",10280,"Central Plant","Bob Jones University","1947","SC","GREENVILLE",4.1,0,0
+"9162",10307,"Bellingham Cogeneration Facility","Northeast Energy Associates LP","21970","MA","Norfolk",386.1,128416,3.79677822600197
+"9206",10377,"James River Genco LLC","City Point Energy Center","61138","VA","Hopewell City",114.8,44177,4.39288896313621
+"9212",10384,"Edgecombe Genco LLC","Edgecombe Operating Services LLC","55739","NC","Edgecombe",114.8,9082,0.903099295180819
+"9227",10405,"Kingsburg Cogen","KES Kingsburg LP","10337","CA","Fresno",36.2,4964,1.56537753222836
+"9229",10408,"Clark University","Clark University","3692","MA","Worcester",2,0,0
+"9240",10421,"Dillon Hydro Plant","Denver City & County of","5068","CO","Summit",1.8,411,2.60654490106545
+"9309",10491,"Mead Rumford Cogen","ND Paper LLC","61813","ME","Oxford",12.5,0,0
+"9327",10501,"Mid-Set Cogeneration","Mid Set Cogeneration Co","12449","CA","Kern",39.1,0,0
+"9388",10553,"Anderson Power Products Division","Anderson Power Products","4385","MA","Worcester",1,6,0.0684931506849315
+"9451",10617,"CH Resources Beaver Falls","Lakeside Beaver Falls LLC","58338","NY","Lewis",107.8,10833,1.1471649681043
+"9453",10620,"Carthage Energy LLC","Carthage Energy LLC","3085","NY","Jefferson",62.9,19942,3.61921147577876
+"9455",10621,"CH Resources Syracuse","Lakeside Syracuse LLC","58337","NY","Onondaga",102.7,32457,3.60772832161769
+"9480",10650,"Badger Creek Limited","WCAC Operating Company","60662","CA","Kern",46,7556,1.87512408179472
+"9530",10700,"Red Shield Envir Old Town Facility","MFGR LLC","56448","ME","Penobscot",28.5,0,0
+"9577",10751,"Camden Plant Holdings LLC","Morris Energy Operations Company, LLC","56516","NJ","Camden",172.9,48694,3.21496576002704
+"9581",10755,"Rifle Generating Station","Tri-State G & T Assn, Inc","30151","CO","Garfield",84,7156,0.972494020439226
+"9596",10764,"Blue Lake Power LLC","Blue Lake Power LLC","56120","CA","Humboldt",13.8,0,0
+"9597",10765,"Indeck Jonesboro Energy Center","Covanta Maine LLC","56402","ME","Washington",27.5,10582,4.39269406392694
+"9617",10795,"Camden South Carolina","Invista","50006","SC","Kershaw",30,2304,0.876712328767123
+"9652",10837,"Covanta Mendota","Covanta Mendota LP","55989","CA","Fresno",28,0,0
+"9655",10840,"Covanta Delano Energy","Covanta Delano Inc","56099","CA","Kern",57,0,0
+"9692",10870,"Hazelton","Hazleton Generation LLC","56214","PA","Luzerne",171.5,5159,0.343397633025813
+"9733",50003,"Chalk Cliff Limited","WCAC Operating Company","60662","CA","Kern",46,15300,3.79690291840381
+"9785",50060,"Brown Station Road Plant I","Prince George's County","15380","MD","Prince Georges",2.7,181,0.765262979874852
+"9800",50074,"Marcus Hook Refinery Cogen","Marcus Hook 50 L.P","60771","PA","Delaware",50.5,54,0.012206700122067
+"9801",50076,"Santa Felicia Dam","United Water Conservation Dist","19532","CA","Ventura",1.3,82,0.720056199508254
+"9831",50094,"Veolia Energy Trenton L.P.","Veolia Energy Trenton L.P","19148","NJ","Mercer",6,777,1.47831050228311
+"9865",50127,"Signal Hill Generating LLC","Signal Hill Generating LLC","54777","TX","Wichita",80,18556,2.64783105022831
+"9873",50131,"Coalinga Cogeneration","Coalinga Cogeneration Co","3852","CA","Fresno",38.4,0,0
+"9883",50137,"Newgulf Cogen","Luminant Generation Company LLC","55983","TX","Wharton",101.9,19800,2.21812951187708
+"9889",50147,"R E Badger Filtration Plant","Santa Fe Irrigation District","16713","CA","San Diego",1.4,0,0
+"9890",50148,"Linde Wilmington","Praxair Inc","15320","CA","Los Angeles",31,0,0
+"9916",50169,"Wichita Plant","Occidental Chemical Corporation","13914","KS","Sedgwick",43.7,0,0
+"9983",50228,"Rocky Brook Hydroelectric","Rocky Brook Electric Inc","22614","WA","Jefferson",1.6,546,3.89554794520548
+"9985",50230,"Robbins Lumber","Robbins Lumber Inc","16191","ME","Waldo",3.2,99,0.353167808219178
+"9987",50231,"SDS Lumber Gorge Energy Division","SDS Lumber Co","22803","WA","Klickitat",10,0,0
+"9996",50241,"Tenet Hospital","Tenet Hospital Ltd","27378","TX","El Paso",4.2,13,0.0353337682104805
+"9998",50243,"Bucksport Generation LLC","Bucksport Generation LLC","9303","ME","Hancock",186.8,10221,0.624615001026664
+"10021",50260,"Oakwood Hospital & Medical Center","Oakwood Hospital Med Center","13945","MI","Wayne",5,22,0.0502283105022831
+"10034",50276,"Wintec Energy Ltd","Wintec Energy Ltd","20707","CA","Riverside",5.9,358,0.692670845909759
+"10059",50299,"AltaGas Ripon Energy Inc.","AltaGas Ripon Energy Inc.","60134","CA","San Joaquin",49.5,9868,2.27572528942392
+"10071",50307,"University of Oklahoma","University of Oklahoma","19533","OK","Cleveland",18.6,15,0.00920606864044778
+"10080",50310,"Standby Generation Plant","Pensacola Christian College","14762","FL","Escambia",13.7,93,0.0774922507749225
+"10096",50315,"Chasm Hydro Partnership","Ampersand Chasm Hydro LLC","24979","NY","Franklin",1.6,0,0
+"10099",50318,"Par Sterile Products","JHP Pharmaceuticals LLC","55970","MI","Oakland",2.8,0,0
+"10107",50326,"Nalco","Nalco Co","14293","IL","DuPage",4.7,1800,4.37190323520839
+"10117",50337,"Mooseheart Power House","Moose International","21690","IL","Kane",1.8,0,0
+"10121",50341,"PCS Nitrogen Fertilizer LP","PCS Nitrogen LP","15237","LA","Iberville",14,0,0
+"10132",50359,"Sloss Industries Corp","ERP Compliant Coke, LLC","17330","AL","Jefferson",25,0,0
+"10138",50365,"Ridgewood Providence Power","Rhode Island LFG Genco","56889","RI","Providence",6.4,0,0
+"10158",50371,"The Mosaic Company, Plant City Facility","The Mosaic Company, Plant City Facility","24900","FL","Hillsborough",40.5,0,0
+"10159",50373,"Paxton Creek Cogeneration","NRG Energy Center Paxton LLC","13875","PA","Dauphin",12.6,1263,1.14427049358556
+"10170",50385,"Newark Bay Cogeneration Partnership LP","Newark Bay Cogeneration Partnership LP","55846","NJ","Essex",152,31743,2.38396719538572
+"10288",50456,"Procter & Gamble Cincinnati Plant","Procter & Gamble Co","15400","OH","Hamilton",12.5,5101,4.65844748858447
+"10304",50468,"Rocky Mount Mill","Capitol Broadcasting Company Inc","55876","NC","Nash",1.6,0,0
+"10341",50485,"Altech III","Terra-Gen Operating Co-Wind","2770","CA","Riverside",25.1,9160,4.1659844639706
+"10343",50487,"PPG Powerhouse A","Eagle 2 US LLC","14306","LA","Calcasieu",52.5,0,0
+"10365",50494,"Kern Front Limited","WCAC Operating Company","60662","CA","Kern",49.8,18945,4.34271331902954
+"10384",50535,"Mesa Wind Power Corp","Brookfield Energy Marketing LP","11556","CA","Riverside",29.9,5055,1.92994914555367
+"10390",50540,"BP Carson Refinery","Tesoro Carson Refinery","2696","CA","Los Angeles",13.5,0,0
+"10392",50541,"Harbor Cogen","Harbor Cogeneration Co.","8303","CA","Los Angeles",107.4,0,0
+"10402",50555,"Rosemary Power Station","Virginia Electric & Power Co","19876","NC","Halifax",180,28278,1.79337899543379
+"10477",50623,"Gaviota Oil Plant","Freeport McMoRan Oil & Gas","15174","CA","Santa Barbara",14,0,0
+"10536",50660,"Covanta Tulsa Renewable Energy LLC","Covanta Tulsa Renewable Energy LLC","56316","OK","Tulsa",16.8,7256,4.93041965644705
+"10596",50744,"Sterling Power Plant","Sterling Power Partners LP","14182","NY","Oneida",65.3,25240,4.41237142237792
+"10635",50799,"Parlin Power Plant","Consolidated Edison Energy, Inc.","61536","NJ","Middlesex",135,18283,1.54600033823778
+"10664",50831,"Nove Power Plant","Nove Investments I LLC","13876","CA","Contra Costa",3,619,2.35540334855403
+"10682",50852,"Elmwood Park Power LLC","Morris Energy Operations Company, LLC","56516","NJ","Bergen",89.5,3204,0.408663044310094
+"10688",50864,"Sargent Canyon Cogeneration","Sargent Canyon Cogeneration Co","16636","CA","Monterey",38.2,0,0
+"10692",50876,"Wheelabrator Norwalk Energy","Metropolitan State Hospital","61941","CA","Los Angeles",30.7,0,0
+"10737",50904,"Fox Metro Water Reclamation District","Fox Metro Water Reclamation","6675","IL","Kendall",2.2,0,0
+"10748",50921,"Co-Gen LLC","Co-Generation Co","3770","OR","Grant",7.5,0,0
+"10769",50937,"William Beaumont Hospital","William Beaumont Hospital","20680","MI","Oakland",3.8,0,0
+"10773",50942,"Lagoon Cogeneration Facility","Lagoon Corp","10657","UT","Davis",3,0,0
+"10793",50964,"Amedee Geothermal Venture I","Amedee Gethrm Venture I LP","472","CA","Lassen",3,0,0
+"10796",50966,"Bellmeade Power Station","Virginia Electric & Power Co","19876","VA","Richmond City",330,39792,1.37650477376505
+"10821",50976,"Indiantown Cogeneration LP","Florida Power & Light Co","6452","FL","Martin",395.4,7623,0.220082316502796
+"10831",50990,"Marathon Electric","Marathon Electric Mfg Corp","11637","WI","Marathon",1.8,0,0
+"10833",50993,"Co-Gen II LLC","Co-Gen II","3930","OR","Douglas",7.5,0,0
+"10835",51008,"Enterprise Sugar Factory","M.A. Patout & Son Limited, LLC","11415","LA","Iberia",3,0,0
+"10844",51035,"Hofstra University","Hofstra University","8688","NY","Nassau",2.2,0,0
+"10853",52007,"Mecklenburg Power Station","Virginia Electric & Power Co","19876","VA","Mecklenburg",139.8,57984,4.73474827052345
+"10868",52021,"ITT Cogen Facility","Illinois Institute-Technology","29767","IL","Cook",7.4,111,0.171232876712329
+"10908",52057,"Herkimer","ECOsponsible LLC","60082","NY","Herkimer",1.6,0,0
+"10927",52069,"Point Comfort Operations","Alcoa World Alumina LLC","22337","TX","Calhoun",63.1,0,0
+"10971",52091,"New York Methodist Hospital","New York Methodist Hospital","13484","NY","Kings",4.4,18,0.0466998754669988
+"11088",52186,"Yuba City Cogen Partners","Wellhead Energy, LLC","20323","CA","Sutter",49,10599,2.46924797316187
+"11106",54017,"San Gabriel Hydro Project","Los Angeles County-San Gabriel","11295","CA","Los Angeles",5,0,0
+"11108",54034,"Rensselaer Cogen","Rensselaer Generating LLC","6838","NY","Rensselaer",88.2,4227,0.547090982511726
+"11110",54038,"Geo East Mesa II","Ormat Nevada Inc","34691","CA","Imperial",21.6,0,0
+"11125",54056,"Pawtucket Power Associates","Pawtucket Power Associates LP","14584","RI","Providence",68.8,10469,1.73705134331528
+"11131",54081,"Spruance Genco LLC","Veolia Energy Operating Service","61854","VA","Richmond City",229.6,38985,1.93830246766264
+"11197",54131,"Fortistar North Tonawanda","North American Energy Services","50136","NY","Niagara",65.7,24116,4.19021010126283
+"11241",54203,"Mississippi Baptist Medical Center","Mississippi Baptist Medical","12704","MS","Hinds",4.2,0,0
+"11245",54210,"American Crystal Sugar Hillsboro","American Crystal Sugar Co","491","ND","Traill",13.3,0,0
+"11246",54211,"American Crystal Sugar Moorhead","American Crystal Sugar Co","491","MN","Clay",5,0,0
+"11248",54212,"American Crystal Sugar Crookston","American Crystal Sugar Co","491","MN","Polk",6.5,0,0
+"11250",54213,"American Crystal Sugar Drayton","American Crystal Sugar Co","491","ND","Pembina",6,0,0
+"11251",54214,"American Crystal Sugar East Grand Forks","American Crystal Sugar Co","491","MN","Polk",7.5,0,0
+"11278",54239,"Naval Submarine Base Kings Bay","Kings Bay Naval Base","10339","GA","Camden",30,4375,1.66476407914764
+"11315",54283,"Lee Creek Water Treatment Facility","Fort Smith City of","31518","AR","Crawford",1.3,0,0
+"11318",54290,"Inforum","DCII-250 Williams Street NW, LLC","61186","GA","Fulton",1.3,0,0
+"11319",54294,"West Group Data Center","Thomson Corp","18981","MN","Dakota",8,272,0.388127853881279
+"11342",54316,"Archer Daniels Midland Southport","Archer Daniels Midland Co","772","NC","Brunswick",52.5,2747,0.597303761687323
+"11355",54323,"CNN Center","Turner Properties Inc","18452","GA","Fulton",13,92,0.0807867931155602
+"11371",54338,"Rio Grande Valley Sugar Growers","Rio Grande Valley Sugar Growers, Inc.","16098","TX","Hidalgo",24.9,2386,1.09387320973391
+"11386",54347,"Howard F Curren Advncd Wastewater Plant","Tampa Wastewater Department","18483","FL","Hillsborough",2.5,0,0
+"11405",54360,"Fuyao Glass Illinois Inc.","Fuyao Glass Illinois, Inc","60194","IL","Macon",4.7,0,0
+"11408",54363,"Shelby, NC","Electric Glass Fiber America, LLC.","50035","NC","Cleveland",4.2,0,0
+"11412",54364,"Works 4","Vitro Architectural Glass","60538","TX","Wichita",4.9,116,0.270245084335104
+"11418",54372,"University of Colorado","University of Colorado","22208","CO","Boulder",33,861,0.297841427978414
+"11439",54406,"Capitol Heat and Power","State of Wisconsin","18028","WI","Dane",2,0,0
+"11441",54407,"Waupun Correctional Central Heating Plt","State of Wisconsin","18028","WI","Dodge",4.3,0,0
+"11445",54408,"UW Madison Charter Street Plant","State of Wisconsin","18028","WI","Dane",11,0,0
+"11451",54414,"John Deere Dubuque Works","John Deere Dubuque Works","9765","IA","Dubuque",9,27,0.0342465753424658
+"11489",54453,"EDF Renewable Windfarm V Inc","EDF Renewable Asset Holdings, Inc.","57170","CA","Solano",15.5,3484,2.56591545146561
+"11491",54457,"Hewlett Packard Enterprise","Hewlett-Packard Company","4119","GA","Fulton",8,0,0
+"11512",54477,"Oroville Cogeneration LP","Oroville Cogeneration LP","14173","CA","Butte",7.7,156,0.231275573741327
+"11522",54513,"WestRock (IL)","WestRock (IL)","30038","IL","Kane",2.9,26,0.102346087230357
+"11527",54515,"Crotched Mountain Rehabilitation Center","Crotched Mt Rehab Ctr Inc","4566","NH","Hillsborough",2.1,53,0.288106110023918
+"11539",54523,"Hoffer Plastics","Hoffer Plastics","8705","IL","Kane",7.2,1647,2.61130136986301
+"11553",54526,"ReEnergy Lyonsdale Biomass","ReEnergy Biomass LLC","57431","NY","Lewis",21.1,0,0
+"11555",54531,"Stingray Facility","Targa Midstream Services LP","5499","LA","Cameron",2.5,10,0.045662100456621
+"11579",54540,"Charter Dura-Bar","Wells Manufacturing Co","20328","IL","McHenry",6,0,0
+"11616",54564,"General Mills Inc","General Mills Inc","7092","NY","Erie",3.8,1618,4.86061043018505
+"11617",54566,"YKK USA Chestney","YKK USA Inc","21116","GA","Bibb",1.3,0,0
+"11639",54574,"Saranac Facility","Saranac Power Partners LP","16729","NY","Clinton",285.6,70784,2.82925955770436
+"11649",54586,"Tanner Street Generation","Bicent Power","56171","MA","Middlesex",85,36768,4.93795326349718
+"11651",54592,"Massena Energy Facility","Power City Partners LP","15253","NY","St Lawrence",104.1,1690,0.18532408686765
+"11657",54594,"University of Arizona - Biosphere 2","University of Arizona - Biosphere 2","55994","AZ","Pinal",3.1,42,0.154661953159523
+"11666",54607,"University of Texas at Dallas","The University of Texas at Dallas","21622","TX","Collin",3.5,0,0
+"11725",54653,"Kanaka","STS Hydropower, LLC","18194","CA","Butte",1.1,0,0
+"11785",54682,"Difwind Farms Ltd II","Terra-Gen Operating Co-Wind","2770","CA","Riverside",5.5,1398,2.90161892901619
+"11797",54693,"York Generation Company LLC","Morris Energy Operations Company, LLC","56516","PA","York",52.2,3526,0.771094665756924
+"11816",54705,"Toca Plant","Enterprise Products Optg LP","29925","LA","St Bernard",2.8,0,0
+"11820",54710,"Alliant SBD 9205 A Y McDonald","Industrial Energy Applications Inc","361","IA","Dubuque",3.6,15,0.0475646879756469
+"11823",54712,"Alliant SBD 9201 Norplex","Industrial Energy Applications Inc","361","IA","Allamakee",2.1,109,0.592520113068058
+"11825",54714,"Alliant SBD 8501 Aegon LI","Industrial Energy Applications Inc","361","IA","Linn",3.1,0,0
+"11828",54715,"Alliant SBD 9107 JBS USA","Industrial Energy Applications Inc","361","IA","Marshall",11.4,53,0.0530721781623007
+"11835",54716,"Alliant SBD 8602 Marion Sub","Industrial Energy Applications Inc","361","IA","Linn",5.6,21,0.0428082191780822
+"11839",54717,"Alliant SBD 9106 Rockwell CR","Industrial Energy Applications Inc","361","IA","Linn",16,225,0.160530821917808
+"11849",54718,"Alliant SBD 9206 Donaldson","Industrial Energy Applications Inc","361","IA","Howard",1.6,6,0.0428082191780822
+"11850",54719,"Alliant SBD 9203 Profol","American Profol Incorporated","56189","IA","Linn",5.6,222,0.452544031311155
+"11853",54720,"Alliant SBD 8601 Quad Graphics","Industrial Energy Applications Inc","361","IA","Iowa",3.6,0,0
+"11865",54731,"Hendricks Regional Health","Hendricks Regional Health","8453","IN","Hendricks",4.3,26,0.0690241053414039
+"11871",54734,"Freeport McMoRan","Freeport McMoRan Inc","14989","NM","Grant",30.4,0,0
+"11881",54735,"Alliant SBD 9301 Prairie Farms","Industrial Energy Applications Inc","361","IA","Dubuque",2.9,59,0.232246890253503
+"11887",54749,"Goal Line LP","Goal Line LP","22269","CA","San Diego",51.4,18142,4.02919176305456
+"11916",54766,"Boydton Plank Road Cogen Plant","Dinwiddie Power Inc","5178","VA","Dinwiddie",10.2,495,0.553988718775181
+"11951",54769,"NYU Luthern Medical Center","NYU Langone Health","11329","NY","Kings",4.6,38,0.0943021639864999
+"12000",54788,"Evanston Township High School","Evanston Board of Education","6883","IL","Cook",2.4,0,0
+"12021",54803,"Plymouth State College Cogeneration","Plymouth State University","59190","NH","Grafton",2.8,0,0
+"12043",54813,"Shepherd Center","Shepherd Center","17069","GA","Fulton",1.7,0,0
+"12050",54818,"191 Peachtree Tower","Banyan St./GAP 191 Peachtree Owner, LLC","21260","GA","Fulton",2.4,0,0
+"12052",54823,"Smithfield Farmland Corp Bladen","Smithfield Fresh Meats Corp.","17449","NC","Bladen",28.5,356,0.142593927741729
+"12075",54830,"Emory Decatur Hospital","DeKalb Regional Health System","50109","GA","DeKalb",3.9,21,0.0614682121531437
+"12081",54834,"Fort Greely Power Plant","Doyon Utilities - Fort Greely","19272","AK","Southeast Fairbanks",7.4,70,0.107984697025793
+"12086",54839,"Valdosta Water Treatment Plant","Valdosta City of","19726","GA","Lowndes",3.4,0,0
+"12096",54845,"Sun Trust Plaza","Sun Trust Plaza Associates LLC","18166","GA","Fulton",2.4,64,0.30441400304414
+"12098",54848,"South Georgia Medical Center","Lowndes County Hospital Authority","11284","GA","Lowndes",5.5,0,0
+"12102",54850,"Cox Waste to Energy","Cox Interior Inc","4413","KY","Taylor",5,2125,4.85159817351598
+"12108",54854,"Sun Peak Generating Station","Nevada Power Co","13407","NV","Clark",222,31152,1.60187584845119
+"12112",54858,"Southwestern Bell Telephone","Southwestern Bell Telephone Co","22035","MO","St Louis City",17.2,24,0.0159286396941701
+"12120",54863,"Bassett Medical Center","Bassett Healthcare","1362","NY","Otsego",5.6,39,0.0795009784735812
+"12129",54877,"Atlanta Gift Mart LP","Atlanta Gift Mart LP","876","GA","Fulton",1.2,0,0
+"12133",54880,"Kamin LLC Wrens Plant","Kamin LLC","56024","GA","Jefferson",6,504,0.958904109589041
+"12136",54882,"CenturyLink Regional HQ","CenturyLink Regional HQ","17795","NC","Franklin",2,0,0
+"12141",54886,"Presence Saint Mary of Nazareth Hospital","Presence Health","15917","IL","Cook",4.2,0,0
+"12146",54887,"DSM Pharmaceuticals","Patheon Manufacturing Service LLC","59895","NC","Pitt",9.2,1081,1.34132420091324
+"12184",54906,"Georgia Pacific Center","GP Center Holdings LLC","60564","GA","Fulton",1.4,0,0
+"12187",54908,"Enderlin","Archer Daniels Midland Co","772","ND","Ransom",9.8,1038,1.2091137824993
+"12228",54927,"Grand Isle Gas Plant / Treating Station","Cox Operating LLC","62043","LA","Jefferson",9,0,0
+"12231",54929,"Alliant SBD 9403 Aegon DC","Industrial Energy Applications Inc","361","IA","Linn",4.1,18,0.0501169395255596
+"12243",54936,"Richard J Donovan Correctional Facility","California Dept of Corrections","2806","CA","San Diego",2.6,0,0
+"12255",54950,"Univ of Oregon Central Power Station","University of Oregon","24008","OR","Lane",11,711,0.73785803237858
+"12272",54967,"Alliant SBD 9302 Aegon NP","Industrial Energy Applications Inc","361","IA","Linn",1.2,2,0.0190258751902588
+"12273",54968,"Alliant SBD 9502 Eaton","Industrial Energy Applications Inc","361","IA","Wright",5.4,95,0.200828682563842
+"12297",54981,"Harris Energy Realty","City of Holyoke Gas and Electric Dept.","8776","MA","Hampden",1.3,0,0
+"12301",54985,"Crestwood Dothan","Crestwood Corp","4468","AL","Houston",8.6,773,1.02606987363279
+"12308",54987,"Woodridge Greene Valley Treatment Plant","DuPage County","5483","IL","DuPage",1.5,0,0
+"12323",55002,"Murphy-Brown LLC","Murphy - Brown LLC","13124","NC","Duplin",2.4,106,0.504185692541857
+"12325",55004,"Thornwood High School","Thorton Township School Dist","18850","IL","Cook",1.4,0,0
+"12327",55005,"Thornridge High School","Thorton Township School Dist","18850","IL","Cook",1,0,0
+"12400",55061,"Tenaska Georgia Generation Facility","Tenaska Georgia Partners LP","18535","GA","Heard",1099.2,92227,0.957805344526198
+"12422",55067,"MPEA Energy Center","Metropolitan Pier and Exposition Auth","54704","IL","Cook",6,0,0
+"12425",55068,"Maine Independence Station","Casco Bay Energy Co LLC","4966","ME","Penobscot",550.2,234887,4.87342502269826
+"12482",55099,"NRG Sterlington Power","NRG Sterlington Power LLC","13886","LA","Ouachita",208.5,1542,0.0844256101967741
+"12493",55101,"Kalamazoo River Generating Station","CMS Generation MI Power LLC","3838","MI","Kalamazoo",77.4,10176,1.50083182896181
+"12494",55102,"Livingston Generating Station","CMS Generation MI Power LLC","3838","MI","Otsego",170.1,5011,0.336291571705067
+"12507",55109,"Rocky Road Power LLC","Rocky Road Power LLC","16197","IL","Kane",415.5,38122,1.04737099495024
+"12519",55111,"Vermillion Energy Facility","Duke Energy Ohio Inc","3542","IN","Vermillion",692,243197,4.01188072425898
+"12569",55133,"Thomson Reuters Campus Bldg A-D","Thomson Corp","18981","MN","Dakota",14,181,0.147586431833007
+"12582",55138,"Walton Discover Power Facility","Walton Discover LLC","60492","AL","LEE",103,14624,1.62078290552822
+"12611",55152,"Bank of America Plaza","BF ATL Realty Services LLC","3790","GA","Fulton",3,0,0
+"12638",55164,"Bluegrass Generating Station","East Kentucky Power Coop, Inc","5580","KY","Oldham",624,111766,2.04465958318698
+"12668",55177,"South Point Energy Center","South Point Energy Center LLC","50157","AZ","Mohave",708,261151,4.21070028119599
+"12690",55188,"Cordova Energy","Cordova Energy Co LLC","4210","IL","Rock Island",611.2,79066,1.47673414377585
+"12712",55199,"Elwood Energy LLC","Elwood Energy LLC","5259","IL","Will",1728,356318,2.35391034584813
+"12724",55201,"Gibson City Energy Center LLC","Mainline Generation LLC","59371","IL","Ford",270,79562,3.36385929308304
+"12726",55202,"Pinckneyville","Union Electric Co - (MO)","19436","IL","Perry",380,146519,4.40155611631819
+"12735",55204,"Kinmundy","Union Electric Co - (MO)","19436","IL","Marion",270,12083,0.51086588871977
+"12740",55207,"Valmont Combustion Turbine Project","SWG Colorado LLC","1415","CO","Boulder",142.2,0,0
+"12777",55222,"Lincoln Generating Facility","Lincoln Generating Facility LLC","50094","IL","Will",692,17574,0.289908147913532
+"12787",55224,"Wheatland Generating Facility","Duke Energy Indiana, LLC","15470","IN","Knox",500.4,191791,4.37528972255985
+"12828",55233,"Handsome Lake Energy LLC","Handsome Lake Energy LLC","8027","PA","Venango",294.5,85765,3.32445674504423
+"12833",55234,"Audrain Generating Station","Union Electric Co - (MO)","19436","MO","Audrain",814.4,50473,0.707485018524998
+"12841",55236,"Lee Energy Facility","Lee County Generating Station","59921","IL","Lee",692,86087,1.42012761633278
+"12849",55237,"Energy Shelby County","Shelby County Energy Center, LLC","60168","IL","Shelby",483,183323,4.33277082919727
+"12867",55243,"Astoria Gas Turbines","NRG Astoria Gas Turbine Operations Inc","13582","NY","Queens",526.6,39732,0.861302020196765
+"12880",55244,"Doyle Energy Facility","Oglethorpe Power Corporation","13994","GA","Walton",409,62756,1.75157137912941
+"12887",55247,"Darby Power, LLC","Darby Power, LLC","61134","OH","Pickaway",564,108651,2.19912804818809
+"12906",55253,"Crete Energy Venture LLC","Crete Energy Venture LLC","50166","IL","Will",356,82634,2.64974860191883
+"12913",55262,"Bowling Green Generating Station","American Mun Power-Ohio, Inc","40577","OH","Wood",49.5,3592,0.828375074950417
+"12915",55263,"Galion Generating Station","American Mun Power-Ohio, Inc","40577","OH","Crawford",49.5,2483,0.572621189059545
+"12917",55264,"Napoleon Peaking Station","American Mun Power-Ohio, Inc","40577","OH","Henry",49.5,3389,0.781559891148932
+"12943",55274,"State Farm Support Center East","State Farm Mutual Auto Ins Co","18016","GA","Fulton",10.8,67,0.0708185354304076
+"12949",55276,"Ceredo Generating Station","Appalachian Power Co","733","WV","Wayne",519,154586,3.40015484642929
+"12955",55278,"Beaver Creek Gas Plant","Devon Energy Production Co","5199","WY","Fremont",5.9,0,0
+"12968",55281,"Southeast Chicago Energy Project","Exelon Power","6035","IL","Cook",407.2,58790,1.64813045545478
+"12988",55285,"Wolf Hills Energy","Middle River Power II, LLC","60432","VA","Washington",285,109393,4.38167908355363
+"12993",55286,"Oleander Power Project LP","Oleander Holdings LLC ","61905","FL","Brevard",994.4,124240,1.4262518505457
+"13018",55296,"Calumet Energy Team LLC","IPA Operations Inc - Calumet","56213","IL","Cook",312.8,14791,0.539792301673498
+"13036",55304,"Baconton Power Plant","Baconton Power LLC","2671","GA","Mitchell",242,67566,3.18719574323559
+"13059",55319,"Athens Regional Medical Center","Athens Regional Medical Center","38021","GA","Clarke",4.6,0,0
+"13081",55332,"Washington County Power LLC","SEPG Operating Services, LLC WCP","59416","GA","Washington",795.6,111702,1.60273628243008
+"13134",55365,"Exelon LaPorte Generating Station","LaPorte Power, LLC","62027","TX","Harris",236,50643,2.44964592523798
+"13144",55372,"Harquahala Generating Project","New Harquahala Generating Co, LLC","32790","AZ","Maricopa",1325.1,3815,0.0328656164142346
+"13167",55381,"Commonwealth Chesapeake","Commonwealth Chesapeake Co LLC","4194","VA","Accomack",402.5,104503,2.9638673813778
+"13183",55390,"State Farm Insur Support Center Central","State Farm Mutual Auto Ins Co","18050","TX","Dallas",10.8,107,0.113098258075427
+"13198",55395,"Crossroads Energy Center","Clarksdale Public Utilities","3702","MS","Coahoma",306.4,64074,2.38720090131979
+"13230",55409,"Calhoun Energy Center","Calhoun Power Co LLC","34028","AL","Calhoun",748,196584,3.00014650941323
+"13247",55417,"Raccoon Creek Energy Center","Union Electric Co - (MO)","19436","IL","Clay",456,8876,0.22220219498518
+"13260",55433,"Bayou Cove Peaking Power","NRG South CentralOperationsInc","13908","LA","Acadia",416,105134,2.88499956094134
+"13264",55438,"Elgin Energy Center LLC","Elgin Energy Center LLC","61192","IL","Kane",540,233355,4.93309233891426
+"13276",55447,"Columbia Energy Center","City of Columbia - (MO)","4045","MO","Boone",162.8,7817,0.548127517305599
+"13326",55477,"Neil Simpson Gas Turbine #2","Black Hills Power, Inc. d/b/a","19545","WY","Campbell",40,11679,3.33304794520548
+"13327",55478,"Lange Gas Turbines","Black Hills Power, Inc. d/b/a","19545","SD","Pennington",40,9291,2.65154109589041
+"13345",55496,"Goose Creek Energy Center","Union Electric Co - (MO)","19436","IL","Piatt",684,31465,0.525130844615344
+"13351",55499,"CalPeak Power Vaca Dixon Peaker Plant","Calpeak Operating Services, LLC","59527","CA","Solano",60.5,11340,2.1397033850334
+"13368",55504,"Limon Generating Station","Tri-State G & T Assn, Inc","30151","CO","Lincoln",154.2,37685,2.78984477254825
+"13370",55505,"Frank Knutson","Tri-State G & T Assn, Inc","30151","CO","Adams",154.2,39650,2.93531498557883
+"13372",55508,"CalPeak Power Panoche Peaker Plant","Calpeak Operating Services, LLC","59527","CA","Fresno",60.5,14215,2.68217668591268
+"13373",55510,"CalPeak Power Border Peaker Plant","Calpeak Operating Services, LLC","59527","CA","San Diego",60.5,11381,2.14743952601985
+"13374",55512,"Cuyamaca Peak Energy Plant","San Diego Gas & Electric Co","16609","CA","San Diego",48.7,14888,3.48982213346085
+"13375",55513,"CalPeak Power Enterprise Peaker Plant","Calpeak Operating Services, LLC","59527","CA","San Diego",58.9,12241,2.37245234163624
+"13382",55517,"Wallingford Energy","Wallingford Energy LLC","56927","CT","New Haven",350,151654,4.94631441617743
+"13412",55534,"Water Filter Plant #2","City of Morganton - (NC)","12944","NC","Burke",1.8,26,0.164890918315576
+"13414",55540,"Chula Vista Energy Center","Wellhead Energy, LLC","20323","CA","San Diego",44,3070,0.796492320464923
+"13415",55541,"Indigo Energy Facility","Diamond Generating Corporation","49981","CA","Riverside",149.7,33376,2.54512068276584
+"13420",55544,"Klamath Expansion Project","Pacific Klamath Energy Inc","14372","OR","Klamath",117.6,42139,4.09046609511384
+"13467",55600,"Binghamton Cogen","City of Binghamton","61469","NY","Broome",47.7,3544,0.848147190871409
+"13481",55619,"Watchtower Educational Center","Watchtower Bible & Tract Soc-NY","20238","NY","Putnam",2.1,0,0
+"13493",55625,"Creed Energy Center","Creed Energy Center LLC","49971","CA","Solano",47,12968,3.14971339745458
+"13494",55626,"Lambie Energy Center","Gilroy Energy Center LLC","49972","CA","Solano",47,13299,3.2301078402798
+"13495",55627,"Goose Haven Energy Center","Goose Haven Energy Center","49970","CA","Solano",47,12447,3.0231710871466
+"13513",55650,"Plains End","Plains End Operating Services LLC","15142","CO","Jefferson",114,6672,0.668108627733718
+"13558",55672,"AL Sandersville LLC","SEPG Operating Services, LLC ALS","59417","GA","Washington",692,73109,1.20603703117164
+"13585",55698,"Hanford Energy Park Peaker","MRP San Joaquin Energy LLC.","7724","CA","Kings",92.2,15605,1.9320961974663
+"13668",55787,"Shoreham Energy LLC","Shoreham Energy LLC","56853","NY","Suffolk",100,8151,0.930479452054795
+"13683",55807,"Henrietta Peaker","MRP San Joaquin Energy LLC.","7724","CA","Kings",98,32903,3.83270431460255
+"13686",55810,"Gilroy Peaking Energy Center","Calpine Gilroy Cogen LP","3028","CA","Santa Clara",135,25659,2.16971080669711
+"13689",55811,"King City Peaking","Calpine Corp-King City","2865","CA","Monterey",47.3,8584,2.07168853234479
+"13697",55824,"MNDOT Standby Generation","Ziegler Power Systems","21144","MN","Ramsey",2,18,0.102739726027397
+"13704",55836,"Island Street Peaking Plant","WPPI Energy","20858","WI","Outagamie",60.5,12377,2.33537114608098
+"13710",55853,"Inland Empire Energy Center","Inland Empire Energy Ctr LLC","9155","CA","Riverside",819,201502,2.80860945244507
+"13712",55855,"Wolfskill Energy Center","Gilroy Energy Center LLC","49972","CA","Solano",47,9388,2.28019042067424
+"13738",55874,"Panoche Peaker","Wellhead Energy, LLC","20323","CA","Fresno",49.9,11298,2.5846212973893
+"13756",55928,"McMinnville","McMinnville Electric System","12186","TN","Warren",24,986,0.468987823439878
+"13772",55934,"Century Generating Facility","Colton Power LP","4382","CA","San Bernardino",44.8,1266,0.322590508806262
+"13776",55935,"Drews Generating Facility","Colton Power LP","4382","CA","San Bernardino",44.8,777,0.19798801369863
+"13788",55950,"Elk Hills Cogen","California Resources Elk Hills LLC","13989","CA","Kern",46.6,0,0
+"13790",55951,"Agua Mansa Power Plant","E I Colton LLC","5532","CA","San Bernardino",60.5,7862,1.48345220574361
+"13791",55953,"Pretlow","City of Franklin - (VA)","6715","VA","Southampton",3.2,29,0.103453196347032
+"13793",55954,"Downtown","City of Franklin - (VA)","6715","VA","Southampton",3.2,48,0.171232876712329
+"13795",55963,"Riverview Energy Center","Gilroy Energy Center for Riverview","2874","CA","Contra Costa",47,18001,4.37214611872146
+"13813",55972,"Cass County","Omaha Public Power District","14127","NE","Cass",345,116903,3.86814241281186
+"13829",55987,"Stillwater Water Treatment Plant","Stillwater Utilities Authority","18125","OK","Payne",2,0,0
+"13843",55996,"Alliant SBD0201 Ingredion","Industrial Energy Applications Inc","361","IA","Linn",6.1,28,0.0523991316715323
+"13847",55997,"Orchard Park","Borough of Chambersburg","3329","PA","Franklin",24,7029,3.34332191780822
+"13858",56004,"Mount Clinton","City of Harrisonburg - (VA)","8198","VA","Rockingham",24,229,0.108923135464231
+"13864",56005,"Pleasant Valley (VA)","City of Harrisonburg - (VA)","8198","VA","Rockingham",20.5,206,0.11471210602517
+"13873",56015,"Walton Bainbridge Power Facility","Walton Bainbridge LLC","60493","GA","Decatur",80,1036,0.147831050228311
+"13875",56016,"Grimes Way","Washington State University","22040","WA","Whitman",4,339,0.967465753424658
+"13878",56018,"AMEA Peaking","Alabama Municipal Elec Authority","40614","AL","Talladega",98.6,34570,4.00238035696092
+"13880",56022,"Waste Water Plant Generator","City of Winfield - (KS)","20813","KS","Cowley",1.6,0,0
+"13889",56032,"Equus Freeport Power","Equus Power I, L.P.,","49845","NY","Nassau",120,36705,3.49172374429224
+"13891",56035,"Smithfield Packaged Meats Corp.","Smithfield Packaged Meats Corp.","18065","NC","WILSON",2.8,318,1.29647749510763
+"13899",56039,"H. Gonzales","City of Vernon","19798","CA","Los Angeles",11.8,3994,3.86386502592679
+"13909",56050,"Inner Harbor East Heating","Trigen Inner Harbor East, LLC","19198","MD","Baltimore City",2.1,11,0.0597956077408132
+"13912",56053,"Casey City of","City of Casey - (IL)","3153","IL","Clark",5.4,33,0.0697615423642821
+"13918",56055,"Hana Substation","Maui Electric Co Ltd","11843","HI","Maui",2,49,0.279680365296804
+"13930",56070,"Diesel Generators","Madison Gas & Electric Co","11479","WI","Dane",54,577,0.121976999830881
+"13931",56073,"Alliant SBG 9802 Toyota","Industrial Energy Applications Inc","361","IA","Linn",1,8,0.091324200913242
+"13932",56074,"Alliant SBD 9901 Wells Fargo","Industrial Energy Applications Inc","361","IA","Linn",1.1,1,0.0103777501037775
+"13952",56098,"Hillsboro","City of Hillsboro - (ND)","8628","ND","Traill",4,17,0.0485159817351598
+"13955",56100,"St. Charles Power Plant","City of St Charles - (MN)","17862","MN","Winona",8.8,81,0.105074719800747
+"13965",56108,"T J Labbe Electric Generating","Lafayette Utilities System","50111","LA","Lafayette",100.8,17832,2.01946075233746
+"13976",56114,"IMEA Highland","City of Highland","8573","IL","Madison",3.6,0,0
+"13978",56116,"IMEA Flora","Illinois Municipal Elec Agency","9286","IL","Clay",9,50,0.0634195839675292
+"13983",56117,"Flora Site A","City of Flora - (IL)","6417","IL","Clay",5.4,26,0.0549636394385253
+"13986",56118,"Flora Site B","City of Flora - (IL)","6417","IL","Clay",3.6,17,0.0539066463723998
+"14002",56126,"Sub 2 Generating Station","City of Macon - (MO)","11460","MO","Macon",3.6,0,0
+"14005",56128,"Sub 3 Generating Station","City of Macon - (MO)","11460","MO","Macon",7.2,0,0
+"14009",56129,"Thermal Kem","Central Electric Power","59159","SC","York",2.9,28,0.110218863171154
+"14010",56131,"Valenite","Central Electric Power","59159","SC","Oconee",2.9,50,0.196819398519918
+"14011",56132,"Honea Path","Central Electric Power","59159","SC","Abbeville",2.9,49,0.19288301054952
+"14016",56135,"Ripon Generation Station","Modesto Irrigation District","12745","CA","San Joaquin",121,24760,2.33593720517755
+"14018",56138,"Anderson Erickson","MidAmerican Energy Co","12341","IA","Polk",2,8,0.045662100456621
+"14020",56141,"Jamaica Bay Peaking","Jamaica Bay Peaking Facility, LLC","49786","NY","Queens",60.5,9476,1.7879919996981
+"14026",56144,"Springs Generating Station","City of Riverside - (CA)","16088","CA","Riverside",40,465,0.132705479452055
+"14031",56147,"Viking","Alaska Power and Telephone Co","219","AK","Prince of Wales Ketchikan",1,0,0
+"14032",56148,"Ft. Pierre","City of Fort Pierre - (SD)","6615","SD","Stanley",6,33,0.0627853881278539
+"14041",56151,"South Harper","KCP&L Greater Missouri Operations Co","56211","MO","Cass",351,38764,1.26071628354733
+"14047",56160,"Mendota Hills, LLC","Leeward Asset Management, LLC","50123","IL","Lee",76.3,30405,4.54900447045728
+"14061",56181,"Genoa Diesel Generating Station","Village of Genoa - (OH)","7100","OH","Ottawa",6,220,0.418569254185693
+"14065",56184,"Red Bluff","California Power Holdings LLC","55784","CA","Tehama",46.4,13845,3.40620571563533
+"14081",56185,"Chowchilla II","California Power Holdings LLC","55784","CA","Madera",49.6,18429,4.24146597437031
+"14099",56189,"Waterside Power, LLC","Waterside Power, LLC","49840","CT","Fairfield",69.6,1378,0.226014275967039
+"14107",56194,"Dike City Power Plant","City of Dike","5155","IA","Grundy",2.2,8,0.04151100041511
+"14129",56223,"Alden Bailey Power Plant","Clatskanie Peoples Util Dist","28541","OR","Clatsop",10.9,0,0
+"14140",56231,"Emory Hillandale Hospital","DeKalb Regional Health System","50109","GA","DeKalb",1.6,4,0.0285388127853881
+"14157",56239,"Malaga Power LLC","Calpeak Operating Services, LLC","59527","CA","Fresno",121,27660,2.60953243518623
+"14160",56241,"Cannon Falls Energy Center","Invenergy Services LLC","49893","MN","Goodhue",346.8,114048,3.75408825899417
+"14162",56242,"Kindred School","Kindred Public School","49991","ND","Cass",2,142,0.810502283105023
+"14163",56244,"State Auto Insurance","State Auto Insurance, Inc.","49989","SD","Grant",1.7,16,0.10744023636852
+"14164",56245,"Stevens Community Medical Center","Stevens Community Medical Center","49993","MN","Stevens",1,31,0.353881278538813
+"14165",56247,"West Group Data Center F","Thomson Corp","18981","MN","Dakota",8,137,0.195490867579909
+"14201",56260,"High Point, Pump Station Rd","North Carolina Mun Power Agny #1","13630","NC","Guilford",3.6,52,0.164890918315576
+"14205",56262,"Gastonia, Tulip Drive","North Carolina Mun Power Agny #1","13630","NC","Gaston",5.4,32,0.0676475562320311
+"14208",56263,"Albemarle Prime Power Park","North Carolina Mun Power Agny #1","13630","NC","Stanly",3.6,78,0.247336377473364
+"14211",56266,"WPPI Hartford DG","WPPI Energy","20858","WI","Washington",1.1,8,0.08302200083022
+"14212",56269,"IBM West","Rochester Public Utilities","16181","MN","Olmsted",3.6,75,0.237823439878234
+"14218",56274,"Valley Queen Cheese","Valley Queen Cheese Factory, Inc.","49988","SD","Grant",4.5,25,0.0634195839675292
+"14239",56283,"Hargis-Hebert Electric Generating","Lafayette Utilities System","50111","LA","Lafayette",100.8,29451,3.33530387040661
+"14241",56284,"Santa Maria EPG","Phillips 66 Company","50045","CA","San Luis Obispo",5.5,1274,2.64425072644251
+"14242",56288,"Salem Water Plant","City of Salem - (VA)","16558","VA","Salem City",2,115,0.656392694063927
+"14243",56289,"Salem Street Dept","City of Salem - (VA)","16558","VA","Salem City",1.8,120,0.76103500761035
+"14285",56313,"Coleman Falls","Holcomb Rock Company","50134","VA","Bedford",1.5,0,0
+"14288",56314,"Holcomb Rock","Holcomb Rock Company","50134","VA","Lynchburg City",1.8,0,0
+"14315",56328,"Harry D Mattison Gas Plant","Southwestern Electric Power Co","17698","AR","Washington",349,48955,1.60128089387814
+"14319",56329,"Campbell Industrial Park","Hawaiian Electric Co Inc","19547","HI","Honolulu",113,34207,3.45567139451247
+"14326",56339,"Albemarle Hospital Unit","North Carolina Mun Power Agny #1","13630","NC","Stanly",1.8,66,0.418569254185693
+"14327",56340,"Cherryville City Hall","North Carolina Mun Power Agny #1","13630","NC","Gaston",1.8,34,0.215626585489599
+"14328",56341,"Lincolnton High School","North Carolina Mun Power Agny #1","13630","NC","Lincoln",1.8,36,0.228310502283105
+"14329",56342,"Maiden Community Center","North Carolina Mun Power Agny #1","13630","NC","Catawba",1.8,41,0.26002029426687
+"14330",56343,"Monroe Middle School","North Carolina Mun Power Agny #1","13630","NC","Union",1.8,41,0.26002029426687
+"14333",56346,"Bear Valley Power Plant","Golden State Water Company","54710","CA","San Bernardino",8.4,56,0.076103500761035
+"14341",56348,"Laverne Diesel Generating Plant","Town of Laverne - (OK)","10777","OK","Harper",4,29,0.0827625570776256
+"14358",56356,"Clearwater Power Plant","City of Riverside - (CA)","16088","CA","Riverside",49,14932,3.4787065511136
+"14367",56363,"Danville New Design Plant","City of Danville - (VA)","4794","VA","Danville City",1.8,0,0
+"14368",56364,"Danville Kentuck Road Plant","City of Danville - (VA)","4794","VA","Pittsylvania",1.8,0,0
+"14369",56365,"Danville Westover Plant","City of Danville - (VA)","4794","VA","Danville City",1.8,126,0.799086757990868
+"14370",56367,"Electric Avenue Facility","Town of Culpeper- (VA)","4619","VA","Culpeper",6.9,120,0.198530871550526
+"14374",56368,"Water Treatment Plant Generators","City of Manassas - (VA)","11560","VA","Prince William",1.8,4,0.0253678335870117
+"14392",56397,"Hunlock Unit 4","Hunlock Energy, LLC","61319","PA","Luzerne",44,6127,1.58961187214612
+"14427",56420,"Renick Run Pumping Station 03-04","City of Columbus - (OH)","4065","OH","Franklin",2.8,1,0.00407697325505545
+"14429",56421,"PS ST-8 Engine No 1","City of Columbus - (OH)","4065","OH","Franklin",2,6,0.0342465753424658
+"14430",56422,"ST-1/1A Engine No 1","City of Columbus - (OH)","4065","OH","Franklin",1.3,2,0.0175623463294696
+"14431",56423,"Dodge Park Engine No 1","City of Columbus - (OH)","4065","OH","Franklin",2,4,0.0228310502283105
+"14481",56462,"Geneva Generation Facility","City of Geneva- (IL)","7096","IL","Kane",29.5,5736,2.21964244253541
+"14516",56472,"Grapeland Peaker","Southern California Edison Co","17609","CA","San Bernardino",59.8,9892,1.88833402055558
+"14520",56475,"Center Peaker","Southern California Edison Co","17609","CA","Los Angeles",59.8,14862,2.83708251248454
+"14527",56480,"Marshfield Utilities Gas Plant","City of Marshfield - (WI)","11740","WI","Wood",60.4,1525,0.288223109256403
+"14539",56489,"Elkins Generating Center","Arkansas Electric Coop Corp","807","AR","Washington",66,5359,0.92690604676906
+"14542",56491,"Dean Drive Area Electric Generators","City of Manassas - (VA)","11560","VA","Manassas City",3.2,49,0.174800228310502
+"14548",56496,"Phillips 66 Billings Refinery","Phillips 66 Billings Refinery","54916","MT","Yellowstone",1.6,0,0
+"14589",56503,"Riley Generating Station","City of Zeeland - (MI)","21158","MI","Ottawa",10,1367,1.56050228310502
+"14594",56504,"Municipal Power Plant","City of Zeeland - (MI)","21158","MI","Ottawa",2,135,0.770547945205479
+"14596",56505,"Jonesboro City Water & Light Plant","City Water and Light Plant","9879","AR","Craighead",224.3,49980,2.54368232369808
+"14609",56513,"Whitemarsh Central Utility Plant","EPP Renewable Energy","57249","PA","Montgomery",1.6,248,1.76940639269406
+"14610",56516,"Plains End II LLC","Plains End Operating Services LLC","15142","CO","Jefferson",117.6,10611,1.03001817165222
+"14624",56517,"West Diesel Generation Unit","City of Pocahontas - (IA)","15180","IA","Pocahontas",4,1,0.00285388127853881
+"14628",56519,"Salem Electric Department","City of Salem - (VA)","16558","VA","Salem City",1.3,77,0.67615033368458
+"14705",56545,"Seneca City of","City of Seneca - (SC)","16921","SC","Oconee",10,1794,2.04794520547945
+"14712",56548,"Drexel Operations Center","North Carolina Mun Power Agny #1","13630","NC","Burke",2.2,21,0.108966376089664
+"14713",56549,"Granite Falls Walmart","North Carolina Mun Power Agny #1","13630","NC","Caldwell",2.2,19,0.0985886259858863
+"14717",56553,"Catawba River Pollution Control","City of Morganton - (NC)","12944","NC","Burke",1.3,4,0.0351246926589392
+"14722",56556,"PPS Power Plant No 1","Paducah Power System","55772","KY","McCracken",120,43932,4.17922374429224
+"14764",56597,"Elm Street Substation Generators","City of Farmington - (MO)","6205","MO","St Francois",8,19,0.0271118721461187
+"14768",56598,"Walton Street Substation","City of Farmington - (MO)","6205","MO","St Francois",6,5,0.00951293759512938
+"14771",56599,"Jefferson Street Substation","City of Farmington - (MO)","6205","MO","St Francois",6,0,0
+"14774",56600,"Overall Road Station","City of Farmington - (MO)","6205","MO","St Francois",8,24,0.0342465753424658
+"14781",56604,"Hardin County Peaking Facility","East Texas Electric Coop, Inc","39347","TX","Hardin",173,45942,3.03151476759838
+"14809",56629,"Waterbury Generation","Engie North America","56201","CT","New Haven",96,18246,2.16966324200913
+"14817",56639,"Midway Peaking LLC","Calpeak Operating Services, LLC","59527","CA","Fresno",139.8,49354,4.03005598343361
+"14851",56674,"Winchester Power Park","Lower Colorado River Authority","11269","TX","Fayette",242,38309,1.80709649420733
+"15156",56690,"Pine Grove","Industrial Power Generating Company LLC","55938","PA","Schuylkill",5.4,951,2.01040081177067
+"15174",56692,"Rockville 1 & 2","Industrial Power Generating Company LLC","55938","VA","Goochland",10.8,619,0.654278707931676
+"15210",56693,"Virginia Beach","Industrial Power Generating Company LLC","55938","VA","Virginia Beach City",10.8,1489,1.57386267546085
+"15277",56750,"Jeffers Wind 20 LLC","NRG Energy Gas & Wind Holdings Inc","59883","MN","Cottonwood",50,12640,2.88584474885845
+"15279",56752,"Mountain Wind Power LLC","NRG Energy Gas & Wind Holdings Inc","59883","WY","Uinta",61,4326,0.809566584325174
+"15280",56753,"Mountain Wind Power II LLC","NRG Energy Gas & Wind Holdings Inc","59883","WY","Uinta",80,5674,0.809646118721461
+"15522",56899,"IRC Generator Facility","Garkane Energy Coop, Inc","6957","AZ","Coconino",3,6,0.0228310502283105
+"15543",56914,"Orange Grove Peaking Facility","Orange Grove Energy LP","56127","CA","San Diego",118,33879,3.27751335035988
+"15563",56932,"Biotech LS 0836","Washington State University","22040","WA","Whitman",1,0,0
+"15572",56937,"Fairbanks Morse Engine","Fairbanks Morse Engine","56175","WI","Rock",1.5,57,0.4337899543379
+"15588",56948,"Coolidge Generation Station","Coolidge Power LLC","56218","AZ","Pinal",726,155334,2.44245065851542
+"15651",56978,"Sears Hydroelectric Plant","City of Rock Island","56268","IL","Rock Island",1.4,229,1.86725375081539
+"15678",56995,"Georgetown LFGTE","South Carolina Public Service Authority","17543","SC","Georgetown",1.1,472,4.89829804898298
+"15679",56996,"Solar Photovoltaic Project #02","Southern California Edison Co","17609","CA","San Bernardino",1,365,4.16666666666667
+"15692",57001,"El Cajon Energy Center","El Cajon Energy LLC","56275","CA","San Diego",49.9,16736,3.82866188999003
+"15788",57034,"Willmar Municipal East Substation","Willmar Municipal Utilities","20737","MN","Kandiyohi",6,83,0.157914764079148
+"15791",57035,"Willmar Municipal SW Substation","Willmar Municipal Utilities","20737","MN","Kandiyohi",6,76,0.144596651445967
+"15822",57053,"Alakanuk","Alaska Village Elec Coop, Inc","221","AK","Wade Hampton",0.8,0,0
+"15867",57068,"GenConn Middletown LLC","GenConn Middletown LLC","56354","CT","Middlesex",242,3162,0.149156571946111
+"15875",57070,"GenConn Devon LLC","GenConn Devon LLC","56352","CT","New Haven",242,10008,0.472093286539115
+"15884",57076,"South Columbus Water Resource Facility","Columbus Water Works","56367","GA","Muscogee",3.6,0,0
+"15909",57103,"Newark America Mill","Newark America","56406","MA","Worcester",6.3,0,0
+"16017",57196,"High Point, POLO","North Carolina Mun Power Agny #1","13630","NC","Guilford",1.8,46,0.291730086250634
+"16032",57207,"Thomson Reuters Data Center Bldg ES101","Thomson Corp","18981","MN","Dakota",1.2,19,0.180745814307458
+"16033",57208,"Thomson Reuters Data Center Bldg H","Thomson Corp","18981","MN","Dakota",8,97,0.138413242009132
+"16095",57230,"Solar Photovoltaic Project #16","Southern California Edison Co","17609","CA","San Bernardino",1.5,356,2.70928462709285
+"16165",57259,"Lubbock Wind Ranch","Lubbock Wind LLC","56629","TX","Lubbock",7.5,0,0
+"16171",57263,"Little Pringle I Wind Farm","DeWind Co.","56627","TX","Hutchinson",10,0,0
+"16172",57264,"Little Pringle II Wind Farm","DeWind Co.","56627","TX","Hutchinson",10,0,0
+"16174",57267,"Marsh Landing Generating Station","Marsh Landing LLC","56635","CA","Contra Costa",828,219407,3.0249349259921
+"16231",57309,"Pacific Cruise Ship Terminals Berth 93","Los Angeles Department of Water & Power","11208","CA","Los Angeles",1.1,26,0.269821502698215
+"16327",57385,"Community Wind North LLC","NRG Energy Gas & Wind Holdings Inc","59883","MN","Lincoln",30,5936,2.25875190258752
+"16375",57419,"RPI Fuel Cell LLC","RP1 Fuel Cell LLC","56748","CA","San Bernardino",3,0,0
+"16376",57420,"UTS SJ1 LLC","UTS SJ1 LLC","56749","CA","Santa Clara",1.5,0,0
+"16465",57470,"Marlboro Mill","Domtar Paper Company Bennettsville","56788","SC","Marlboro",51.4,0,0
+"16511",57505,"Monroe Generating Station","North Carolina Mun Power Agny #1","13630","NC","Union",30,5138,1.95509893455099
+"16522",57516,"KODE Novus I","DeWind Co.","56627","OK","Texas",80,8605,1.22788242009132
+"16523",57517,"DeWind Frisco","DeWind Co.","56627","TX","Hansford",20,0,0
+"16557",57547,"Winona County Wind LLC","Winona County Wind LLC","56874","MN","Winona",1.5,0,0
+"16563",57555,"Pio Pico Energy Center","Pio Pico Energy Center LLC","56895","CA","San Diego",395.4,150057,4.33226973205563
+"16617",57597,"Cana Gas Processing Plant","EnLink Midstream Services, LLC","59366","OK","Canadian",7.5,1026,1.56164383561644
+"16620",57598,"Bridge Street 1 & 2","Connecticut Mun Elec Engy Coop","4180","CT","New London",5.2,507,1.11301369863014
+"16622",57599,"Fort Hill 1, 2, 3 & 4","Connecticut Mun Elec Engy Coop","4180","CT","New London",10.4,915,1.00434668071654
+"16626",57600,"Fishers Island 1","Connecticut Mun Elec Engy Coop","4180","NY","Suffolk",2.6,168,0.737618545837724
+"16627",57601,"Gary Court 1 & 2","Connecticut Mun Elec Engy Coop","4180","CT","New London",5.2,465,1.02081138040042
+"16629",57602,"Jewett City 1","Connecticut Mun Elec Engy Coop","4180","CT","New London",2.6,243,1.06691253951528
+"16630",57603,"LNG 1 & 2","Connecticut Mun Elec Engy Coop","4180","CT","New London",5.2,548,1.20302072356867
+"16632",57604,"Lebanon Pines 1 & 2","Connecticut Mun Elec Engy Coop","4180","CT","New London",5.2,504,1.10642781875659
+"16634",57605,"Water Treatment 1 & 2","Connecticut Mun Elec Engy Coop","4180","CT","New London",5.2,551,1.20960660344222
+"16636",57606,"Eastside WWTP","City Of High Point","56934","NC","Guilford",5.4,228,0.481988838153222
+"16639",57607,"Ward WTP","City Of High Point","56934","NC","Guilford",2,68,0.388127853881279
+"16641",57608,"Westside WWTP","City Of High Point","56934","NC","Davidson",1.8,74,0.469304921359716
+"16649",57624,"Norwich WWTP","City of Norwich - (CT)","13831","CT","New London",2,43,0.245433789954338
+"16654",57629,"Gaston Memorial Hospital","Gastonia City of","56960","NC","Gaston",1.8,22,0.139523084728564
+"16655",57630,"Long Creek Waste Water Plant","Gastonia City of","56960","NC","Gaston",5.1,228,0.51034112275047
+"16661",57636,"Auburn LFG Energy Facility","City of Auburn, New York","60545","NY","Cayuga",2.2,0,0
+"16663",57637,"Union City Wind Turbine","Performance Services","56855","IN","Randolph",1,0,0
+"16664",57638,"Randolph Eastern School Wind Turbine","Performance Services","56855","IN","Randolph",1,0,0
+"16713",57668,"CASD Solar","Carlisle Area School District","56994","PA","Cumberland",1.3,1,0.00878117316473481
+"16735",57685,"Rinehart","Humphrey Realty","59184","FL","Seminole",10,0,0
+"16737",57689,"Norden 1-3","Third Taxing District of Norwalk","57015","CT","Fairfield",6,73,0.138888888888889
+"16742",57692,"DOE Golden NWTC Load Side","DOE National Renewable Energy Laboratory","57017","CO","Jefferson",1.1,0,0
+"16743",57693,"DOE Golden NWTC Turbine Side","DOE National Renewable Energy Laboratory","57017","CO","Jefferson",5.8,83,0.163360100771532
+"16784",57714,"City of Palo Alto","City of Palo Alto","57033","CA","Santa Clara",4.4,31,0.0804275633042756
+"16865",57789,"Peak Power 1 Cogen","Peak Power 1, LLC","57106","NY","New York",6.3,507,0.918677973472494
+"16870",57792,"Foundation IE","Foundation HA Energy Generation, LLC","56930","CA","San Bernardino",1,395,4.50913242009132
+"16943",57854,"North Hollywood","Los Angeles Department of Water & Power","11208","CA","Los Angeles",9,0,0
+"17028",57886,"City West Diesel Plant","Lockhart Power Co","11118","SC","Union",7.2,16,0.0253678335870117
+"17034",57889,"KODE Novus II","DeWind Co.","56627","OK","Texas",40,8605,2.45576484018265
+"17047",57899,"Hurricane City Power","Hurricane City Power","9128","UT","Washington",15.1,4895,3.70059572409205
+"17101",57929,"East Campus Utility Plant","University of Cincinnati","57281","OH","Hamilton",4.8,255,0.606449771689498
+"17104",57930,"Arzon Solar UASTP Solar Power Station","FRB Solar LLC","61055","AZ","Pima",1.9,96,0.576784426820476
+"17127",57949,"MSC Sebewaing","Michigan Sugar Company","57324","MI","Huron",2.5,144,0.657534246575343
+"17129",57950,"MSC Croswell","Michigan Sugar Company","57324","MI","Sanilac",1.3,446,3.91640323147172
+"17143",57966,"Southeast Steam Plant","Veolia Energy","57341","MN","Hennepin",13,321,0.281875658587987
+"17260",58043,"Lilly Technical Center","Eli Lilly and Company","57414","IN","Marion",6,0,0
+"17266",58046,"Works 53","PPG Ind Fiber Glass Prdcts Inc","57422","NC","Davidson",3,13,0.0494672754946728
+"17269",58047,"PPG Monroeville Chemicals Center","PPG Monroeville Chemicals Center","57423","PA","Allegheny",1.1,0,0
+"17272",58049,"Jordache Enterprises Solar","Jordache Enterprises","57420","NJ","Middlesex",1.3,0,0
+"17273",58051,"Vitro Architectural Glass (PA)","Vitro Architectural Glass (PA)","57425","PA","Cumberland",5,56,0.127853881278539
+"17278",58053,"Vitro Flat Glass LLC","Vitro Flat Glass LLC","60608","CA","Fresno",3.3,0,0
+"17298",58069,"PRSI FCC Generator","Pasadena Refining System Inc","57445","TX","Harris",4.7,929,2.25638783639367
+"17319",58085,"PRC-Desoto Intl/PPG Aerospace","PRC-Desoto Intl Corp./PPG","57468","CA","Kern",1.5,0,0
+"17365",58122,"Delano Energy Center","Wellhead Energy, LLC","20323","CA","Tulare",48.5,5455,1.28395236077767
+"17368",58125,"Quay County","Southwestern Public Service Co","17718","NM","Quay",27,169,0.0714527312700829
+"17377",58130,"Blue Mountain Biogas","Blue Mountain Biogas LLC","58081","UT","Beaver",3.2,1382,4.9300799086758
+"17410",58156,"SUNY Old Westbury College","SUNY Old Westbury College","58110","NY","Nassau",1.8,259,1.64256722475901
+"17418",58160,"Williams College - Campus CHP","President & Trustees of Williams College","58109","MA","Berkshire",7,2900,4.72928897586432
+"17426",58163,"Mercy Medical Center","Mercy Medical Center","58133","NY","Nassau",2.6,6,0.0263435194942044
+"17448",58172,"Seaside Heights Power Plant","Seaside Heights Municipal Utility","16864","NJ","Ocean",6,0,0
+"17557",58245,"Northeastern Illinois University Cogen","Northeastern Illinois University","58220","IL","Cook",3.2,33,0.117722602739726
+"17570",58254,"Chatham","City of Lowell - (MI)","11268","MI","Kent",7.3,55,0.0860073809970601
+"17572",58255,"Rubart","Sunflower Electric Power Corp","18315","KS","Grant",120,25606,2.43588280060883
+"17584",58256,"Los Alamos PV Site","Los Alamos County","11204","NM","Los Alamos",2.8,807,3.29011741682975
+"17624",58269,"Bay View Backup Power Facility","COT/Division of Water Reclamation","58240","OH","Lucas",12,1133,1.07781582952816
+"17637",58277,"Paia Hydroelectric Plant","Alexander & Baldwin, Inc.","61262","HI","Maui",1.3,0,0
+"17730",58352,"McKinley Paper Co. - Washington Mill","McKinley Paper Co. - Washington Mill","58341","WA","Clallam",20,0,0
+"17748",58375,"Triton East and West Cogen","Triton College","58361","IL","Cook",3.6,124,0.393201420598681
+"17795",58400,"Central Energy Facility","Clemson University - Main Campus","58384","SC","Pickens",5.5,129,0.26774595267746
+"17901",58469,"HNL Emergency Power Facility","Hawaiian Electric Co Inc","19547","HI","Honolulu",10,604,0.689497716894977
+"17908",58472,"Buena Vista Biomass Power","Buena Vista Biomass LLC","58460","CA","Amador",22.5,0,0
+"18047",58565,"Gettysburg Energy & Nutrient Rec Facility","Gettysburg Energy and Nutrient Rec Facility LLC","58527","PA","Adams",3.3,0,0
+"18056",58575,"Smithfield Packaged Meats Corp.","Smithfield Packaged Meats Corp","58536","NC","Lenoir",9.2,1269,1.57459797498511
+"18079",58591,"POTB Digester","Port of Tillamook Bay","58547","OR","Tillamook",1,0,0
+"18083",58593,"DGS Central Utility Plant","State of CA DGS BPM","58548","CA","Sacramento",3.9,2,0.00585411544315654
+"18087",58595,"Indeck Energy-Alexandria","Indeck Energy-Alexandria, LLC","58550","NH","Grafton",16,0,0
+"18138",58635,"Museum of Science and Industry","Museum of Science and Industry","58583","IL","Cook",1.7,0,0
+"18140",58638,"Orbit Energy Charlotte","Entropy Investment Management, LLC","61249","NC","Mecklenburg",5.2,91,0.199771689497717
+"18223",58694,"Walnut Ridge Wind Farm","BHE Renewables, LLC","59359","IL","Bureau",212,57514,3.0969458085638
+"18366",58825,"MTHS Co-Gen Buildings","Maine Township High School Dist 207","58701","IL","Cook",1.2,0,0
+"18449",58897,"Temple SEGF","Temple University","58767","PA","Philadelphia",16,1109,0.791238584474886
+"18491",58921,"Napoleon Biogas","CH4 Biogas LLC","58383","OH","Henry",2.8,0,0
+"18494",58929,"Melrose 2","Melrose Public Utilities","12286","MN","Stearns",1,4,0.045662100456621
+"18506",58944,"Woodville Renewable Power Project","East Texas Electric Coop, Inc","39347","TX","Tyler",49.9,0,0
+"18542",58978,"Central Valley Ag Power","Central Valley Ag Power LLC","58839","CA","Stanislaus",1.5,389,2.96042617960426
+"18543",58979,"Copenhagen Wind Farm","Copenhagen Wind Farm, LLC","58840","NY","Lewis",79.9,3561,0.508769523548271
+"18572",58996,"St. Olaf StandBy Generators","St. Olaf College","58828","MN","Rice",4.1,18,0.0501169395255596
+"18578",59002,"Carlsbad Energy Center","NRG California Peaker Operations LLC","58847","CA","San Diego",659,132599,2.29694569743835
+"18637",59045,"Jameson Energy Center","Kansas Municipal Energy Agency","10035","KS","Finney",27.6,4700,1.94394811726557
+"18649",59057,"Skillman","Janssen Pharmaceutical Co","57130","NJ","Somerset",2.7,750,3.17097919837646
+"18652",59060,"Waste Water Treatment Plant","City of Pittsfield","58888","MA","Berkshire",1.5,540,4.10958904109589
+"18654",59063,"Stella Wind Farm","E ON Climate Renewables N America LLC","56215","TX","Kenedy",201,53607,3.04453758604239
+"18673",59074,"SC 1 Data Center, Phase 2","Xeres Ventures LLC","58893","CA","Santa Clara",92.7,172,0.0211809095969224
+"18824",59194,"Portable Generator 2","Montana-Dakota Utilities Co","12199","ND","Williams",2,3,0.0171232876712329
+"18825",59195,"Portable Generator 3","Montana-Dakota Utilities Co","12199","ND","Williams",2,3,0.0171232876712329
+"18882",59255,"Osprey Point RES","Hoosier Energy R E C, Inc","9267","IN","Sullivan",13.2,0,0
+"18971",59365,"24 Applegate Solar LLC","Altus Power America Management, LLC","60281","NJ","Mercer",4.9,709,1.65175659304818
+"18986",59379,"Wapsie Valley Creamery Back Up Generator","Wapsie Valley Creamery","59156","IA","Buchanan",1.8,0,0
+"18989",59382,"Paisley Geothermal Generating Plant","Surprise Valley Electrification","18260","OR","Lake",3.7,0,0
+"19025",59415,"Backus Microgrid Project","Connecticut Mun Elec Engy Coop","4180","CT","New London",10.4,962,1.05593607305936
+"19087",59459,"Hickory Ridge Landfill Solar Project","BFI Waste Systems of GA, LLC","59223","GA","DeKalb",1,93,1.06164383561644
+"19108",59473,"Apple Campus 2 PV","Apple, Inc","57369","CA","Santa Clara",14.4,3688,2.92364282090309
+"19154",59520,"Manning PV 1","Ecoplexus, Inc","58970","NC","Alamance",5,432,0.986301369863014
+"19230",59614,"Monterey Diesel Generation Facility","Old Dominion Electric Coop","40229","VA","Highland",6,253,0.481354642313546
+"19288",59660,"Washington City Electric Generation","City of Washington - (UT)","20135","UT","Washington",6,104,0.197869101978691
+"19291",59661,"Tehachapi Energy Storage Project","Southern California Edison Co","17609","CA","Kern",8,0,0
+"19293",59664,"City of West Plains Power Station","City of West Plains - (MO)","20392","MO","Howell",47.4,477,0.114877752731056
+"19298",59669,"Innovative Solar 54","John Laing US Solar Corp.","61694","NC","Lenoir",50,740,0.168949771689498
+"19304",59678,"Innovative Solar 67","John Laing US Solar Corp.","61694","NC","Pender",33.3,222,0.076103500761035
+"19359",59717,"Framingham State University Plant","Framingham State University","59484","MA","Middlesex",3.2,84,0.299657534246575
+"19379",59728,"Substation 20 Plant","City of Orangeburg - (SC)","14164","SC","Orangeburg",2,77,0.439497716894977
+"19425",59772,"KCP&L SmartGrid Innovation Park","Kansas City Power & Light Co","10000","MO","Jackson",1,0,0
+"19439",59779,"Davis Monthan AFB (AZ) West Airfield","SunE DM, LLC","59544","AZ","Pima",12.6,2536,2.29760092773791
+"19457",59792,"Orchard Hills Renewable Energy Station","Hoosier Energy R E C, Inc","9267","IL","Ogle",16.2,247,0.174051524888663
+"19463",59793,"Industrial Plant","Alaska Electric Light&Power Co","213","AK","Juneau",41.7,130,0.035587967981779
+"19536",59847,"Northwest Community Hospital","Northwest Community Hospital","59626","IL","Cook",4.4,916,2.37650477376505
+"19558",59867,"Lockheed Martin Solar System","Lockheed Martin Solar System","59648","FL","Pinellas",1.9,3,0.0180245133381399
+"19576",59903,"New Frontier Wind","Capital Power Corporation","59365","ND","McHenry",100,27453,3.13390410958904
+"19577",59904,"Western Branch High School","Virginia Electric & Power Co","19876","VA","Chesapeake City",1,48,0.547945205479452
+"19578",59905,"Merck","Virginia Electric & Power Co","19876","VA","Rockingham",2.1,152,0.826266579691237
+"19582",59911,"Philip Morris","Virginia Electric & Power Co","19876","VA","Chesterfield",2,69,0.393835616438356
+"19701",60030,"Pecan Solar","Dominion Renewable Energy","58468","NC","Northampton",74.9,21297,3.24588035188471
+"19772",60098,"Onondaga County - Oak Orchard WWTP","Tesla Inc.","60947","NY","Onondaga",2,653,3.72716894977169
+"19774",60100,"Dinuba Energy","Dinuba Energy","59849","CA","Tulare",11.5,0,0
+"19833",60156,"Shelter Solar","Sol Systems","61677","NC","Hoke",5,30,0.0684931506849315
+"19836",60180,"Kathleen Solar","Sol Systems","61677","NC","Wake",5,814,1.85844748858447
+"19858",60209,"HXNAir Solar One","HXNAir Solar One LLC","59978","NC","Halifax",5,299,0.682648401826484
+"19895",60234,"Belle Haven Diesel Generation Facility","Old Dominion Electric Coop","40229","VA","Accomack",4,248,0.707762557077626
+"19897",60235,"Perdue Diesel Generation Facility","Old Dominion Electric Coop","40229","VA","Accomack",4,207,0.590753424657534
+"19899",60236,"Onancock Diesel Generation Facility","Old Dominion Electric Coop","40229","VA","Accomack",4,193,0.550799086757991
+"19920",60250,"Swampy Acres","Kodiak Electric Assn Inc","10433","AK","Kodiak Island",8.4,0,0
+"19943",60264,"Bacliff","PHR Holdings LLC","60048","TX","Galveston",427.2,67451,1.80240773519402
+"19952",60270,"Blue Cloud Wind Energy LLC","Blue Cloud Wind Energy","61974","TX","Bailey",148.4,35818,2.75526468018068
+"19966",60299,"HMV Minster Energy Storage System","Half Moon Ventures, LLC","59209","OH","Auglaize",7,0,0
+"19968",60301,"Holloman Solar Facility","El Paso Electric Co","5701","NM","Otero",5,1975,4.50913242009132
+"20031",60359,"Gastonia Solar Center","Enerparc Inc.","60496","NC","Gaston",4.3,174,0.461930551130933
+"20118",60459,"Port Comfort Power LLC","Peaker Power, LLC","61199","TX","Calhoun",121,47020,4.43601645345107
+"20120",60460,"Chamon Power LLC","Peaker Power, LLC","61199","TX","Harris",121,45857,4.32629533189932
+"20124",60463,"Greene County Meter #1","Tesla Inc.","60947","NY","Greene",1.6,234,1.66952054794521
+"20125",60464,"Tenaska Westmoreland Generating Station","Tenaska Pennsylvania Partners, LLC","60249","PA","Westmoreland",1134,145905,1.46876736488609
+"20130",60468,"Friendswood Energy","Friendswood Energy Genco, LLC","60252","TX","Harris",121.5,23311,2.19018358795122
+"20161",60507,"Broome County","Tesla Inc.","60947","NY","Broome",4,950,2.71118721461187
+"20210",60560,"Millington Solar Farm","SR Millington, LLC","60334","TN","Shelby",53,29,0.00624623072283967
+"20253",60601,"Bay Branch Solar","Sol Systems","61677","NC","Beaufort",5,5,0.0114155251141553
+"20271",60619,"Rush Creek Wind","Public Service Co of Colorado","15466","CO","Elbert",600,194543,3.70135083713851
+"20275",60623,"Brantley Solar","John Laing US Solar Corp.","61694","NC","Nash",50.2,15225,3.46217868253015
+"20276",60624,"Fox Creek Solar","John Laing US Solar Corp.","61694","NC","Franklin",50.2,5665,1.28822609106951
+"20306",60661,"Mira Loma Energy Storage Facility","Southern California Edison Co","17609","CA","San Bernardino",20,0,0
+"20424",60750,"Osawatomie Power Plant South Sub","City of Osawatomie - (KS)","14203","KS","Miami",6,10,0.0190258751902588
+"20427",60751,"Osawatomie Power Plant North Sub","City of Osawatomie - (KS)","14203","KS","Miami",6,0,0
+"20465",60789,"Bluebell Solar","Bluebell Solar, LLC","60476","TX","Sterling",30,7228,2.75038051750381
+"20472",60797,"Lake Forest Hospital","Northwestern Lake Forest Hospital","60481","IL","Lake",3.2,280,0.998858447488584
+"20485",60815,"Hampshire College","Tesla Inc.","60947","MA","Hampshire",4.4,1563,4.05510585305106
+"20491",60818,"Oswego County - Fulton Solar","Tesla Inc.","60947","NY","Oswego",2,0,0
+"20492",60819,"Jefferson-Lewis BOCES Solar","Cypress Creek Renewables","61060","NY","Jefferson",2,518,2.95662100456621
+"20499",60825,"Colgreen North Shore Solar Farm","Sunpin Holdings, LLC","60495","CA","Riverside",74.8,4983,0.760475423045931
+"20501",60831,"Orbit Energy RI","Entropy Investment Management, LLC","61249","RI","Providence",3.2,0,0
+"20539",60868,"Timothy Lake Powerhouse","Portland General Electric Co","15248","OR","Clackamas",1.2,0,0
+"20551",60882,"Carl Friedrich Gauss Solar","Heelstone Energy Holdings, LLC","59462","NC","Halifax",5,612,1.3972602739726
+"20641",60961,"Violet Solar","Violet Solar, LLC","60597","NC","Cabarrus",5,9,0.0205479452054795
+"20653",60974,"Glendale Battery Energy Storage System","City of Glendale - (CA)","7294","CA","Los Angeles",2,90,0.513698630136986
+"20673",60996,"Iron Horse Battery Storage","Iron Horse Battery Storage, LLC","60633","AZ","Pima",12,2783,2.64745053272451
+"20675",61000,"King Mill","Augusta Canal Authority","55810","GA","Richmond",2.2,136,0.70568700705687
+"20684",61006,"SCDA Solar 1","SCDA Solar 1, LLC","60648","CA","Sacramento",7,2339,3.81441617742988
+"20706",61023,"Hollyfield","Virginia Electric & Power Co","19876","VA","King William",17,6017,4.04042438893366
+"20708",61025,"Montefiore - Westchester Square","Montefiore-Westchester Square","60675","NY","Bronx",1,0,0
+"20709",61026,"New York Presbyterian Hospital-168th St","New York Presbyterian Hospital","60676","NY","New York",11.9,35,0.0335750738651625
+"20736",61059,"Novel OYA of Osakis","NRG MN Community LLC","62033","MN","Douglas",5,303,0.691780821917808
+"20737",61060,"Novel - OYA of Mapleton","NRG MN Community LLC","62033","MN","Blue Earth",3.5,1200,3.91389432485323
+"20740",61068,"AES LAWAI SOLAR","AES LAWAI SOLAR, LLC","60691","HI","Kauai",40,0,0
+"20746",61076,"City of Shelby Electric Distribution","City of Shelby - (OH)","17043","OH","Richland",1.8,109,0.691273465246068
+"20749",61080,"Sub 12","City of Tallahassee - (FL)","18445","FL","Leon",18.6,5025,3.08403299455001
+"20767",61104,"Pima Community College - East Campus","Tesla Inc.","60947","AZ","Pima",1.3,0,0
+"20824",61177,"Corvus Community Solar","Corvus Community Solar","60825","MN","Blue Earth",4.5,29,0.0735667174023339
+"20866",61202,"Mount Signal Solar Farm V","CD Arevon USA, Inc.","61230","CA","Imperial",252.3,79767,3.60912481879042
+"20914",61264,"Antelope Expansion 2","Sustainable Power Group, LLC","58661","CA","Los Angeles",105,10259,1.11535116329637
+"20915",61267,"Hurricane Creek Lift Station","Johnson County Rural E M C","9778","IN","Johnson",2,68,0.388127853881279
+"20932",61287,"Sun Farm V, LLC","Greenbacker Renewable Energy Corporation","60025","NC","Perquimans",5,143,0.32648401826484
+"20967",61333,"Oak Hill Solar Array","Southern Indiana Gas & Elec Co","17633","IN","Vanderburgh",2,155,0.884703196347032
+"20968",61334,"Volkman Road Solar Array","Southern Indiana Gas & Elec Co","17633","IN","Vanderburgh",2,195,1.11301369863014
+"20973",61339,"Green Beanworks B PV","Sustainable Power Group, LLC","58661","CA","Los Angeles",3,45,0.171232876712329
+"20992",61362,"NRG Elbow Creek Energy Storage Project","NRG Texas Power LLC","54888","TX","Howard",2,0,0
+"20999",61368,"Midway Solar - TX","D E Shaw & Co., LP","61801","TX","Pecos",182,9399,0.589530332681018
+"21000",61369,"Sweetwater Solar","Sweetwater Solar LLC","61005","WY","Sweetwater",92,824,0.102243398848521
+"21008",61378,"Northern Westchester Hospital","Northern Westchester Hospital","61013","NY","Westchester",5.6,0,0
+"21067",61412,"Latitude Solar Center","Latitude Solar Center, LLC","61976","TN","Hardeman",15,704,0.535768645357687
+"21068",61413,"NYC-HH - CONEY ISLAND HOSPITAL","NYC-HH Coney Island Hospital","61049","NY","Kings",2.8,145,0.59116112198304
+"21071",61414,"NY Times Daily Production Facility","The NY Times Production Facility","61050","NY","Queens",12,192,0.182648401826484
+"21078",61416,"Mount Sinai Hospital","Mount Sinai Hospital","61053","NY","New York",18.7,151,0.0921788391570825
+"21104",61429,"Big George PV CSG","Altus Power America Management, LLC","60281","MA","Plymouth",1,205,2.34018264840183
+"21115",61441,"Denver Braswell PV","IGS ORIX Solar I, LLC","61077","GA","Colquitt",1.4,606,4.9412915851272
+"21117",61444,"Foundation SaIinas Valley State Prison","Foundation CA Fund IX Manager, LLC","61070","CA","Monterey",1.8,767,4.86428209030949
+"21142",61461,"North Smithfield Solar Power 1","North Smithfield Solar Power 1, LLC","61080","RI","Providence",2,0,0
+"21145",61464,"CoreSite Real Estate 2972 Stender, L.P.","CoreSite Real Estate 2972 Stender, L.P.","61078","CA","Santa Clara",12,0,0
+"21159",61473,"Hopewell Valley High School","Hopewell Valley High School","61091","NJ","Mercer",1.9,667,4.00745013217976
+"21161",61474,"CoreSite Real Estate 55 S. Market Street","CoreSite Real Estate 55 S. Market Street, LLC","61088","CA","Santa Clara",8,0,0
+"21165",61475,"CoreSite Real Estate 1656 McCarthy, L.P.","CoreSite Real Estate 1656 McCarthy, L.P.","61089","CA","Santa Clara",5,0,0
+"21170",61476,"CoreSite Real Estate 2901 Coronado, L.P.","CoreSite Real Estate 2901 Coronado, L.P.","61086","CA","Santa Clara",10,0,0
+"21175",61478,"SunE Feely 1 CSG, LLC","Ecoplexus, Inc","58970","MN","Dakota",5,2115,4.82876712328767
+"21180",61482,"CoreSite Real Estate 3032 Coronado, L.P.","CoreSite Real Estate 3032 Coronado, L.P.","61087","CA","Santa Clara",30,0,0
+"21195",61484,"Fox CSG, LLC","Ecoplexus, Inc","58970","MN","Chisago",5,1284,2.93150684931507
+"21219",61493,"Harvest Moon Renewable Energy Company","Harvest Moon Renewable Energy Company LLC","61100","TX","Austin",1.6,450,3.21061643835616
+"21220",61494,"Wright Cuddyer CSG","Minnesota Solar CSG 1, LLC","61101","MN","Wright",4,608,1.7351598173516
+"21262",61526,"Antanavica Solar","Cypress Creek Renewables","61060","MA","Worcester",1,327,3.73287671232877
+"21277",61541,"Town of Rocky Hill","Tesla Inc.","60947","CT","Hartford",3,1152,4.38356164383562
+"21282",61544,"LeSun CSG, LLC","Cypress Creek Renewables","61060","MN","Le Sueur",5,1088,2.48401826484018
+"21284",61547,"WrightSun CSG, LLC","Cypress Creek Renewables","61060","MN","Wright",5,427,0.974885844748859
+"21287",61551,"Good Samaritan Hospital","Good Samaritan Hospital","61152","NY","Rockland",1.9,15,0.0901225666906993
+"21303",61567,"Woodhull Hospital","Woodhull Hospital","61162","NY","Kings",8,21,0.0299657534246575
+"21308",61568,"The Allen Hospital","The Allen Hospital","61164","NY","New York",1,11,0.125570776255708
+"21309",61569,"Mount Sinai Beth Israel","Mount Sinai Beth Israel","61165","NY","New York",4.8,42,0.0998858447488584
+"21323",61575,"Anheuser-Busch Baldwinsville","AES Distributed Energy","61012","NY","Onondaga",2,755,4.30936073059361
+"21330",61582,"Voyager Wind II","Terra-Gen Operating Co-Wind","2770","CA","Kern",128.7,12868,1.14137511397785
+"21331",61583,"Voyager Wind III","Terra-Gen Operating Co-Wind","2770","CA","Kern",43.2,1098,0.290144596651446
+"21332",61584,"Voyager Wind IV","Terra-Gen Operating Co-Wind","2770","CA","Kern",21.6,1572,0.830796549974632
+"21362",61609,"Heartland Divide Wind Project, LLC","Heartland Divide Wind Project, LLC","61214","IA","Audubon",103.5,6136,0.676769682130016
+"21363",61610,"NC 102 Project LLC","NC 102 Project LLC","61209","NC","Cabarrus",74.8,16810,2.56544087124264
+"21375",61625,"West Moore Solar II","Cypress Creek Renewables","61060","TX","Grayson",5,0,0
+"21388",61638,"Turtle Creek Wind Farm LLC","Turtle Creek Wind Farm LLC","61330","IA","Mitchell",200.1,18247,1.0409749463168
+"21414",61654,"Balm Solar","Tampa Electric Co","18454","FL","Hillsborough",74.4,24189,3.71142657239652
+"21421",61665,"Payne Creek Solar","Tampa Electric Co","18454","FL","Polk",70.3,25445,4.13183551251323
+"21425",61669,"Scandia Community Solar Garden","Scandia CSG LLC","61284","MN","Washington",2.5,734,3.35159817351598
+"21427",61671,"Betcher Community Solar Garden","Betcher CSG LLC","61256","MN","Goodhue",1,249,2.84246575342466
+"21438",61679,"Cox Battery Energy Storage","City Utilities of Springfield - (MO)","17833","MO","Greene",1.2,244,2.32115677321157
+"21447",61686,"Johnson 1 Community Solar","Johnson I CSG LLC","61287","MN","Chisago",1,370,4.22374429223744
+"21452",61693,"Buckleberry Solar","Cypress Creek Renewables","61060","NC","Lenoir",52.1,2086,0.457059220501494
+"21454",61695,"Johnson II Community Solar","Johnson II CSG LLC","61309","MN","Chisago",1,194,2.21461187214612
+"21455",61697,"Ivory Solar","Lamesa Solar II, L.L.C.","62080","TX","Dawson",50,12403,2.83173515981735
+"21461",61705,"Arcturus Community Solar","Arcturus Community Solar Garden, LLC","61327","MN","Le Sueur",1,12,0.136986301369863
+"21462",61706,"Auriga Community Solar","Auriga Community Solar Garden, LLC","61328","MN","Murray",1,10,0.114155251141553
+"21463",61708,"Sagitta Community Solar","Sagitta Community Solar Garden, LLC","61333","MN","Chippewa",1,14,0.159817351598174
+"21464",61709,"Libra Community Solar","Libra Community Solar Garden, LLC","61334","MN","Pope",1,5,0.0570776255707763
+"21465",61713,"Leo Community Solar","Leo Community Solar, LLC","61342","MN","Murray",1,10,0.114155251141553
+"21467",61718,"Aerolease","PCS Energy, LLC         ","61348","CA","Los Angeles",1.5,568,4.32267884322679
+"21468",61719,"CJ Solar I, LLC","Lisbon West","61345","NY","St Lawrence",2,538,3.07077625570776
+"21469",61720,"COU Solar I, LLC","Lisbon East","61346","NY","St Lawrence",1.5,529,4.02587519025875
+"21470",61722,"HEBT Irvine 1","Advanced Microgrid Solutions","61344","CA","Orange",5.5,0,0
+"21472",61723,"HEBT Irvine 2","Advanced Microgrid Solutions","61344","CA","Orange",5.8,0,0
+"21479",61729,"Richmond Solar Site 2","Indiana Municipal Power Agency","9234","IN","Wayne",7.5,250,0.380517503805175
+"21480",61730,"MA Solar Storage 1","Origis Energy USA, Inc","58764","MA","Worcester",2.1,821,4.4629267232007
+"21487",61737,"Navy Yard Peaker Station","Philadelphia Authority for Industrial Development","61353","PA","Philadelphia",8,1157,1.6509703196347
+"21492",61739,"Lockheed Martin RMS Syracuse","Lockheed Martin RMS Syracuse","61364","NY","Onondaga",1,0,0
+"21495",61742,"System Control Center","Austin Energy","1015","TX","Travis",5,0,0
+"21501",61750,"Wistaria Ranch Solar","Consolidated Edison Development Inc.","56769","CA","Imperial",106.7,15374,1.6448198978915
+"21502",61751,"Rotor Clip","MERIT SI","61373","NJ","Somerset",2.8,61,0.248695368558382
+"21509",61756,"Meadow Lake Wind Farm VI LLC","Meadow Lake Wind Farm VI LLC","61381","IN","Benton",200.4,48566,2.76649896553924
+"21515",61762,"Sherburne North Project CSG","MN Solar Community, LLC","61383","MN","Sherburne",5,2012,4.59360730593607
+"21522",61775,"Town of Otis Wind Energy Project","Town of Otis","61397","MA","Berkshire",1.5,3,0.0228310502283105
+"21534",61784,"Upstream Wind Energy LLC","Invenergy Services LLC","49893","NE","Antelope",202.5,87706,4.9442471390721
+"21542",61799,"Rensselaer Solar Site 2","Indiana Municipal Power Agency","9234","IN","Jasper",4,161,0.459474885844749
+"21545",61805,"DG AMP Solar Piqua Staunton","DG AMP Solar, LLC","60370","OH","Miami",1.8,491,3.11390157280568
+"21546",61807,"Hamilton Solar Power Plant","Duke Energy Florida, LLC","6455","FL","Hamilton",74.9,817,0.124519145771226
+"21548",61810,"Chisum","Cypress Creek Renewables","61060","TX","Lamar",10,0,0
+"21549",61811,"Titan Solar","Titan Solar, LLC","61436","CO","Arapahoe",50,2399,0.547716894977169
+"21559",61818,"DG AMP Solar Brewster","DG AMP Solar, LLC","60370","OH","Stark",1.9,0,0
+"21581",61836,"Minco Wind IV, LLC","Minco Wind IV, LLC","61458","OK","Canadian",130,44468,3.90481208289427
+"21585",61842,"Sun Farm VI, LLC","Greenbacker Renewable Energy Corporation","60025","NC","Perquimans",5,511,1.16666666666667
+"21590",61850,"Amana Society Service Company","Amana Society Service Co","471","IA","Iowa",21.6,2693,1.42324116353797
+"21612",61867,"Bovine","Cypress Creek Renewables","61060","TX","Austin",10,0,0
+"21613",61868,"Bronson","Cypress Creek Renewables","61060","TX","Fort Bend",10,0,0
+"21615",61871,"Sterling Solar (TX)","Cypress Creek Renewables","61060","TX","Hunt",10,977,1.11529680365297
+"21616",61873,"Yellow Jacket","Cypress Creek Renewables","61060","TX","Bosque",5,473,1.07990867579909
+"21617",61874,"Eddy II","Cypress Creek Renewables","61060","TX","McLennan",10,419,0.478310502283105
+"21621",61881,"Morning View","Cypress Creek Renewables","61060","NC","Randolph",2,0,0
+"21622",61882,"Copperfield","Cypress Creek Renewables","61060","NC","Montgomery",2,0,0
+"21623",61883,"Hopewell Friends","Cypress Creek Renewables","61060","NC","Randolph",1.3,0,0
+"21625",61885,"Staunton","Cypress Creek Renewables","61060","IN","Clay",4,0,0
+"21626",61886,"Bar D","Cypress Creek Renewables","61060","CO","Rio Blanco",4,0,0
+"21629",61890,"NRG Chalk Point CT","NRG Chalk Point CT","61505","MD","Prince Georges",94,346,0.042018847760614
+"21630",61891,"Stryker 22, L.L.C.","Stryker 22, L.L.C.","61506","NJ","Warren",19.8,0,0
+"21639",61899,"Lincoln Ave Solar Project","Agilitas Energy, LLC","61514","NY","Suffolk",2,0,0
+"21640",61900,"Blydenburgh Solar Project","Agilitas Energy, LLC","61514","NY","Suffolk",1.5,0,0
+"21647",61907,"Springfield Solar Project","NJR Clean Energy Ventures Corporation","56990","NJ","Burlington",7.5,1556,2.36834094368341
+"21649",61911,"Ivester Wind Farm","MidAmerican Energy Co","12341","IA","Grundy",90.8,9579,1.20428761088649
+"21652",61913,"Punkin Center Battery Storage","Arizona Public Service Co","803","AZ","Gila",2,0,0
+"21653",61914,"Susquehanna University Solar","WGL Energy Systems, Inc","57081","PA","Snyder",3,812,3.08980213089802
+"21656",61921,"Tahoka Wind","Tahoka Wind, LLC","61527","TX","Lynn",300,45387,1.72705479452055
+"21659",61924,"Cumblerland Land Holdings, LLC","Cumberland Land Holdings, LLC","61528","AL","Limestone",14.7,76,0.0590190414065169
+"21660",61925,"Casa Mesa Wind Energy Center","Casa Mesa Wind, LLC","61531","NM","Quay",51.9,18793,4.13356384335876
+"21662",61926,"Armadillo Flats Wind Project, LLC","Armadillo Flats Wind Project, LLC","61530","OK","Garfield",247.3,30957,1.42899478754106
+"21664",61928,"Saint Albans Solar","Cypress Creek Renewables","61060","VT","Franklin",4.9,337,0.785108563973535
+"21665",61933,"Adams Nielson Solar","Adams Nielson Solar, LLC","61529","WA","Adams",19.2,1207,0.717632229832572
+"21667",61936,"Abbot Solar","Abbot Solar, LLC","61542","SC","Clarendon",2,148,0.844748858447489
+"21668",61939,"Blacktip Solar","Blacktip Solar, LLC","61545","SC","Florence",2,138,0.787671232876712
+"21669",61941,"Bond Solar","Bond Solar, LLC","61547","SC","Clarendon",2,11,0.0627853881278539
+"21670",61942,"Gary Solar","Gary Solar, LLC","61548","SC","Lee",2,0,0
+"21671",61947,"River Solar","River Solar, LLC","61554","SC","Lee",2,97,0.55365296803653
+"21672",61948,"Sapphire Solar","Sapphire Solar, LLC","61555","SC","Florence",2,1,0.00570776255707763
+"21673",61949,"South Solar","South Solar, LLC","61556","SC","Florence",2,113,0.644977168949772
+"21674",61953,"Willis Solar","Willis Solar, LLC","61560","SC","Florence",2,120,0.684931506849315
+"21680",61957,"Pratt Wind, LLC","Pratt Wind, LLC","61537","KS","Pratt",243.5,59378,2.78370041161524
+"21681",61958,"Broadalbin-Perth Solar","AES Distributed Energy","61012","NY","Montgomery",1.5,447,3.40182648401826
+"21682",61959,"Coolidge Solar 1, LLC","Coolidge Solar I, LLC","61540","VT","Windsor",19.6,317,0.18462864597894
+"21683",61960,"Atood II","Cypress Creek Renewables","61060","SC","Spartanburg",2,0,0
+"21684",61961,"Gaston II","Cypress Creek Renewables","61060","SC","Lexington",7.5,0,0
+"21685",61965,"Quakertown Solar Farm, LLC","NJR Clean Energy Ventures Corporation","56990","NJ","Hunterdon",8.8,1195,1.55017642175176
+"21686",61976,"Peony Solar","Peony Solar, LLC","61566","SC","Orangeburg",39,3733,1.09267064746517
+"21688",61978,"Pinesage","Cypress Creek Renewables","61060","NC","Moore",5,0,0
+"21689",61979,"Syncarpha Prinsburg CSG (Ledeboer)","Prinsburg CSG I, LLC","61573","MN","Kandiyohi",1,68,0.776255707762557
+"21690",61980,"Syncarpha Clara City CSG I (Stamer)","Clara City CSG I, LLC","61571","MN","Chippewa",1,63,0.719178082191781
+"21692",61988,"Citrus Ridge Solar","FL Solar 5, LLC","61579","FL","Orange",52,787,0.172769582016157
+"21694",61990,"TAC-Distributed Energy Resource Int.","Ameren Illinois","61576","IL","Champaign",1.5,330,2.51141552511416
+"21698",61993,"Gavilan District College Solar Project","Gavilan District College Solar Project","61872","CA","Santa Clara",1.4,350,2.85388127853881
+"21699",61995,"UC Merced Solar","Solar University, LLC","61591","CA","Merced",5,220,0.502283105022831
+"21701",61997,"USS Big Lake 1 Solar CSG","USS Big Lake 1 LLC","61580","MN","Sherburne",1,43,0.490867579908676
+"21702",61998,"USS Good Solar CSG","USS Good Solar LLC","61581","MN","Chisago",1,34,0.388127853881279
+"21703",61999,"USS Kasch Solar CSG","USS Kasch Solar LLC","61582","MN","Benton",1,67,0.764840182648402
+"21704",62000,"USS Rockpoint Solar CSG","USS Rockpoint Solar LLC","61583","MN","Chisago",1,33,0.376712328767123
+"21705",62001,"The Bank of New York","The Bank of New York","61578","NY","Kings",7.2,17,0.0269533231861999
+"21711",62002,"Brooklyn Hospital Center","Brooklyn Hospital Center","61584","NY","Kings",1.4,8,0.0652315720808871
+"21714",62003,"Saint Catherine of Siena Medical Center","Saint Catherine of Siena Medical Center","61577","NY","Suffolk",2.2,11,0.0570776255707763
+"21720",62018,"Page Solar","Page Solar Farm, LLC","61603","NC","Johnston",1.6,0,0
+"21735",62041,"Cuyahoga County Landfill","IOS II LLC","61620","OH","Cuyahoga",3.7,889,2.74281130445514
+"21737",62044,"USS Solar Dawn CSG","USS Solar Dawn LLC","61630","MN","Chisago",1,37,0.422374429223744
+"21738",62046,"USS Nillie Corn Solar CSG","USS Nillie Corn Solar LLC","61628","MN","Chisago",1,33,0.376712328767123
+"21739",62048,"USS Dubhe Solar CSG","USS Dubhe Solar LLC","61626","MN","Chisago",1,37,0.422374429223744
+"21740",62050,"Kingsbrook Jewish Medical Center","Kingsbrook Jewish Medical Center","61618","NY","Kings",1.7,16,0.10744023636852
+"21743",62051,"St Johns Riverside Hospital","St Johns Riverside Hospital","61619","NY","Westchester",2,27,0.154109589041096
+"21747",62055,"Wareham Solar PV","NSTAR Electric Company","54913","MA","Plymouth",3.3,173,0.598450255984503
+"21748",62056,"Lancaster","AVS Phase 2 LLC","61633","CA","Los Angeles",3,0,0
+"21749",62060,"Hampton MN GRE","SoCore Energy LLC","60520","MN","Dakota",2,0,0
+"21750",62061,"Anoka County MN CONX","SoCore Energy LLC","60520","MN","Anoka",3.4,0,0
+"21751",62062,"Athens MN CONX","SoCore Energy LLC","60520","MN","Isanti",6.6,0,0
+"21752",62076,"Town of Branford","Tesla Inc.","60947","CT","New Haven",1.1,381,3.95392278953923
+"21754",62090,"Sunderland Solar PV","NSTAR Electric Company","54913","MA","Franklin",1.1,163,1.69157326691573
+"21755",62091,"Hatfield Solar PV","NSTAR Electric Company","54913","MA","Hampshire",3.6,819,2.59703196347032
+"21756",62092,"Montague Site 36-Grosolar","NSTAR Electric Company","54913","MA","Franklin",4.1,609,1.69562312061477
+"21757",62093,"East Springfield Solar PV","NSTAR Electric Company","54913","MA","Hampden",1.4,238,1.94063926940639
+"21758",62095,"Quarter Horse Solar","Quarter Horse Farm LLC","61640","NC","Pender",4.5,682,1.7300862506342
+"21759",62096,"Atkinson Solar II","Atkinson Solar II LLC","61639","NC","Duplin",1.9,830,4.98678202355203
+"21760",62097,"Ludlow Site 72 - Conti","NSTAR Electric Company","54913","MA","Hampden",1.9,516,3.10021629416006
+"21761",62098,"Tiller CSG","DG Minnesota CSG, LLC","61187","MN","Sherburne",5,1632,3.72602739726027
+"21762",62099,"Hammer CSG","DG Minnesota CSG, LLC","61187","MN","Sherburne",4.8,859,2.04290334855403
+"21763",62100,"Warrenton I Solar","Warrenton Solar I LLC","61645","NC","Warren",4.9,0,0
+"21766",62104,"Lane Solar","Lane Solar Farm LLC","61642","NC","Wayne",5,2098,4.78995433789954
+"21767",62105,"Monticello Project CSG","DG Minnesota CSG, LLC","61187","MN","Wright",5,120,0.273972602739726
+"21768",62114,"Roseville Solar","Greenskies","61674","CA","Placer",1,0,0
+"21769",62117,"Beloit Memorial Hospital Power Plant","Beloit Memorial Hospital","61967","WI","Rock",3,45,0.171232876712329
+"21771",62119,"University Park Solar","SS PA II PSU LLC","61675","PA","Centre",1.5,32,0.243531202435312
+"21773",62131,"Red Toad 4451 Buffalo Road, LLC","Sol Systems","61677","NC","Johnston",2,396,2.26027397260274
+"21774",62132,"Arbor Hill Wind Farm","MidAmerican Energy Co","12341","IA","Adair",250,55104,2.51616438356164
+"21775",62133,"North English","MidAmerican Energy Co","12341","IA","Poweshiek",200,57556,3.2851598173516
+"21778",62137,"Eichtens II CSG","WGL Energy Systems, Inc","57081","MN","Chisago",1,197,2.24885844748858
+"21779",62138,"Barone CSG","WGL Energy Systems, Inc","57081","MN","McLeod",1,158,1.80365296803653
+"21780",62139,"Huneke II CSG","WGL Energy Systems, Inc","57081","MN","Goodhue",1.1,288,2.98879202988792
+"21781",62140,"Puller Solar","Dominion Renewable Energy","58468","VA","Middlesex",15,3381,2.57305936073059
+"21782",62145,"Minisink Solar 1 LLC","Minisink Solar 1 LLC","61681","NY","Orange",1.8,102,0.646879756468798
+"21783",62146,"Minisink Community Solar 2 LLC","Minisink Solar 2 LLC","61682","NY","Orange",2.8,149,0.607469015003262
+"21784",62149,"Syncarpha Eagle Nest","Syncarpha Eagle Nest I, LLC","61685","NM","Colfax",1,403,4.60045662100457
+"21787",62162,"4710 Hosting","Epic Hosting, LLC","61702","MN","Olmsted",7.5,6,0.0091324200913242
+"21788",62167,"County Home Solar LLC","Radian Generation","61494","NC","Richmond",7.5,2242,3.41248097412481
+"21789",62168,"Church Road Solar LLC","Radian Generation","61494","NC","Harnett",5,2148,4.9041095890411
+"21790",62170,"Ballston Solar LLC","Ballston Solar LLC","61703","OR","Yamhill",2.2,85,0.441054379410544
+"21791",62171,"Labish Solar LLC","Labish Solar LLC","61704","OR","Marion",2.2,115,0.596720630967206
+"21793",62173,"SR Jonesborough","SR Jonesborough II, LLC","61691","TN","Washington",4.4,49,0.127127438771274
+"21794",62174,"Maimonides Medical Center","Maimonides Medical Center","61690","NY","Kings",3.9,22,0.0643952698747219
+"21803",62193,"Winegar CSG","WGL Energy Systems, Inc","57081","MN","Waseca",1,123,1.4041095890411
+"21804",62194,"Bolduan CSG","WGL Energy Systems, Inc","57081","MN","Waseca",1,68,0.776255707762557
+"21805",62195,"Guse CSG","WGL Energy Systems, Inc","57081","MN","Waseca",1,243,2.77397260273973
+"21812",62204,"Red Toad 5840 Buffalo Road, LLC","Sol Systems","61677","NC","Johnston",2,296,1.68949771689498
+"21813",62205,"Nickelson Solar, LLC","Sol Systems","61677","NC","Duplin",5.3,191,0.411389678642199
+"21814",62208,"NIST Solar","Constellation New Energy Inc.","60396","MD","Montgomery",4,0,0
+"21815",62224,"Oak Leaf Solar XXVII LLC","Greenbacker Renewable Energy Corporation","60025","CO","Weld",1.5,0,0
+"21816",62226,"Westminster Renewables, LLC","Westminster Renewables, LLC","61744","MA","Worcester",1.5,394,2.99847792998478
+"21818",62239,"Oak Leaf Solar XXX LLC (CSG)","Greenbacker Renewable Energy Corporation","60025","CO","Alamosa",1.5,0,0
+"21819",62241,"NorWest Energy 9 LLC","Radian Generation","61494","OR","Umatilla",8,1913,2.72973744292237
+"21820",62242,"County of San Diego SBRC","Solar Star California LXIII, LLC","61766","CA","San Diego",1.3,21,0.184404636459431
+"21821",62243,"Oak Leaf Solar XXI (CSG)","Greenbacker Renewable Energy Corporation","60025","CO","Arapahoe",1.5,0,0
+"21822",62244,"Oak Leaf Solar XXXI LLC (CSG)","Greenbacker Renewable Energy Corporation","60025","CO","Mesa",1.5,0,0
+"21823",62245,"Oak Leaf Solar XXV LLC (CSG)","Greenbacker Renewable Energy Corporation","60025","CO","Arapahoe",1.5,0,0
+"21824",62246,"Target Woodland Solar Project","Good Fellow Solar 1 PH1, LLC","61443","CA","Yolo",2.3,101,0.501290450665078
+"21825",62250,"NYC-HH-New Bellevue Hospital","NYC-HH-New Bellevue Hospital","61774","NY","New York",6,238,0.452815829528158
+"21834",62264,"Pittsfield 44 - M&W PV","NSTAR Electric Company","54913","MA","Berkshire",1.2,400,3.80517503805175
+"21835",62265,"Lee Site 31 Solar","NSTAR Electric Company","54913","MA","Berkshire",1.9,418,2.51141552511416
+"21837",62270,"Westchester County Medical Center","Westchester County Medical Center","61802","NY","Westchester",8,46,0.0656392694063927
+"21849",62271,"NYPH-Queens","NYPH-Queens","61800","NY","Queens",4.5,32,0.0811770674784373
+"21854",62272,"Bly Solar Center","GCL New Energy, Inc.","60888","OR","Klamath",8,581,0.829052511415525
+"21855",62274,"Liberty HS Solar Project","Kern Highschool District Solar,LLC","61798","CA","Kern",1.5,71,0.540334855403349
+"21856",62275,"Frontier HS Solar Project","Kern Highschool District Solar,LLC","61798","CA","Kern",1.4,70,0.570776255707762
+"21857",62286,"Xebec 1","AES LA FiT Sun Valley LLC","61811","CA","Los Angeles",1.9,71,0.426580149002644
+"21858",62287,"Francisco St. Solar","AES LA FiT Francisco LLC","61812","CA","Los Angeles",1.2,62,0.589802130898021
+"21859",62291,"Palmer's Creek Wind Farm, LLC","Palmer's Creek Wind Farm, LLC","61815","MN","Chippewa",44.6,3537,0.905307451317649
+"21860",62301,"Richmond NMCA","AES Distributed Energy","61012","RI","Washington",4,0,0
+"21861",62303,"Mattas Farms","AES Distributed Energy","61012","NY","Montgomery",2,137,0.781963470319635
+"21862",62304,"Woodleaf Solar Facility","Duke Energy Carolinas, LLC","5416","NC","Rowan",6,0,0
+"21869",62325,"46 Meadowlands Parkway","Hartz Solar LLC","60268","NJ","Hudson",1.5,462,3.51598173515982
+"21870",62326,"77 Metro Way","Hartz Solar LLC","60268","NJ","Hudson",1,200,2.28310502283105
+"21871",62333,"Polk County Renewables, LLC","Polk County Renewables, LLC","61845","NE","Polk",2.5,461,2.10502283105023
+"21872",62340,"Aulander Holloman Solar, LLC","Aulander Holloman Solar, LLC","61838","NC","Hertford",80,39,0.00556506849315068
+"21874",62366,"NYP-Lower Manhattan Hospital","NYP-Lower Manhattan Hospital","61892","NY","New York",1.5,8,0.060882800608828
+"21875",62368,"BWC Origination 18","BWC Origination 18, LLC","61894","MA","Plymouth",4.8,0,0
+"21876",62369,"BWC Gibbs Brook","BWC Gibbs Brook, LLC","61895","MA","Plymouth",4,0,0
+"21877",62370,"BWC Wareham River","BWC Wareham River, LLC","61896","MA","Plymouth",1,0,0
+"21878",62371,"BWC Harlow Brook","BWC Harlow Brook, LLC","61897","MA","Plymouth",1.5,0,0
+"21879",62372,"BWC Pocasset River","BWC Pocasset River, LLC","61898","MA","Plymouth",1.5,0,0
+"21881",62378,"CFW Solar X LLC - Vaughn","Valta Energy","61980","CA","Los Angeles",1.6,80,0.570776255707762
+"21886",62398,"Albert Einstein College of Medicine","Albert Einstein College of Medicine","61936","NY","Bronx",8.6,47,0.0623871721354996
+"21902",62421,"NYP-Hudson Valley Hospital Center","NYP-Hudson Valley Hospital Center","61947","NY","Westchester",2.3,33,0.163787969029184
+"21906",62423,"Regeneron Pharmaceuticals Inc.","Regeneron Pharmaceuticals Inc.","61948","NY","Westchester",15.4,513,0.38027041451699
+"21925",62442,"Lake Region Community Hybrid, LLC","Lake Region Community Hybrid, LLC","61893","MN","Otter Tail",2,3,0.0171232876712329
+"21947",62458,"Ratkovich Alhambra","Bloom Energy","57128","CA","Los Angeles",1,236,2.69406392694064
+"21954",62503,"Winchendon Landfill Solar","Onyx Asset Services Group","60584","MA","Worcester",2,389,2.2203196347032
+"21955",62539,"HCE Moore I","HCE Moore I, LLC","62041","NC","Moore",2,3,0.0171232876712329
+"21956",62540,"Three Bridge","Three Bridge Farm, LLC","62040","NC","Robeson",2,0,0
+"21957",62549,"Kearsarge Johnstown 1","Kearsarge Johnstown 1 LLC","62052","NY","Fulton",1.5,21,0.159817351598174
+"21959",62551,"Kearsarge SKSC1 LLC","Kearsarge SKSC1 LLC","62054","RI","Washington",3.8,739,2.22001922614756
+"21960",62552,"Kearsarge Uxbridge","Kearsarge Uxbridge LLC","62055","MA","Worcester",1.9,648,3.89329488103821
+"21961",62556,"Kearsarge Johnstown 2","Kearsarge Johnstown 2 LLC","62056","NY","Fulton",2,56,0.319634703196347
+"21963",62558,"Kearsarge SKSC2 LLC","Kearsarge SKSC2 LLC","62058","RI","Washington",3.1,725,2.66975990572986
+"21965",62569,"Knoxville Battery Energy Storage","MidAmerican Energy Co","12341","IA","Marion",1.1,0,0
+"21967",62571,"Disney Prospect","Bloom Energy","57128","CA","Los Angeles",1,0,0
+"21968",62572,"ATT Jericho","Bloom Energy","57128","NY","Suffolk",1,0,0
+"21969",62573,"ATT  Kelvin","Bloom Energy","57128","CA","Orange",1,0,0
+"21971",62575,"FLEX Gibraltar","Bloom Energy","57128","CA","Santa Clara",1,0,0
+"21972",62576,"MER Queens","Bloom Energy","57128","NY","Queens",1.2,0,0
+"21973",62577,"APP Prune A-D","Bloom Energy","57128","CA","Santa Clara",4,0,0
+"21978",62580,"Route 14A CDG Solar North and South LLC","Route 14A CDG Solar North and South, LLC","62071","NY","Ontario",4,0,0
+"21980",62583,"Tanglewood Circle Solar 1 LLC","Tanglewood Circle Solar 1 LLC","62073","MA","Berkshire",5,200,0.45662100456621
+"21998",62625,"West Water Street","City of Taunton","18488","MA","Bristol",10,793,0.905251141552511
+"22002",62628,"APG Old Bayside","Onyx Asset Services Group","60584","MD","Harford",1.7,417,2.80016116035455
+"22003",62629,"APG New Chesapeake","Onyx Asset Services Group","60584","MD","Harford",2.3,313,1.55350406988287
+"22005",62639,"Manchester Community College East","Onyx Asset Services Group","60584","CT","Hartford",1,222,2.53424657534247
+"22006",62640,"Manchester Community College North","Onyx Asset Services Group","60584","CT","Hartford",1,247,2.81963470319635
+"22019",62646,"Washburn Road Solar","SunRaise Investments, LLC","62123","MA","Bristol",1.9,83,0.498678202355203
+"22023",62658,"Cuyahoga Falls 1","City of Cuyahoga Falls - (OH)","4683","OH","Summit",9,300,0.380517503805175
+"22029",62663,"Gilcrest Solar","WGL Energy Systems, Inc","57081","CO","Weld",1.5,231,1.75799086757991
+"22030",62664,"Quincy Solar","WGL Energy Systems, Inc","57081","CO","Arapahoe",1.5,0,0
+"22031",62671,"Equinix Caspian Dr. Fuel Cell","2016 ESA Project Company, LLC","62150","CA","Santa Clara",4.8,0,0
+"22060",62697,"Mission College Blvd. Fuel Cell","2016 ESA Project Company, LLC","62150","CA","Santa Clara",5,0,0
+"22062",62698,"Kaiser East La Palma Ave. Fuel Cell","2016 ESA Project Company, LLC","62150","CA","Orange",1.5,0,0
+"22063",62699,"Kaiser Deer Valley Rd. Fuel Cell","2016 ESA Project Company, LLC","62150","CA","Contra Costa",1.4,0,0
+"22064",62700,"Kaiser Owens Dr. Fuel Cell","2016 ESA Project Company, LLC","62150","CA","Alameda",1,0,0
+"22065",62701,"Kaiser Napa Valley Corporate Dr Fuel Cell","2016 ESA Project Company, LLC","62150","CA","Napa",4.8,0,0
+"22067",62702,"Equinix Great Oaks Blvd. Fuel Cell","2016 ESA Project Company, LLC","62150","CA","Santa Clara",4.5,0,0
+"22069",62703,"Equinix Lundy Ave. Fuel Cell","2016 ESA Project Company, LLC","62150","CA","Santa Clara",3.8,0,0
+"22071",62704,"Equinix Douglas St. Fuel Cell","2016 ESA Project Company, LLC","62150","CA","Los Angeles",1.5,0,0
+"22072",62705,"Equinix Maple Ave. Fuel Cell","2016 ESA Project Company, LLC","62150","CA","Los Angeles",2,0,0
+"22073",62712,"Burlington Coat Factory Solar","DG Northeast Solar II, LLC","62155","NJ","Burlington",2.6,0,0
+"22074",62713,"DSM Nutritional Products Solar","DG Northeast Solar II, LLC","62155","NJ","Warren",10,0,0
+"22086",62777,"Ulster County Solar","Ulster Solar LLC","62684","NY","Ulster",1.4,61,0.497390737116765
+"22089",62784,"Franklin Solar Site","Helios NY I, LLC","62688","NY","Franklin",1.6,13,0.0927511415525114
+"22090",62785,"Malone Solar Site","Helios NY I, LLC","62688","NY","Franklin",1.1,9,0.0933997509339975
+"22091",62805,"Bloomington Solar I","Bloomington Solar I","62703","UT","Washington",2,99,0.565068493150685
